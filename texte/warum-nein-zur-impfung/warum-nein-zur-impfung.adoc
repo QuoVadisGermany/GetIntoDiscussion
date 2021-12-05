@@ -1,0 +1,468 @@
+= Warum verweigere ich die COVID-Impfung?
+// toc-title definition MUST follow document title without blank line!
+:toc-title: Table of contents
+:toc: left
+//:numbered:              // Number all section headers
+:sectnumlevels: 5       // Number up to section level 5
+:toclevels: 2           // Table of content should have only two levels
+
+// configure DE settings for asciidoc
+include::config.adoc[]
+
+
+.https://thecord.ca/noam-chomsky-makes-comments-about-people-who-refuse-to-be-vaccinated-against-covid-19/[Quelle]
+[quote, Noam Chomsky]
+Impfverweigerer sollten den Anstand haben, sich aus der Gemeinschaft zu entfernen. [..] Wie sie an Nahrungsmittel kommen, ist ihr Problem.
+
+include::chapters/01_einleitung.adoc[]
+
+Angesichts immer schärfer Vorwürfe gegen die COVID-Impfverweigerer im öffentlichen Diskurs und der Beobachtung, dass Vertreter dieser Gruppe selten gehört werden (Ausnahmen wie der Auftritt von Frau Wagenknecht bestätigen die Regel), möchte ich hier meine Position begründen. Ziel ist nicht die Bekehrung Anderer, sondern das Werben für Tolleranz gegenüber meiner Haltung.
+
+Ich möchte meine Familie und mich möglichst gesund durch diese schwierige Pandemie-Zeit bringen und verweigere die Impfung, weil ich die Gefahren gegenüber dem Nutzen als größer bewerte.
+
+Der vielfach in wohlmeinender Absicht geäußerte Analogie mit Rauchern, Trinkern, Extremsportlern geht fehl - ich gehe nicht aus Genusssucht oder Abenteuerlust Risiken ein, sondern versuche im Gegenteil sie zu vermeiden.
+
+*Impfverweigerer sind keine Egoisten, sie bewerten eine Sachfrage anders*
+
+Politikern und Medien bringen vor, das Recht auf körperliche Unversehrtheit bedrohe das allgemeine Interesse nach der Aufrechterhaltung des Gesundheitssystems.
+Die Impfverweigerung deuten sie als Egoismus, der zulasten der Gesellschaft ausgelebt werde.
+Das ist falsch!
+Der Schutz der eigenen Gesundheit kann nicht gleichzeitig das allgemeine Gesundheitssystem überlasten.
+
+Der Konflikt zwischen Mainstream und Dissidenten besteht also nicht im Gesundheitsschutz als Zielsetzung, sondern in der unterschiedlichen Risikobewertung der Maßnahmen und insbesondere der Impfstoffe.
+Ich werde diese Bewertung unten ausführlich begründen.
+Auf der Basis dieser Einschätzung ist es mir sogar moralisch geboten, mich nicht an einer in meinen Augen schädlichen Maßnahme zu beteiligen.
+
+Aufklärung und Transparenz wären Mittel, um Vertrauen zu schaffen, wobei der Staat zu akzeptieren hat, dass er nicht jeden überzeugen kann - schließlich sieht sich unsere Gesellschaft als pluralistisch und tolerant.
+Zwang und Zensur führen ggf. zu Unterwerfung, aber eben nicht zu Überzeugung und wer sich erpresst fühlt, der wird das auferlegt Joch bei erster Gelegenheit wieder abwerfen.
+
+Wer diesen Dissenz nicht zu akzeptieren bereit ist, kann gleich jede Mitbestimmung eines Patienten in medizinsichen Fragen streichen und Expertengremien an ihre Stelle setzen.
+
+*Eine nicht verhandelbare Wahrheit, festlegt von Experten ist Ideologie, nicht Wissenschaft*
+
+In den letzten Jahren setzt sich die Vorstellung durch, es gebe eine objektive Wahrheit, die durch Medien und Politik unter Berufung auf (ausgewählte) Wissenschaftler vorgegeben wird.
+Wer sich dieser Wahrheit verweigert, wird zunächst mit geheucheltem Verständnis als "falsch informiert" bezeichnet, wenn er sich als renitent erweist wird er jedoch als Verschwörungstheoretiker lächerlich gemacht, ausgegrenzt und schließlich bekämpft.
+
+Eine argumentative Debatte wird mit pauschalen Argumenten verweigert (unwissenschaftlich, demokratiefeindlich etc.), an dessen Stelle tritt die Diffamierung, moralische Abwertung, schließlich die Verbannung aus dem Diskurs durch Zensur.
+
+Dieser doktrinär-ideologische Wahrheitsbegriff spricht dem Menschenbild einer individualistischen Gesellschaft Hohn.
+Staatlicherseits zu entscheiden, welche Meinungsäußerung als "falsch" delegitmiert wird erinnert an das "Ministerium für Wahrheit" in George Orwells "1984"!
+
+Die demokratische Mehrheit folgt dem medialen Trommelfeuer, ist aber sichtbar nicht der Treiber für die Meinungsbildung.
+Noch im Sommer 2021 hatte die Idee einer Impfpflicht keine Mehrheit, mittlerweile hat sich das Blatt jedoch gewendet.
+Die Meinungsbildung findet von Oben nach Unten statt. Die für diese Beeinflussung verwendeten Methoden sind auch bekannt und beschrieben (Astroturfing, Verschiebung des Overtone-Fensters).
+
+Es drängt sich der Eindruck auf, dass die Bekämpfung von Abweichlern Selbstzweck ist.
+Niemand bekommt Probleme, wenn er seine FF2-Maske unsachgemäß trägt - aber wehe, man setzt sie ab.
+Es handelt sich nicht um eine Methode zum Gesundheitsschutz, sondern um ein Unterwerfungsritual.
+
+*Es ist moralisch geboten, unbequeme Fragen zu stellen*
+
+Von Beginn der Pandemie an ist die offenkundige Frage nach der Güterabwägung zwischen Nutzen und Schaden von Maßnahmen nie gestellt worden.
+Diese Güterabwägung muss Nutzen und Schaden einer Maßnahme ins Verhältnis setzen.
+
+Ich kann nachvollziehen, dass es für einen schwer Kranken, oder jemanden, der einen Angehörigen verloren hat, nur erträglich ist, wenn die Krankheit relativiert wird - wenn man sich aber um diese Abwägung "drückt" riskiert man, dass unkontrolliert an anderer Stelle Schaden entsteht.
+Auch Opfer von Impfschäden haben Anspruch auf Verständnis, und auch Mitmenschen, die "nur" durch Einschränkung ihrer Grundrechte betroffen sind haben einen Anspruch darauf, dass die Maßnahmen auf Verhältnismäßigkeit geprüft werden.
+Die alarmierende Aussage "es sterben Menschen" ist nicht hinreichend.
+
+Ein weiterer Aspekt der Verhälnismässgkeit ist die Wirksamkeit der Maßnahmen.
+Hier vermisse ich, dass wenigstens Nachträglich untersucht wird, was Lockdowns, Maskenmandate und Kontaktbeschränkungen für eine Wirksamkeit hatten.
+
+Die Abwägung zwischen dem einen oder anderem Schaden ist ein Thema der rationalen Ethik und insofern ein philosophisch anspruchsvolles Problem bei dem nicht so klar ist, wie es die Politiker scheinen lassen, was ethisch ist und was nicht.
+
+Ich schildere nun meine Gedanken zu dieser Abwägung.
+Wenn nicht anders gesagt, beziehen sich Zahlen auf Deutschland.
+
+== Welche Fragestellungen sind relevant für die Impfentscheidung?
+
+Es gibt hier 3 Gruppen an Fragestellungen.
+Im Vordergrund sollten die Fragen nach der persönlichen Betroffenheit stehen.
+Nutzt oder schadet mir die Impfung eher?
+Diese bilden die Gruppe der *primären Fragen*.
+Nachrangig sind die *sekundären Fragen* nach der Verantwortung für die Gesellschaft.
+Der Abgleich mit der Realität führt auf eine dritte Gruppe von *Meta-Fragen*, denn die Realität wird großenteils nicht direkt, sondern mittelbar wahrgenommen.
+Wie vertrauenswürdig sind die Mittler - Politiker, Medien, Statistiken?
+
+=== Primäre Fragen
+
+* Wie gefährlich ist Corona für mich und mein persönliches Umfeld?
+
+* Wie wirksam schützt die Impfung vor diesen Gefahren?
+
+* Gibt es Alternativen zur Impfung?
+
+* Welche Gefahr geht von der Impfung aus?
+
+=== Sekundäre Fragen
+
+* Ist das Impfen wirklich ein Beitrag für die Rückkehr zur gesellschaftlichen Normalität?
+
+* Sehe ich vielleicht auch nachteilige Auswirkungen auf die Gesellschaft, die von der Impfkampagne ausgehen? (Stichwort: Schaffung eines Präzedenzfalls für angeordnete Medizinische Maßnahmen / Zwangsimpfung für Kinder)
+
+=== Meta-Fragen
+
+* Wie vertrauenswürdig sind Politiker, Medien?
+
+* Folge ich dem "Narrativ" der einen- oder der anderen Seite?
+
+* Wie sind meine Grundwerte und in welcher Wechselwirkung stehen sie zur Pandemiebekämpfung?
+
+== Hypothesen und Begründungen
+
+Ich werde hier eine Reihe von Hypothesen aufstellen.
+Das sind Aussagen, die wahr oder falsch sein können.
+Zu jeder Hypothese führe ich die Begründungen an, die mich zu der Annahme bringen, dass sie richtig ist.
+Diese Hypothesen bilden dann die Basis für die Beantwortung der oben genannten Fragen.
+
+Nochmal: Die hier getroffenen Aussagen sind kein absolutes Wissen dar, sondern sind Glaubenssätze (in der Philosophie auch Doxa genannt).
+Sie stehen zur Disposition, wenn bessere Argumente kommen.
+Diese Offenheit würde ich mir natürlich idealerweise auch von meinem Opponenten in einem Streit wünschen.
+So könnte man gemäß der Aristotelischen Formel "These und Antithese bilden die Synthese" gemeinsam zu einem inhaltlichen Fortschritt gelangen.
+Leider werden Diskussionen heute meist lediglich mit dem Wunsch geführt Recht zu behalten und das eigene Weltbild bestätigt zu sehen.
+
+=== COVID ist ungefähr so gefährlich wie eine schwere Influenza-Welle
+
+Diese Aussage ruft oft eine sehr emotionale Abwehrreaktion hervor.
+Ich möchte nicht leugnen, dass Meschen leiden und keine Opfer verhöhen.
+
+Allerdings ist dieser Vergleich nötig, um die abstrakten Zahlen von Tausenden von Toten (die selbstverständlich erstmal Angst machen) in etwas Bekanntes einordnen zu können.
+
+==== Übersterblichkeit
+
+===== Es gab 2020 keine Übersterblichkeit
+
+* Das Statistische Bundesamt stellt Daten zur Sterblichkeit bereit, entweder als Grafik aufbereitet, oder in Rohdaten.
+Diese Daten habe ich 2020 fortlaufend beobachtet und keine Übersterblichkeit festgestellt.
+
+* Im November oder Dezember 2020 (ich habe das darmals nicht dokumentiert) wurden rückwirkend die Zahlen ab September angehoben, so dass sich ab diesem Zeitpunkt eine Übersterblichkeit ergeben hat - allerdings nur bezogen auf den Herbst, nicht auf das Gesamtjahr.
+Diese als Datenbereinigung begründete Korrektur passte seinerzeit in das Narrativ der Medien, die Angst vor der zweiten Welle schürten und einen Lockdown herbeischrieben, der ja dann auch kam.
+Natürlich ist es mir nicht möglich, die Berechtigung für diese Korrektur zu prüfen, aber mein Vertrauen in die Zahlen wurde dadurch erschüttert.
+
+* Zwar ist die entsprechende Graphik für 2020 nicht mehr abrufbar, statdessen kann ich auf das Video "https://www.youtube.com/watch?v=nEPiOEkkWzg&t=0s[Die Pandemie in Rohdaten]" verweisen, das in seiner Analyse wesentlich tiefer geht und zu der *Schlussfolgerung gelangt, es habe keine Übersterblichkeit gegeben.* Dieses Video wurde übrigens zunächst als Fehlinformation von YouTube gesperrt und wurde erst auf juristischen Druck wieder freigeschaltet.
+Medienberichte und sogenannte Fakten-Checker haben das Video als unseriös dargestellt, ich empfehle jedem, sich ein eigenes Bild zu machen.
+
+* Einige Wochen später wird diese Einschätzung durch den  https://www.mdr.de/wissen/in-deutschland-keine-uebersterblichkeit-durch-covid-100.html[mdr] geteilt.
+
+===== 2021 beobachten wir eine deutliche Übersterblichkeit
+
+* Die aktuelle Graphik ist unten dargestellt.
+Man sieht, dass im Gegensatz zum Jahr mit Impfung der Verlauf der Sterblichkeit oberhalb derer der Vorjahre verläuft. Das diese Übersterblichkeit durch die gefährlichen Virus-Varianten induziert wird, kann man durch Betrachtung der COVID-Sterbezahlen, die ebenfalls eingezeichnet sind ausschließen.
+
+* Ob diese im Diagramm deutlich sichtbare Übersterblichkeit durch die Impfkampagne verursacht wurde, kann ich nicht beurteilen - ich würde mir hier aber weitere Untersuchungen wünschen.
+
+* Die Linie mit den Punkten (COVID-Tote) is trückläufig, weil geimpfte Intensivpatienten nicht mehr gezählt werden, wenn sie zwar positiv getestet sind, aber an etwas anderem versterben.
+Mit steigerder Impfquote ergibt sich dieser Rückgang automatisch, auch wenn sich sonst NICHTS ändert.
+So kann man mit Statistiken manipulieren.
+Man schaut die Übersterblichkeitsstatistik ja eben deshalb an, weil man solche Effekte nicht sehen möchte.
+
+* Beachtenswert ist auch die grün eingekreiste Erhebung in den Sommermonaten.
+Diese gibt die Übersterblichkeit im August an, denn Kanke oder Hochbetagte versterben verstärkt bei hohen sommerlichen Temperaturen.
+Hier ist dann der Vergleich zur gepunkteten COVID-Linie interessant, denn die ebenfalls eingekreiste Erhebung Anfang des Jahres (also noch fast ohne Impfung) ist nur minimal höher.
+Die 2. Covid-Welle im Winter 20/21, die gleichzeitig den bisherigen Höhepunkt der Pandemie bildete in etwa so ausgeprägt war, wie sommerliche "Hundstage".
+Freilich dauerte sie 2 Monate und nicht 2 Wochen - insofern liegt auch die Opferzahl höher - aber ein Sterbegeschehen das krass ausserhalb des Üblichen lag, gab es in Deutschland selbst Anfang 2021 auf dem Höhepunkt der Pandemie nicht.
+
+.Übersterblichkeitsstatistik des Statistischen Bundesamts abgerufen Mitte November 2021 - Meine Kommentierung in Grün
+image::../images/Destatis-Übersterblichkeit-Highlighted.png[width=80%,align="center"]
+
+*In Summe lässt sich festhalten, dass das Sterbegeschehen im Jahr mit Impfung höher war, als im Jahr Ohne Impfung und das Corona derzeit keinen deutlichen Einfluss mehr auf die Übersterblichkeit hat.*
+
+.Die Graphik der Corona-Toten in Deutschland zeigt den Gesamtverlauf über zwei Jahre. Man sieht das Maximum am Jahreswechsel und den Abfall mit der Schulter im Frühjahr - dies entspricht der Graphik in der Übersterblichketisstatistik.
+image::../images/corona-tote-deutschland.png[width=80%,align="center"]
+
+
+
+==== Altersstruktur der Todesopfer
+
+Die absolute Mehrzahl der Opfer ist hochbetagt.
+Im Verlauf von 2020 wurde das Durschnittsalter von 84,5 Jahren genannt - unten stehende Graphik zeigt, dass mehr als 85% über 70 Jahre alt sind.
+Unter 60-jährige bilden weniger als 5% der Todesfälle.
+
+
+
+.Todesfälle in Zusammenhang mit dem Coronavirus (COVID-19) in Deutschland nach Alter und Geschlecht (Quelle: de.statista.com)
+image::../images/statista-altersstruktur-corona-tote.png[width=80%,align="center"]
+
+==== Todeszahlen
+
+Um einen Vergleichspunkt zu haben, betrachten wir zunächst die Jährlichen Grippe-Toten.
+Wir sehen, dass nur alle paar Jahre eine wirkliche Grippe-Welle auftritt, diese dann aber zwischen 10 und 25 Taunsend Menschenleben kostet. die 25.000 wurde 2018 erneut erreicht (nicht im Scope dieses alten Diagramms), trat in den letzten 30 Jahren also 2x auf.
+
+.Die Alle paar Jahre auftretenden Grippewellen können in Deutschland zwischen 10-25 Tausend Tote kosten. Nicht im Scope dieser Darstellung ist die Saison 2018/19 mit ca. 25.000 Toten. Es handelt sich um Schätzzahlen des RKI, die durch Testungen bestätigten Fallzahlen bilden nur einen Bruchteil ab.
+image::../images/grippe-tote-pro-jahr-historie.png[width=80%,align="center"]
+
+
+Nach sogut wie 2 Jahren Corona nennt Google ca. 100.000 Corona-Tote in Deutschland - das sind also 50.000 pro Jahr.
+
+*An oder Mit Corona gestorben?*
+
+Leider wurde bei der Zählung der Corona-Toten nie ein Unterschied zwischen Patienten gemacht, die AN Corona gestorben sind und Patienten, die MIT Corona gestorben sind.
+Diese 2020 viel disskutierte Auslassung wurde damit begründet, dass die Abgrenzung im Einzelfall nicht möglich sei. ein 2021 jedoch wird bei geimpften Patienten, die Covid-Positiv versterben sehr wohl unterschieden.
+Als Impfdurchbruch wird der Sterbefall nur dann gewertet, wenn eine Erkrankung mit einschlägiger Symptomatik zum Tod führte.
+
+Ich bin auch bei Betrachtung der Übersterblichkeit und des Sterbealters (s.o.) überzeugt, dass ein Großteil der Opfer auch ohne Corona nicht mehr leben würde.
+Es ist sicher 2020 kein Patient in eine Intensivstation aufgenommen worden, ohne auf Corona getestet zu werden und aus statistischen Gründen ist natürlich anzunehmen, dass auch Opfer des "normalen" Sterbegeschehens mit der in der in der Bevölkerung üblichen Rate infiziert und ggf. auch symptomlos sind.
+Es ist unstrittig, dass diese Patienten bei Tod als Corona-Tote gezählt wurden.
+Umgekehrt sehe ich hingegen keine Möglichkeit einer Dunkelziffer, da 2020 sicher kein Patient ohne Corona-Test in ein Krankenhaus kam.
+Leider kann ich diese mir logisch erscheinenden Schlüsse nicht belegen.
+
+Die Wissenschaft beziffert das Verhältnis zwischen https://www.welt.de/wissenschaft/article214363586/Covid-19-Tote-in-Deutschland-86-sterben-nicht-mit-sondern-an-Corona.html[85%] und https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html[20%], so dass hier festzuhalten bleibt, dass eine große Unsicherheit bezüglich der Zahl der AN Corona verstorbenen Patienten herrscht. nimmt man an, dass 50% und damit 25.000 Tote pro Jahr echte Corona-Tote waren, so entspricht Corona eben einer starken Grippewelle.
+In meinen Augen ist die 50%-Einschätzung bereits eine Worst-Case-Annahme
+
+Wenn wirklich jemand der Ansicht ist, bei mehr als 50% der Corona-Fälle sei dies auch die Todesursache, dann möge er mir erklären, warum in der Übersterblichkeit (s.o.) keine Erhöhung sichtbar ist.
+Nur um einem vorzugreifen: Eine Reduktion tödlicher Verkehrsunfälle durch den Lockdown 2020 ist unplausibel.
+Wir hatten 2020 ca. 300 Verkehrstote weniger als 2019 - das sind nicht ansatzweise die Größenordnungen, die die behaupteten Corona-Toten in der Übersterblichkeit kompensieren könnten.
+
+Indirekt bestätigt wird diese Rechnung von Mainstream-Medien, die diese Rechnung relativeren, z.B. https://www.aerzteblatt.de/blog/112935/Sterben-mehr-Menschen-an-COVID-19-als-an-der-saisonalen-Grippe[hier].
+Dabei wird auf den Umstand hingewiesen, dass wir hier Schätzungen (Grippe) mit Testdaten (Corona) vergleichen.
+Bei der Grippe betragen die Schätzzahlen in der Tat das Vielfache der Testzahlen - diese Argumentation ist jedoch wenig stichhaltig, weil in 2021/22 eine praktisch 100%ige Corona-Testabdeckung angenommen werden kann.
+
+==== Mortalität
+
+Eine weitere Messgröße ist die Mortalität, also der Prozentsatz der Infizierten, der schließlich an der Kranheit verstirbt.
+Um Ostern 2020 wurde die COVID-19 Case-Cluster-Study (aka Heinsberg-Studie) präsentiert, die von Forschern rund um Professor Hendrik Streeck von der Universität Bonn durchgeführt wurde.
+Es wurde durch Untersuchung eines frühen Corona-Hotspots eine Mortalität von 0,37 ausgewiesen - ein Wert, wie er für eine Influenza erwartet wird.
+
+Wie üblich wurde diese Studie https://www.tagesschau.de/investigativ/swr/heinsberg-studie-103.html[angegriffen]. Das in Deutschland Maßgebliche RKI nennt 1,5 % in den Medien wurde mit Verweis auf New York (mehr zu den regionalen Hotspots unten) häufig 1,8 % genannt.
+
+Eine Übersichts-Studie aus dem Oktober 2020 kommt nach der Auswertung von 61 Studien zu einem Spektrum zwischen 0 und 1,54% Mortalität. Und man kann beobachten, wie die Politik sich die passenden Zahlen aus dem Spektrum herauspickt und dann jeden Widerspruch als "unwissenschaftlich" abwehrt. Das trifft auch andere Wissenschaftler. John Ioannidis, ein namhafter Epidemiologe von der University of Stanford, der selbst in einer https://www.n-tv.de/wissen/Covid-19-weniger-toedlich-als-vermutet-article22104272.html[Studie] eine Mortalität von 0,15% ausweist, wird umgehend vom Mainstream angegriffen, z.B. bezeichnet ihn die https://www.faz.net/aktuell/wissen/forscher-john-ioannidis-verharmlost-corona-und-provoziert-17290403.html[FAZ als "Verharmloser"]. Lauterbach bezeichent Ioannidis, der zu den https://www.einsteinfoundation.de/medien/fragebogen/john-ioannidis/[meistzitiertesten Wissenschaftlern der Welt] gehört auf Twitter als "Außenseiter"
+
+.Lauterbach über John Ioannidis auf Twitter
+image::../images/lauterbach-twitter-ioannidis01.png[width=50%,align="center"]
+
+//.John Ioannidis wird deutlich öfter zitiert, als Christian Drosten
+//image::../images/citations-Ioannis.png[width=80%,align="center"]
+
+Diese Vereinnahmung eines Teils der Wissenschaft für das eigene Narrativ bei gleichzeitiger Delegitimierung von Widerspruch der eigentlich das Wesen der Wissenschaft ausmacht hat https://www.tichyseinblick.de/daili-es-sentials/die-post-wissenschaftliche-gesellschaft/["Tichys Einblick" treffend als wissenschaftsfeindlich charaktersiert].
+
+Zurück zur Frage der Mortalität: Die Mortalität der Grippe (0,37%) liegt im Spektrum der Studienergebnisse für die Mortalität für Corona. Auffällig ist die uneinheitliche Studienlage und das in der Öffentlichkeit verzerrte Bild, bei dem nur die dramatischsten Ergebnisse Eingang in den Diskurs finden.
+
+==== Behandlungsmethoden und Prävention
+
+Die Mortalität einer Krankheit ist ja keine Naturkonstante, sondern hängt davon ab, wie man behandelt. Bei einer neuen Krankheit würde ich daher erwarten, dass die Mortalität gerade zu Beginn durch schnell sinkt.
+
+Auffällig ist, dass die Behandlung von Corona im Mainstream nie groß thematisiert wurde. 2020 drang kurzzeitig durch, dass die anfangs zu bereitwillig vorgenommene künstliche Beatmung (die einen schweren Eingriff darstellt) möglicherweise für eine höhere Sterblichkeit verantwortlich sei - man muss sich vor Augen führen, dass die betroffenen zumeist hochbetagt und vorerkrankt sind. Diese Debatte ist aber schnell wieder verschwunden.
+
+Sehr früh - schon während des ersten Lockdowns in Deutschland - hat sich die Politik festgelegt, dass allein die Impfung de Situation verbessern könne. Verbesserte Behandlungsmethoden waren kein Thema.
+
+Zwei Medikamente sind in der zwischenzeit aufgetaucht, die einzelnen Berichten zu Folge gute Erfolge erzielen.
+
+* Das Malaria-Mittel Hydroxychloroquine
+* Das Parasiten-Mittel Ivermectin
+
+Beide Mittel sind seit vielen Jahrzehnten beim Menschen eingesetzt und haben sehr geringe Nebenwirkungen.
+
+**Hydroxychloroquine**
+
+Hydroxychloroquine wurde sogar von Präsident Trump als Hoffnung in der Behandlung von Corona bezeichnet, wobei die Medien daraus die Empfehlung bastelten, Trump habe die Leute aufgefordert, https://www.achgut.com/artikel/ivory_will_es_wissen_wie_sichMedien_selbst_demontieren[Chlorbleiche zu saufen]. Ich kenne die Orginalzitate nicht und habe nur viel gelesen, was darüber berichtet wurde - ob hier Trumps große Schnauze oder die Missgunst der Medien die Schuld tragen möchte ich an dieser Stelle nicht erläutern - jedenfalls war Hydroxychloroquine damit ausserhalb von Trumps Anhängerschaft erfolgreich diskretitiert.
+
+.https://today.yougov.com/topics/politics/articles-reports/2020/04/30/americans-reject-disinfectant[Umfragen] zeigen, dass Demokraten Hydroxychloroquine als gefährlich einschätzen
+image::../images/trump.png[width=50%,align="center"]
+
+**Ivermectin**
+
+Schon früh wurde in meiner Blase das Medikament Ivermectin als potentiell aussichtsreiches Mittel gegen Corona genannt. Der Mainstream hat diese Spekulationen von Anfang an als Blödsinn abgetan https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/kein-wundermittel-gegen-covid-19/[pressemitteilung uni würzburg], https://www.medizin-transparent.at/ivermectin-corona/[medizin-transparent]. Dabei wurde häufig süffisant darauf hingewiesen, dass es sich um ein Würmermittel handelt ( https://www.zdf.de/nachrichten/panorama/corona-medikament-wurmmittel-100.html[zdf] https://www.rnd.de/gesundheit/ivermectin-gegen-corona-wie-das-wuermermittel-gegen-covid-19-wirken-koennte-fachleute-warnen-MGIL5LD5NBGYHICHOYLL4OOXVU.html[rnd]) für mich der offenkundige Versuch, die Idee als absurd abzutun.
+
+Wie plausibel ist das? Da ist man schier am Verzweifeln über die ganzen Toten, von Behandlungsmethoden will man aber nichts wissen...? Ich kann nicht beurteilen, ob diese Mittel wirklich eine Hoffnung darstellen, aber ich sehe in der Reaktion keinerlei Interesse an irgendeiner Alternative zur einzig seelig machenden Impfkampagne. Die Zukunft wird weisen, was an diesen Mitteln dran ist.
+
+Eine immer wieder auftretende Stilblüte lässt sich an dieser Episode auch illustrieren: Das Muster "Es gibt keine Beweise" ( https://www.medizin-transparent.at/ivermectin-corona/[Ivermectin gegen Corona: möglicherweise wirkungslos], https://www.cochrane.de/de/news/ivermectin-keine-evidenz-f%C3%BCr-wirksamkeit-gegen-covid-19[Ivermectin: Keine Evidenz für Wirksamkeit gegen COVID-19]) Dabei werden häufig gerade von denjenigen, die das offizielle Narrativ hinterfragen immer Beweise gefordert, oft von den Leuten, die Transparenz entgegenarbeiten.
+
+==== Aber die regionalen Hot-Spots zeigen doch die Gefährlichkeit
+
+Ein wesentlicher Treiber für die Panik in 2020 war die Situation in einigen regionalen Hotspots (Wuhan, Lombadei, New York, Wisconsin). Hier stellt sich natürlich die Frage, warum ich dennoch zu meiner "entwarnenden" Bewertung gelange. Hierzu als erstes eineige generelle Überlegungen:
+
+* In Deutschland und in gewissem Maße in den USA habe ich die Möglichkeit, Meldungen zu plausibilisieren und einzuordnen. In anderen Ländern fällt mir das schwer da ich die lokalen Medien nicht verfolge, das behördliche System nicht kenne und trotz allen Möglichkeiten (Google translate) eine Sprachbarriere besteht. Wir haben bereits bei der Betrachtung der Todeszahlen in Deutschland gesehen wie kontrovers die Zahlen interpretiert werden.
+
+* Wenn man feststellt, dass die Krise sich an manchen Orten stärker auswirkt, stellt sich  die Frage, was an den Hotspots anders ist. Liegt es an Besonderheiten in der Bevölkerungsstruktur, werden andere Behandlungsmethoden eingesetzt... Diese Fragen wurden aber meines Wissens in unseren Medien nicht gestellt. Vielmehr wurden die Bilder von Särgen und Massenbegräbnissen zur Panikmache genutzt. Um die Gefährlichkeit der Krankheit einzuschätzen würde ich mich ausdrücklich nicht an regionalen Hotspots orientieren.
+
+* Zumindest im Fall von New York ist mir eine dreiste Manipulation ins Auge gesprungen - meiner Erinnerung nach in der "Welt" - ggf. auch in anderen Massenmedien. Es wurde davon berichtet, dass man der Covid-Toten nicht mehr Herr wurde und dass man daher dazu übergegangen sei, diese in Massengräbern auf "Heart-Island" zu verscharren. Eine Sichtung des Wikipedia-Artikels zu "Heart-Island" hat jedoch ergeben, dass hier seit Jahrzehnten Armenbegräbnisse stattfinden. Diese Manipulation hat es sogar in aktuelle Versionen dieses Eintrags geschafft. Man sieht, wie Sensationsgier (Am Ende geht es um Klick-Zahlen) dazu verleitet etwas dick aufzutragen und darf daher auch Beiträgen in den Mainstream-Medien nicht mit blindem Vertrauen rezipieren.
+
+* Italien hat bekanntermaßen kein allzu gutes Gesundheitssystem, wie ich aus eigener Anschauung weiß. Bot die Pandemie möglicherweise eine bequeme Entschuldigung, Tote durch Krankenhauskeime oder Behandlungsfehler durch einen externen Faktor zu erklären? Es sei auch darauf hingewiesen, dass Italien als Netto-Empfängerland der EU zieht sicher auch einen Nutzen von den Corona-Fonds der EU.
+
+* In den USA wurde Covid noch unter der Präsidentschaft von Donald Trump zum Politikum. Die Demokraten stellten die  dramatische Situation als Versagen der Regierung dar und beispielsweise das Tragen von Masken wurde von dieser Seite zum Symbol erhoben. In dieser Situation fällt auf, dass die Corona-Hotspots in demokratischen Staaten lagen. Hier unterstelle ich ebenfalls, dass ein politisches Interesse an einer möglichst dramatischen Darstellung der Situation vorlag.
+
+* In den US-Bundesstaaten stehen den republikanisch regierten Staaten mit vergleichsweise geringen Maßnahmen die demokratisch regierten mit stärkeren Maßnahmen gegenüber. Hier böte sich die Möglichkeit, die Wirksamkeit der Maßnahmen ex-post zu überprüfen.
+
+* In der Lombardei, aber auch in New York und Wisconsin habe ich Hinweise gefunden (Social Media und Lokalpresse), dass es gängige Praxis war, Covid-Patienten die Pflege aber keine Therapie benötigen aus Krankenhäusern in Altenheime zu verlegen. Im Fall des Wisconsin benachbarten und ebenfalls demokratisch geführten Staates Michigan https://www.bridgemi.com/michigan-government/feds-demand-answers-gov-whitmer-michigan-nursing-home-deaths[kam es zu einer formalen Untersuchung des Bundes gegen Gouvaneurin Gretchen Whitmer] die freilich unter Joe Biden https://www.bridgemi.com/michigan-health-watch/feds-wont-probe-michigan-nursing-home-covid-policy-despite-initial-query[wieder eingestellt wurde]. Hiervon habe ich in der deutschen Presse nichts erfahren.
+
+* Wenn man über regionale Hotspots redet, muss man natürlich zuerst über Wuhan sprechen. Ich habe die Situation dort früh verfolgt und es zeichnete sich dort wirklich apokalyptisches Bild: Menschen, die auf offener Straße tot zusammenbrachen - der junge Arzt, der das Virus entdeckt habe und nach mehreren Wochens heroischen Kampfes selbst der Krankheit erlag - Kraftanstrengungen zur Errichtung ganzer Krankenhäuser binnen weniger Tage - Menschen, die aus dem Taxi geschmissen wurden, weil sie zugaben in Wuhan gewesen zu sein... Umso befremdlicher (natürlich auch erleichternder) war es, die vergleichsweise geringen Auswirkungen hierzulande zu sehen. Aber es stellte sich sofort die Frage, wie das zusammenpasse.
+
+* Schließlich gibt es sowohl positive wie auch negative Abweichungen von der Norm, https://www.youtube.com/watch?v=O1DgWYdukZU[Die Amish haben die Pandemie ohne sichtbaren Schaden überstanden], ohne dass sie irgendwelche Maßnahmen (natürlich auch keine Impfung) getroffen hätten. Schweden steht mit vergleichsweise milden Maßnahmen (und einer Impfquote wie in D) vergleichsweise gut dar. Trotz weniger Impfungen blieb die große Katastrophe aus. (https://www.spiegel.de/ausland/hohe-durchseuchung-und-niedrige-sterblichkeit-in-afrika-a-5b16ecd0-1803-4659-8405-3696c0ef55cb[Spiegel])
+
+**In Summe bleibt hier festzustellen, dass ein geziehltes Cherry-Picking von Hot-Spots kein realistisches Bild zeichnet.**
+
+=== Die COVID-Impfstoffe haben eine begrenzte Wirksamkeit
+
+Mein Haupt-Problem mit dem Impfstoff ist **nicht** seine begrenzte Wirksamkeit, sondern seine Gefährlichkeit. Dennoch ist dieser Punkt natürlich wichtig.
+
+Die Frage nach der Wirksamkeit der Impfstoffe ist die Geschichte eines Rückzuggefechtes. Noch im April https://investors.biontech.de/de/news-releases/news-release-details/pfizer-und-biontech-veroeffentlichen-weitere-daten-aus-phase-3[behaupteten die Hersteller] eine nahezu 100%ige Wirksamkeit. Eine Aussage, die nach und nach preisgegeben wurde.
+
+Hat man ein halbes Jahr später bessere Informationen als damals? Wieso wurde dann so oft behauptet, die Imfpung sei trotz der schnellen Entwicklung gut erforscht, wenn man ein halbes Jahr nach Beginn der breiten Impfkampagne noch so im Dunkeln tappte? Wieso wussten viele "Querdenker" schon früh, was der Mainstream erst unter dem Druck der Fakten zugeben musste. Und: *Wenn die Hersteller so daneben lagen, was die Wirksamkeit angeht, wieso sollte ich ihnen in der ungleich wichtigern Frage nach den Nebenwirkungen vertrauen?*
+
+==== Schützt die Impfung den Impfling vor schwerer Erkrankung bzw. Tod?
+
+Weil Israel früher als Deutschland eine hohe Impfquote erreicht hat, aber auch früher in die Delta-Variante gelaufen ist, die dort Ende August / Anfang September ihren Höchststand erreicht hat, bot das Land einen interessanten Blick in die Zukunft.
+
+Es lies sich im Sommer beobachten, dass der Anteil der Geimpften unter den hospitalisierten COVID-Fällen https://www.beckershospitalreview.com/public-health/nearly-60-of-hospitalized-covid-19-patients-in-israel-fully-vaccinated-study-finds.html[ungefähr dem Impfgrad] der Bevölkerung entspricht. Ganz klar darf man daraus nicht schließen, dass die Impfung wirkungslos sei. Die Impfquote variiert sicher stark mit dem Alter, so dass in den Risikogruppen (und auf die kommt es ja an) - der Anteil von vielleicht 10% Ungeimpften immerhin 40% der Hospitalisierung ausmacht. *Die Impfung scheint das Risiko damit um einen Faktor 4 zu senken* Natürlich handelt es sich hier um eine Daumen-Schätzuung, dieser Faktor könnte bei 3, aber auch bei 6 liegen. Der Schutz ist aber sicher nicht 100%ig, wie noch kurz zuvor behauptet.
+
+image::../images/israel.png[width=80%,align="center"]
+
+Es war verwuderlich, als das RKI Anfang September verkündete, dass in Deutschland der Anteil der Ungeimpften nicht 40% wie in Israel, sondern sage und schreibe 94% beträgt.
+
+Über Monate klärte sich langsam auf, wie dieses Ergebnis zustande kam.
+
+* Ungeimpfte Intensivpatienten mit einem anderen Einweisungsgrund werden getestet und bei positivem Ergebnis als COVID-Patienten gezählt. Geimpfte Intensivpatienten werden nicht getestet (bestätigt)
+
+* Geimpfte Patienten mit positivem Ergebnis aber keinen Corona-Typsichen-Symptomen werden nciht als Impfdurchbruch definiert. Wenn also gesagt wird: Auf der Intensiv-Station sind nur 10% Impfdurchbrüche kann das bedeuten, dass mehr als 10% der Corona-Positiven Patienten Geimpft sind.
+
+* Geimpfte Patienten, die zu wenige Antikörper haben, werden als ungeimpft gezählt.
+
+* Ein auffällig hoher Anteil an Patienten hat angeblich einen unbekannten Impfstatus. Es gibt Aussagen, dass dieser Anteil den Ungeimpften zugerechnet wurde
+
+Manche dieser Aussagen sind bestätigt, manche sind Spekulation oder Gerücht (ich bin kein Journalist und kann nicht jeder dieser Behauptungen nachgehen) aber es läge an den Verantwortlichen, hier nachvollziehbar Aufklärung über die Zählweise zu geben. Der Journalist Boris Reitschuster hat über Monate versucht, diese Widersprüche in der Berechnung aufzuklären. Stellvertretend für viele Stunden Bundespressekonferenz, die ich zu dem Thema gesehen habe, sei dieses kurze https://www.youtube.com/watch?v=YoycxmZ3ji0[Video] genannt.
+
+Am 15.11. wurde Prof. Marx von der DIVI, welche das Intensivbettenregister führt im Bundestag vom Abgeordneten Martin Sichert befragt: wie viele der 1662 (in der letzten Woche mit Covid aufgenommenen) Patienten geimpft bzw. ungeimpft waren?
+Antwort: Diese Frage kann ich leider nicht beantworten, weil wir bisher noch nicht erfasst haben, welche Patienten auf den Intensivstationen geimpft und welche nicht geimpft sind.  https://www.bundestag.de/resource/blob/869052/8ad3e08fc55c91e8f87812e64d74f691/protokoll-data.pdf[Protokoll Seite 28] *Wie kann es sein, dass wir zu dieser wichtigen Frage keine Daten haben und wie kann es sein, dass Politiker und Medien hier Permanent Behauptungen aufstellen, die offenkudig nicht durch die Datenlage gedeckt sind* Diese Widersprüche hat Boris Reitschuster in einem https://www.youtube.com/watch?v=m2lBN2PKw2w[kurzen Video] zusammengestellt.
+
+Es bleibt feszuhalten, dass hier Aussage gegen Aussage steht. Entweder die https://uncutnews.ch/studie-in-the-lancet-die-mehrheit-der-derzeit-infizierten-und-toten-in-deutschland-dem-vereinigten-koenigreich-israel-und-den-usa-ist-vollstaendig-geimpft/[Mehrheit der Infizierten ist Geimpft] oder 90% der Patienten sind ungeimpft, wie Politiker und https://www.rbb24.de/panorama/thema/corona/beitraege/2021/11/interview-divi-geimpfte-ungeimpfte-unterschiede.html[Medien] nicht müde werden, zu behaupten.
+
+Ich kann mir schon vorstellen, dass sich jeder seine Wahrheit zurechtbastelt. Verkehrsminister Scheuer https://www.youtube.com/watch?v=o30dsUZts7Y[behauptet in einem Interview, dasss 10 von 11 Beatmungspatienten im Klinikum Passau ungeimpft seien] - Warum die Nennung des Klinikum Passaus? Wurde hier bewust ein nicht repräsentatives Beispiel ausgewählt? *Das Mittel gegen diese Situation wäre hohe Transparenz über Zahlen und Erfassungsmethoden. Diese zu schaffen läge in der Verantwortung derjenigen, die das Narrativ der bösen Ungeimpften treiben.*
+
+==== Kann der Geimpfte andere anstecken?
+
+* Mittlerweile ist diese Frage auch durch das https://www.rki.de/SharedDocs/FAQ/COVID-Impfen/FAQ_Transmission.html[RKI bejaht]: "Es muss (...) davon ausgegangen werden, dass Menschen nach Kontakt mit SARS-CoV-2 trotz Impfung PCR-positiv werden und dabei auch Viren ausscheiden und infektiös sind." Allerdings sieht das RKI die Wahrscheinlichkeit hierfür "deutlich vermindert". Alle Aussagen beziehen sich ausdrücklich auf die Delta-Variante, nicht auf die Ende November aufgetretende Omnicron-Variante (Stand 2.12.).
+
+* Eine eine https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2821%2900648-4/fulltext#seccestitle150[Ende Oktober veröffentlichte Studie] sieht hingegen keinen Unterschied in der Ansteckungswahrscheinlichkeit. Die https://www.fr.de/wissen/coronavirus-corona-impfung-geimpfte-infektion-studie-forschung-alpha-delta-variante-ansteckend-news-91086265.html[FR berichtet]: "Ob die infizierte Person, die das Virus weitergegeben hat, bereits geimpft war oder nicht, spielte dabei keine große Rolle"
+
+* Zähneknirschend erkennt inzwischen auch der Mainstream dieses an (https://www.rki.de/SharedDocs/FAQ/COVID-Impfen/FAQ_Transmission.html[FAZ FAQ Stand 29.11.]: "Darüber hinaus ist die Virusausscheidung bei Personen, die trotz Impfung eine SARS-CoV-2-Infektion haben, kürzer als bei ungeimpften Personen mit SARS-CoV-2-Infektion. In welchem Maß die Impfung die Übertragung des Virus reduziert, kann derzeit nicht genau quantifiziert werden (Eyre et al.).") Die zitierte Aussage bedeutet: Es gibt keinen Beleg für die Aussage, Geimpfte seien weniger ansteckend als Ungeimpfte - und glauben Sie mir: Es wurde eifrig nach einem solchen Beleg gesucht.
+
+* Immer wieder wird sich im Mainstream in dieser Sache auf einen veralteten Wissensstand bezogen (z.B. https://www1.wdr.de/daserste/hartaberfair/faktencheck/faktencheck-510.html[hier])
+
+* Der Bevölkerung wurde über Monate vermittelt, die Impfung bedeute die Rückkehr zur Normalität. Es ist daher offensichtlich, dass Geimpfte sich seltener Testen, weniger Vorsicht walten lassen (man denke an Bilder von ausgelassenen 2G Karnevall-Feiern) und auch Zugang zu Großveranstaltungen haben. Im Kontext der obigen Befunde bedeutet dies, dass von Geimpften ein **höheres Infektionsrisiko** ausgeht, als von Ungeimpften.
+
+* Die Behauptung, Geimpfte seien weniger ansteckend als Ungeimpfte ist Argument für das Wort "Pandemie der Ungeimpften" und damit Grundlage für rationale Begründung der sog. 2G Regel. Nur sehr wiederwillig ist die Politik davon abgerückt, obwohl sich lange abzeichnete, dass die Position nicht haltbar ist. So hat Herr Lauterbach in der Talk-Show mit Frau Wagenknecht argumentiert "Geimpfte haben zwar die gleiche Virenlast, wie Ungeimpfte - seien aber weniger ansteckend, weil "ihre Viren weniger lebhaft" seien. Das RKI hat bereits im Oktober eine Passage, wonach die Ungeimpften Träger der Pandemie seien ohne Kommentar von seiner Homepage entfernt.
+
+**Schlussfolgerungen**
+
+* Das Anfang Dezember im Einzelhandel eine Flächendeckende 2G Regel eingeführt wird ist keine Medizinische Maßnahme, sondern nur durch den Druck auf Ungeimpfte motiviert. Dieser Umstand wird eigentlich auch nur pro-forma verschleiert und zwischen den Zeilen zugegeben.
+
+* Gegen besseres Wissen lange darauf zu beharren, Geimpfte seien weniger ansteckend, war mit Sicherheit ein wichtiger Treiber für die 4. Welle und damit auch für die derzeitige Überlastung des Gesundheitssystems. Eben diejenigen, die dies zu verantworten haben, , teilen am eifrigsten gegen die Ungeimpften aus. Das ist eine klassische "Sündenbock" Strategie.
+
+* Man kann beim Thema "Wirksamkeit der Impfung" die Unehrlichkeit in der Debatte nachvollziehen. Dies betrifft Aussagen zur Wirksamkeit an, die nie offiziell zurückgezogen, aber sang-und-klanglos korrigiert wurden.
+
+* Die Verlautbarungen zur Pandemie von Politikern und Medienvertretern brandmarken ja immer jeden Zweifel oder jede abweichende Meinung als "unwissenschaftlich". Die Unfehlbarkeit, die damit in Anspruch genommen wird, ist besonders absurd, wenn man über die letzten Monate die Einchätzung zur Wirksamkeit der Impfstoffe revidieren musste. Wer sagt mir, dass nicht die Einschätzung zur Sicherheit der Impfstoffe ebenso vorläufig ist?
+
+https://uncutnews.ch/studie-in-the-lancet-die-mehrheit-der-derzeit-infizierten-und-toten-in-deutschland-dem-vereinigten-koenigreich-israel-und-den-usa-ist-vollstaendig-geimpft/
+
+
+==== Ursprüngliche Einschätzungen zur Wirksamkeit mussten revidiert werden
+
+* Noch im April wurde https://investors.biontech.de/de/news-releases/news-release-details/pfizer-und-biontech-veroeffentlichen-weitere-daten-aus-phase-3[von einer eine fast 100%igen Schutzwirkung] ausgegagen. Heu
+
+* Das RKI hat die Einschätzung "Geimpfte haben keinen Anteil am Infektionsgeschehen" sang und klanglos von seiner Homepage entfernt.
+
+
+
+
+Der Impfstoff schützt mit einer 100-prozentigen Wirksamkeit vor einem schweren COVID-19-Krankheitsverlauf, wie er von der US-Behörde U.S. Centers for Disease Control and Prevention definiert ist, sowie mit einer 95,3-prozentigen Wirksamkeit nach den Richtlinien der U.S. Food and Drug Administration
+
+
+=== Die Impfstoffe sind gefährlicher als jeder andere Impfstoff, den wir kennen
+
+
+==== Weniger Zeit bedeutet Unsicherheit
+
+Es wurde häufig bestritten, aber nach meiner Lebenserfahrung
+
+==== Anstatt Hinweisen auf Nebenwirkungen nachzugehen und Transparenz einzufordern, stellen sich die Massen-Medien schützend vor das Narrativ der Pharmaindustrie
+
+*Tiffany Dover*
+
+Am Anfang dieser Geschichte steht die Geschichte von Tiffany Dover, einer recht aktiven Medizin-Influencerin und Intensivkrankenschwester, die am 18.12.2020 zu den ersten gehörte, die sich vor laufender Kamera mit dem neuartigen Impfstoff haben immunisieren lassen.
+
+Kurz nach der Impfung brach Tiffany vor laufender Kamera ohnmächtig zusammen, was natürlich ein PR-Desaster ersten Ranges war. Noch am selben Tag trat sie mit einem kurzen Interview wieder vor die Öffentlichkeit und erklärte die Situation mit einer Vorerkrankung (medical condition), die dazu führe, dass sie beim kleinsten Schmerz in Ohnmacht falle (Sie nannte einen eingerissenen Nagel oder einen angestoßenen Zeh als Beispiele, die das auslösen können.)
+
+Natürlich mangelt es der Erklärung an Glaubwürdigkeit. Ich bezweifele, dass sie als Intensivkrankenschwester arbeiten könnte, wenn das wirklich so wäre - darüberhinaus wäre es extrem naiv anzunehmen, dass man sie mit einer solchen Krankengeschichte für die Show-Impfung in Betracht gezogen hätte. Darüberhinaus fällt auf, dass sie desorientiert wirkt. Die Frage nach Ihrem Namen beantwortet sie z.B. damit, dass Sie ihren Namen buchstabiert. Auf mich wirkt sie, wie jemand nach einem traumatischen Schock-Erlebnis.
+
+Einige Tage danach berichteten verschiedenen Youtuber ihren Tod, wobei Ihr Name offenkundig im Internet auf irgendwelchen Seiten behördlichen Listen Verstorbener aufgetaucht ist (ich kenne mich in den USA nicht gut genug aus, um die Authentizität dieser Meldung einzuschätzen), ein YouTuber hat ihren Heimatort besucht und sogar einen Aushang an der örtlichen Kirche für einen Gedenkgottesdienst gefilmt (erneut ist die Authenzität für mich nicht verrifizierbar). Auch Tiffany Dovers Online-Präsenz auf Social Media wurde angeblich kurzerhand gelöscht.
+
+Das Krankenhaus in dem Tiffany arbeitete, hat danach ein Bild veröffentlicht, was Tiffany im Kreise ihrer Kollegen zeigte. Es handelte sich um ein Gruppenbild mit ca. 40 Personen, die alle in medizinischer Schutzkleidung und Gesichtsmaske auftraten. Für mich sah die angebliche Tiffany der Person am Impftag nicht ähnlich, aber da kann sich jeder selbst ein Bild von machen. Mit dem Bild wurde die Nachricht verbreitet, Tiffany wolle nicht mehr in der Öffentlichkeit stehen und es wurde aufgefordert, ihre Privatsphäre zu respektieren.
+
+Da die kritischen Berichte nicht nachließen traten nun die Faktenchecker (https://www.politifact.com/factchecks/2021/oct/20/instagram-posts/theres-still-no-evidence-tennessee-nurse-who-faint/[politifact]) auf den Plan, die auch in Deutschland entsprechende Recherchen verurteilten.  (https://correctiv.org/faktencheck/2021/02/12/nein-eine-krankenschwester-die-im-tv-geimpft-und-ohnmaechtig-wurde-ist-nicht-gestorben/[Correctiv] verweist dabei auf Bildmaterial, das auch verlinkt ist und wirklich mehr als unschlüssig ist). Dabei werden entsprechende Nachforschungen moralisch als https://www.thedailybeast.com/anti-vaxxers-wont-stop-harassing-tiffany-dover-nurse-theyre-convinced-is-dead-after-covid-shot["Harrasment" verurteilt]
+
+Seit Ende Januar 2021 ist das Thema verschwunden und von Tiffany Dover hat man nie wieder etwas gehört. Das oben erwähnte Material ist nach wie vor verfügbar und jeder kann sich selbst ein Bild machen.
+
+Für mich ist klar, dass Tiffany Dover tot ist. Wäre sie in der Lage, ein Interview zu geben, wäre das ein gefundenes Fressen für jeden Journalisten der darauf aus ist, Impfkritiker als blöde Verschwörungstheoretiker hinzustellen - Ich kann mir vorstellen, dass die Phramakonzerne ihr ein hohes Honorar für ein Interview gezahlt hätten, als die Story noch "heiss" war. Hingegen haben diejenigen, die sehr früh ihren Tod behauptet nicht wissen können, dass Tiffany von der Bildfläche verschwindet, die einzige Erklärung für dieses Vorwissen ist, dass ihre Quellen eben doch valide waren.
+
+Die zum Beweis ihres Überlebens vom Krankenhaus und von Correkiv angeführten Bilder und Videos sind deutlich kein Beweis. Man sieht jeweils maskierte junge Damen mit einer ähnlichen Frisur auf verwackelten Handy-Bildern - die Art des Materials belegt eher eine plumpen Manipulationsversuch als dass sie die Behauptung stärkt. Gleiches gilt für die "Belege", die das Krankenhaus vorgebracht hatte.
+
+Ohne Obduktion und angesichts der Möglichkeit einer nicht erkannten Vorerkrankung lässt sich keine Aussage zur Gefährlichkeit der Impfstoffe ableiten. (Besonders ermutigend wirkt das aber auch nicht) Allerdings wird klar, wie eifrig die Medien bemüht sind, jeden Verdacht von den Impfstoffen abzulenken und gegen jene zu hetzen, die einem berechtigten Informationsinteresse nachgehend recherchieren. Es ist eben kein Einbruch in die Privatsphäre, dieser Geschichte nachzugehen.Tiffany Dover hat sich vor laufender Kamera impfen lassen und uns alle damit aufgefordert, ihr zu folgen. Da haben wir verdammt nochmal ein berechtigtes Interesse daran, zu erfahren, was mit ihr passiert ist.
+
+Es wäre Aufgabe der Presse gewesen, diesem Informationsbedürfnis nachzugehen, anstatt sich daran zu beteiligen, die Affäre "unter den Teppich zu kehren".
+
+_Nach dieser Episode gebe ich nicht mehr viel auf Presseartikel, die die Sicherheit der Impfungen bestätigen. Für mich hat die Mainstream-Presse hier ihre Glaubwürdigkeit verspielt._
+
+*Spätfolgen gibt es nicht*
+
+Häufig begegnet man der Behauptung: Spätfolgen gibt es gar nicht - Nebenwirkungen treten immer direkt nach der Impfung oder überhaupt nicht auf.  Wer einen Eindruck bekommen will, kann einfach "Corona Impfung Langzeitfolgen" googeln und findet seitenweise entsprechende Beiträge von etablierten Medien.
+
+Ich bin kein Mediziner, aber mich verwundert das sehr. Jeder kennt z.B. die langfristige Wirkung krebseregender Stoffe - auch eine nicht entdeckte Herzmuskelentzündung (eine dokumentierte Nebenwirkung der Impfungen) kann, so würde ich vermuten auch nach Jahren einen Herzinfakt nach sich ziehen, also eine "späte" Folge haben.
+
+Auf mich wirkt das nicht seriös. Wenn man Bedenken hat, möchte man das Gefühl haben, dass jemand die eigene Position versteht und ernst nimmt. Erst auf dieser Grundlage lässt man sich überzuegen, wenn aber das eigene Argument gar nicht gelten gelassen wird, kommt man sich abgefertigt vor. So geht es mir.
+
+Wenn diese Beiträge andere Leute beruhigen freut es mich für sie. Dieser Text soll ja darstellen, warum *ich* noch nicht geimpft bin, und ich vertraue diesen Aussagen schlicht nicht. Bin ich dafür zu verurteilen?
+
+*Die ungefährlichen Herzmuskelentzündungen*
+
+Die Herzmuskelentzündung ist eine anerkannte Nebenwirkung der Impfungen, selbst der
+https://www1.wdr.de/nachrichten/themen/coronavirus/corona-kimmich-impfung-bedenken-100.html[WDR spricht von 1 Betroffenen unter 3.000 bis 6.000 Geimpften in der Gruppe der jungen Männer]. Frauen und andere Altersgruppen scheinen seltener betroffen, eine gut entwickelte Muskulatur (Sportler) scheint dagegen das Risiko zu erhöhen. In der Kritiker-Blase wird ein Zusammenhang mit Sportlern, die tot zusammenbrechen gezogen - für mich plausibel, wenn auch nicht bewiesen. Im privaten Gespräch hat man mir gesagt "das gab es schon immer".
+
+Ähnlich wie mit den "unmöglichen Langzeitfolgen" verhält es sich mit der Verharmlosung der Herzmuskelentzündung. Diese ist eine alte Begleiterscheinung grippaler Infektionen und ich bin in meinem Leben 2 Leuten begegnet, die nach einem Infekt darunter litten und mir jeweils vermittelt haben, sie seien durch das Glück der frühzeitigen Entdeckung ihres Leidens "dem Tod von der Schippe gesprungen".
+
+Ich habe aber gelernt, dass es sich um eine leichte Erkrankung handelt: https://www.aerzteblatt.de/nachrichten/126305/Teenager-erholen-sich-rasch-von-einer-Myokarditis-nach-Impfung-oder-COVID-19[Teenager erholen sich rasch von einer Myokarditis] / Der Faktencheck von Hart aber fair weis, dass der Verlauf nach einer Impfung https://www1.wdr.de/daserste/hartaberfair/faktencheck/faktencheck-510.html[überwiegend mild sei] / Auch das https://www.aerzteblatt.de/nachrichten/127936/Coronaimpfung-Myokarditis-Risiko-bei-juengeren-Maennern-nach-der-2-Dosis-erhoeht[Ärzteblatt] berichtet bei einer Studie von Patienten, die sich "relativ rasch und ohne Folgen von der Myokarditis erholen."
+
+Mir fällt auf, dass dieselben Medien, die 2020 die Corona-Welle in den düstersten Farben schilderten und sich jede Relativierung verbaten ("Es sterben Menschen") nun das Bild von Nebenwirkungen in den sanftesten Pastell-Tönen zeichnen. Den Impfungen wird das maximale Vertrauen entgegenbringen. Den Aussagen von Pharmaindustrie und Politik wird bis zum Beweis des Gegenteils (und darüber hinaus) geglaubt, Querdenkern und Schwurlbern wird mit maximaler Skepsis begegnet und alles wass sie nicht hart beweisen können gilt als falsch. Zur Krönung werden einer wirklichen Aufklärung dann noch Steine in den Weg gelegt - man denke z.B. an die Moralische Verurteilung der Recherchen im Fall "Tiffany Dover"
+
+==== Weniger Zeit bedeutet Unsicherheit
+
+==== Die P
+
+
+
+
+==== Notfallzulassung
+
+Zitate aus https://investors.biontech.de/de/news-releases/news-release-details/pfizer-und-biontech-veroeffentlichen-weitere-daten-aus-phase-3[Stellungnahme Pfizer Biontech]
+
+Der COVID-19-Imfpstoff von Pfizer und BioNTech schützt eventuell nicht alle Empfänger des Impfstoffs.
+
+Die bisher verfügbaren Daten zum Pfizer-BioNTech COVID-19-Impfstoff sind unzureichend, um eine Aussage zu den Risiken bei Schwangeren zu machen.
+
+Es gibt keine ausreichend verfügbaren Daten zur Beurteilung der Auswirkungen des Pfizer-BioNTech COVID-19-Impfstoffs auf den gestillten Säugling oder die Milchproduktion/Milchabgabe.
+
+Es sind keine Daten verfügbar bezüglich der Austauschbarkeit des COVID-19-Impfstoffs von Pfizer und BioNTech mit anderen COVID-19-Impfstoffen, um die vollständige Impfung abzuschließen. Personen, die die erste Dosis des Pfizer-BioNTech COVID-19-Impfstoffs erhalten haben, sollten auch die zweite Dosis des Pfizer-BioNTech COVID-19-Impfstoffs erhalten, um die vollständige Impfung abzuschließen.
+
+
+
+
+==== Die Herstellerunternehmen sind nicht vertrauenswürdig
+
+
+.https://violationtracker.goodjobsfirst.org/parent/pfizer
+image::../images/pfizer-violation-track.PNG[]
+
+
+
+
+=== Die Träger der öffentlichen Debatte (Politik und Medien) sind einseitig
+
+==== Spenden an Medien durch Stiftungen
+Der
+https://www1.wdr.de/daserste/hartaberfair/faktencheck/faktencheck-510.html[WDR Hart aber Fair Faktencheck] kanzelt Covid-Impf-Gegnerin Svenja Flaßpöhler ab, die doch tatsächlich eine Studie erwähnt, die "herausgefunden haben *soll*, dass in den Medien einseitig über Corona berichtet werde. Bestimmte Stimmen seien häufig zu Wort gekommen, andere weniger." Auch wenn sich die Autoren der Studie selbst umgehend von dieser Ketzerin distanzierten und gleich irgendwelche anderen Professoren den Medien zur Seite springen - für mich ist es lächerlich, hier eine Ausgeglichene Berichterstattung zu sehen.
+
+
+== Schlussfolgerungen
+
+
+
+
+https://www.youtube.com/watch?v=qRlBuTZc6Gg
