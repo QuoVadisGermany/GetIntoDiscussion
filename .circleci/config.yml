@@ -20,6 +20,9 @@ jobs:
             ls -a
             mv warum-nein-zur-impfung.html index.html
             ls -a
+            git add --all
+            git commit -m "commit html"
+            git push
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
