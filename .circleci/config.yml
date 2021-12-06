@@ -7,7 +7,7 @@ version: 2.1
 jobs:
   build-html:
     docker:
-      - image: asciidoctor/docker-asciidoctor
+      - image: circleci/golang:1.15
     steps:
       - checkout
       - run:
