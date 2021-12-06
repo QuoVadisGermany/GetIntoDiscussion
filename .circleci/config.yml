@@ -18,6 +18,7 @@ jobs:
             ls -a
             docker run --rm -v /home/circleci/project:/documents/ asciidoctor/docker-asciidoctor asciidoctor /documents/warum-nein-zur-impfung.adoc
             ls -a
+            mv warum-nein-zur-impfung.html index.html
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
