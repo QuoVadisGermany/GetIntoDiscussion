@@ -11,7 +11,7 @@ jobs:
       - checkout
       - run:
           name: "Build HTML"
-          command: docker run --rm -v $(pwd):/documents/ asciidoctor/docker-asciidoctor texte/warum-nein-zur-impfung/warum-nein-zur-impfung.adoc
+          command: docker run --rm -v $(pwd):/documents/ asciidoctor/docker-asciidoctor ./texte/warum-nein-zur-impfung/warum-nein-zur-impfung.adoc
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
