@@ -11,8 +11,10 @@ jobs:
     steps:
       - checkout
       - run:
-          name: "Start Service"
-          command: echo "Running test"
+          name: "Build HTML"
+          command: |
+          echo "Running test"
+          echo "Running test2"
 
 
 # Invoke jobs via workflows
