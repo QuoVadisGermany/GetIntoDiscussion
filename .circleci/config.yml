@@ -6,7 +6,8 @@ version: 2.1
 # See: https://circleci.com/docs/2.0/configuration-reference/#jobs
 jobs:
   build-html:
-    machine: true
+    docker:
+      - image: cimg/node:16.10.0
     steps:
       - checkout
       - run:
