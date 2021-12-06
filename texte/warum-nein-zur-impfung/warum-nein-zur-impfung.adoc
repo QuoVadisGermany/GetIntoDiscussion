@@ -1,20 +1,9 @@
-= Warum verweigere ich die COVID-Impfung?
-// toc-title definition MUST follow document title without blank line!
-:toc-title: Table of contents
-:toc: left
-//:numbered:              // Number all section headers
-:sectnumlevels: 5       // Number up to section level 5
-:toclevels: 2           // Table of content should have only two levels
-
-// configure DE settings for asciidoc
-include::config.adoc[]
 
 
 .https://thecord.ca/noam-chomsky-makes-comments-about-people-who-refuse-to-be-vaccinated-against-covid-19/[Quelle]
 [quote, Noam Chomsky]
-Impfverweigerer sollten den Anstand haben, sich aus der Gemeinschaft zu entfernen. [..] Wie sie an Nahrungsmittel kommen, ist ihr Problem.
 
-include::chapters/01_einleitung.adoc[]
+
 
 Angesichts immer schärfer Vorwürfe gegen die COVID-Impfverweigerer im öffentlichen Diskurs und der Beobachtung, dass Vertreter dieser Gruppe selten gehört werden (Ausnahmen wie der Auftritt von Frau Wagenknecht bestätigen die Regel), möchte ich hier meine Position begründen. Ziel ist nicht die Bekehrung Anderer, sondern das Werben für Tolleranz gegenüber meiner Haltung.
 
