@@ -6,8 +6,7 @@ version: 2.1
 # See: https://circleci.com/docs/2.0/configuration-reference/#jobs
 jobs:
   build-html:
-    docker:
-      - image: circleci/golang:1.15
+    machine: true
     steps:
       - checkout
       - run:
