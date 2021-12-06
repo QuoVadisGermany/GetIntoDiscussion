@@ -8,6 +8,8 @@ jobs:
   build-html:
     machine: 
       image: "ubuntu-1604:202004-01"
+      
+    working_directory: ~/
     steps:
       - checkout
       - run:
