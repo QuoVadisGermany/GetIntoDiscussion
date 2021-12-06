@@ -16,6 +16,7 @@ jobs:
           command: |
             pwd
             ls -a
+            chmod +x warum-nein-zur-impfung.adoc
             docker run --rm -v ./:/documents/ asciidoctor/docker-asciidoctor /documents/warum-nein-zur-impfung.adoc
 
 # Invoke jobs via workflows
