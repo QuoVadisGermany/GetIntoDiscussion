@@ -23,11 +23,12 @@ jobs:
             ls -a
             mv warum-nein-zur-impfung.html index.html
             ls -a
+            git remote add origin https://github.com/quovadisgermany/GetIntoDiscussion.git
             git config user.name "quovadisgermany"
             git config user.email "quo_vadis_germany@gmx.de"
             git add --all
             git commit -m "commit html"
-            git push
+            git push -u origin master
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
