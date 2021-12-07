@@ -25,7 +25,7 @@ jobs:
             ls -a
             git config user.email "quo_vadis_germany@gmx.de"
             git config user.name "quovadisgermany"
-            git commit --allow-empty -m "html from circleci"
+            git commit --allow-empty -m "CircleCI - generate html [ci skip]"
             git add --all
             git commit -m "commit html"
             git push
