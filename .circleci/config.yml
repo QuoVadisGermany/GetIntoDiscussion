@@ -12,7 +12,7 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "SHA256:x89v/6Mbp46IXEpYnVUIr1UnESCV2vH2NY1GNt7TajI quo_vadis_germany@gmx.de (ED25519)"
+            - "e1:ea:3c:d2:51:54:4f:51:4a:38:fa:ce:38:52:e5:51"
       - checkout
       - run:
           name: "Build HTML"
