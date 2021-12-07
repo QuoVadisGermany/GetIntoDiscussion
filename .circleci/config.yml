@@ -24,7 +24,7 @@ jobs:
             mv warum-nein-zur-impfung.html index.html
             ls -a
             git config user.email "quo_vadis_germany@gmx.de"
-            git config user.name "quovadisgermany"
+            git config user.name "CircleCI bot"
             git add --all
             git commit --allow-empty -m "CircleCI - generate html [ci skip]"
             git push
