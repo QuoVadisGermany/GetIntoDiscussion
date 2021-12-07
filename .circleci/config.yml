@@ -12,7 +12,7 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "35:ea:f3:39:c5:5b:b7:42:2e:9c:ee:fc:69:b8:9f:61"
+            - "9d:64:7a:8c:f2:68:b6:08:0c:16:93:68:7d:25:ea:ca"
       - checkout
       - run:
           name: "Build HTML"
