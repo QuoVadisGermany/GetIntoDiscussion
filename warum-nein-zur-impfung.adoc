@@ -1,11 +1,10 @@
-
-
+= Warum bin ich nicht gegen COVID geimpft?
 
 
 .https://thecord.ca/noam-chomsky-makes-comments-about-people-who-refuse-to-be-vaccinated-against-covid-19/[Quelle]
 [quote, Noam Chomsky]
 
-Holla die Waldfee
+Impfverweigerer sollten den Anstand haben, sich aus der Gemeinschaft zu entfernen. [..] Wie sie an Nahrungsmittel kommen, ist ihr Problem.
 
 Angesichts immer schärfer Vorwürfe gegen die COVID-Impfverweigerer im öffentlichen Diskurs und der Beobachtung, dass Vertreter dieser Gruppe selten gehört werden (Ausnahmen wie der Auftritt von Frau Wagenknecht bestätigen die Regel), möchte ich hier meine Position begründen. Ziel ist nicht die Bekehrung Anderer, sondern das Werben für Tolleranz gegenüber meiner Haltung.
 
@@ -153,12 +152,12 @@ Die 2. Covid-Welle im Winter 20/21, die gleichzeitig den bisherigen Höhepunkt d
 Freilich dauerte sie 2 Monate und nicht 2 Wochen - insofern liegt auch die Opferzahl höher - aber ein Sterbegeschehen das krass ausserhalb des Üblichen lag, gab es in Deutschland selbst Anfang 2021 auf dem Höhepunkt der Pandemie nicht.
 
 .Übersterblichkeitsstatistik des Statistischen Bundesamts abgerufen Mitte November 2021 - Meine Kommentierung in Grün
-image::../images/Destatis-Übersterblichkeit-Highlighted.png[width=80%,align="center"]
+image::./images/Destatis-Übersterblichkeit-Highlighted.png[width=80%,align="center"]
 
 *In Summe lässt sich festhalten, dass das Sterbegeschehen im Jahr mit Impfung höher war, als im Jahr Ohne Impfung und das Corona derzeit keinen deutlichen Einfluss mehr auf die Übersterblichkeit hat.*
 
 .Die Graphik der Corona-Toten in Deutschland zeigt den Gesamtverlauf über zwei Jahre. Man sieht das Maximum am Jahreswechsel und den Abfall mit der Schulter im Frühjahr - dies entspricht der Graphik in der Übersterblichketisstatistik.
-image::../images/corona-tote-deutschland.png[width=80%,align="center"]
+image::./images/corona-tote-deutschland.png[width=80%,align="center"]
 
 
 
@@ -171,7 +170,7 @@ Unter 60-jährige bilden weniger als 5% der Todesfälle.
 
 
 .Todesfälle in Zusammenhang mit dem Coronavirus (COVID-19) in Deutschland nach Alter und Geschlecht (Quelle: de.statista.com)
-image::../images/statista-altersstruktur-corona-tote.png[width=80%,align="center"]
+image::./images/statista-altersstruktur-corona-tote.png[width=80%,align="center"]
 
 ==== Todeszahlen
 
@@ -179,7 +178,7 @@ Um einen Vergleichspunkt zu haben, betrachten wir zunächst die Jährlichen Grip
 Wir sehen, dass nur alle paar Jahre eine wirkliche Grippe-Welle auftritt, diese dann aber zwischen 10 und 25 Taunsend Menschenleben kostet. die 25.000 wurde 2018 erneut erreicht (nicht im Scope dieses alten Diagramms), trat in den letzten 30 Jahren also 2x auf.
 
 .Die Alle paar Jahre auftretenden Grippewellen können in Deutschland zwischen 10-25 Tausend Tote kosten. Nicht im Scope dieser Darstellung ist die Saison 2018/19 mit ca. 25.000 Toten. Es handelt sich um Schätzzahlen des RKI, die durch Testungen bestätigten Fallzahlen bilden nur einen Bruchteil ab.
-image::../images/grippe-tote-pro-jahr-historie.png[width=80%,align="center"]
+image::./images/grippe-tote-pro-jahr-historie.png[width=80%,align="center"]
 
 
 Nach sogut wie 2 Jahren Corona nennt Google ca. 100.000 Corona-Tote in Deutschland - das sind also 50.000 pro Jahr.
@@ -218,10 +217,10 @@ Wie üblich wurde diese Studie https://www.tagesschau.de/investigativ/swr/heinsb
 Eine Übersichts-Studie aus dem Oktober 2020 kommt nach der Auswertung von 61 Studien zu einem Spektrum zwischen 0 und 1,54% Mortalität. Und man kann beobachten, wie die Politik sich die passenden Zahlen aus dem Spektrum herauspickt und dann jeden Widerspruch als "unwissenschaftlich" abwehrt. Das trifft auch andere Wissenschaftler. John Ioannidis, ein namhafter Epidemiologe von der University of Stanford, der selbst in einer https://www.n-tv.de/wissen/Covid-19-weniger-toedlich-als-vermutet-article22104272.html[Studie] eine Mortalität von 0,15% ausweist, wird umgehend vom Mainstream angegriffen, z.B. bezeichnet ihn die https://www.faz.net/aktuell/wissen/forscher-john-ioannidis-verharmlost-corona-und-provoziert-17290403.html[FAZ als "Verharmloser"]. Lauterbach bezeichent Ioannidis, der zu den https://www.einsteinfoundation.de/medien/fragebogen/john-ioannidis/[meistzitiertesten Wissenschaftlern der Welt] gehört auf Twitter als "Außenseiter"
 
 .Lauterbach über John Ioannidis auf Twitter
-image::../images/lauterbach-twitter-ioannidis01.png[width=50%,align="center"]
+image::./images/lauterbach-twitter-ioannidis01.png[width=50%,align="center"]
 
 //.John Ioannidis wird deutlich öfter zitiert, als Christian Drosten
-//image::../images/citations-Ioannis.png[width=80%,align="center"]
+//image::./images/citations-Ioannis.png[width=80%,align="center"]
 
 Diese Vereinnahmung eines Teils der Wissenschaft für das eigene Narrativ bei gleichzeitiger Delegitimierung von Widerspruch der eigentlich das Wesen der Wissenschaft ausmacht hat https://www.tichyseinblick.de/daili-es-sentials/die-post-wissenschaftliche-gesellschaft/["Tichys Einblick" treffend als wissenschaftsfeindlich charaktersiert].
 
@@ -247,7 +246,7 @@ Beide Mittel sind seit vielen Jahrzehnten beim Menschen eingesetzt und haben seh
 Hydroxychloroquine wurde sogar von Präsident Trump als Hoffnung in der Behandlung von Corona bezeichnet, wobei die Medien daraus die Empfehlung bastelten, Trump habe die Leute aufgefordert, https://www.achgut.com/artikel/ivory_will_es_wissen_wie_sichMedien_selbst_demontieren[Chlorbleiche zu saufen]. Ich kenne die Orginalzitate nicht und habe nur viel gelesen, was darüber berichtet wurde - ob hier Trumps große Schnauze oder die Missgunst der Medien die Schuld tragen möchte ich an dieser Stelle nicht erläutern - jedenfalls war Hydroxychloroquine damit ausserhalb von Trumps Anhängerschaft erfolgreich diskretitiert.
 
 .https://today.yougov.com/topics/politics/articles-reports/2020/04/30/americans-reject-disinfectant[Umfragen] zeigen, dass Demokraten Hydroxychloroquine als gefährlich einschätzen
-image::../images/trump.png[width=50%,align="center"]
+image::./images/trump.png[width=50%,align="center"]
 
 **Ivermectin**
 
@@ -295,7 +294,7 @@ Weil Israel früher als Deutschland eine hohe Impfquote erreicht hat, aber auch 
 
 Es lies sich im Sommer beobachten, dass der Anteil der Geimpften unter den hospitalisierten COVID-Fällen https://www.beckershospitalreview.com/public-health/nearly-60-of-hospitalized-covid-19-patients-in-israel-fully-vaccinated-study-finds.html[ungefähr dem Impfgrad] der Bevölkerung entspricht. Ganz klar darf man daraus nicht schließen, dass die Impfung wirkungslos sei. Die Impfquote variiert sicher stark mit dem Alter, so dass in den Risikogruppen (und auf die kommt es ja an) - der Anteil von vielleicht 10% Ungeimpften immerhin 40% der Hospitalisierung ausmacht. *Die Impfung scheint das Risiko damit um einen Faktor 4 zu senken* Natürlich handelt es sich hier um eine Daumen-Schätzuung, dieser Faktor könnte bei 3, aber auch bei 6 liegen. Der Schutz ist aber sicher nicht 100%ig, wie noch kurz zuvor behauptet.
 
-image::../images/israel.png[width=80%,align="center"]
+image::./images/israel.png[width=80%,align="center"]
 
 Es war verwuderlich, als das RKI Anfang September verkündete, dass in Deutschland der Anteil der Ungeimpften nicht 40% wie in Israel, sondern sage und schreibe 94% beträgt.
 
@@ -439,7 +438,7 @@ Es sind keine Daten verfügbar bezüglich der Austauschbarkeit des COVID-19-Impf
 
 
 .https://violationtracker.goodjobsfirst.org/parent/pfizer
-image::../images/pfizer-violation-track.PNG[]
+image::./images/pfizer-violation-track.PNG[]
 
 
 

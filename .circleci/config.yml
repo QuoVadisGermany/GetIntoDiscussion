@@ -19,7 +19,7 @@ jobs:
           command: |
             pwd
             ls -a
-            docker run --rm -v /home/circleci/project:/documents/ asciidoctor/docker-asciidoctor asciidoctor /documents/warum-nein-zur-impfung.adoc
+            docker run --rm -v /home/circleci/project/:/documents/ asciidoctor/docker-asciidoctor asciidoctor /documents/warum-nein-zur-impfung.adoc
             ls -a
             mv warum-nein-zur-impfung.html index.html
             ls -a
