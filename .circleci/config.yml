@@ -10,6 +10,7 @@ jobs:
       image: "ubuntu-1604:202004-01"
 
     steps:
+
       - add_ssh_keys:
           fingerprints:
             - "256 SHA256:x89v/6Mbp46IXEpYnVUIr1UnESCV2vH2NY1GNt7TajI quo_vadis_germany@gmx.de (ED25519)"
@@ -23,7 +24,6 @@ jobs:
             ls -a
             mv warum-nein-zur-impfung.html index.html
             ls -a
-            git config credential.helper 'cache --timeout=120'
             git config user.email "quo_vadis_germany@gmx.de"
             git config user.name "quovadisgermany"
             git commit --allow-empty -m "html from circleci"
