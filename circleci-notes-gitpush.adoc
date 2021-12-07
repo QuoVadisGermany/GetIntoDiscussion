@@ -1,0 +1,51 @@
+create access token
+
+circle ci docs
+
+https://circleci.com/docs/2.0/add-ssh-key/
+
+
+
+
+
+https://www.py4u.net/discuss/1729178
+
+
+
+https://stackoverflow.com/questions/33467474/github-authenticates-but-will-not-allow-code-push
+
+not related to circleci but to interactive mode
+
+*****
+
+It seems likely that you have more than one SSH key, and the key that's being presented is a deploy key for the repository rather than one of your account's keys with write permissions. There are two ways of dealing with this:
+
+Remove all keys from your SSH agent, and re-add just the correct account key.
+
+
+
+ssh-add -D
+ssh-add /path/to/correct/key
+Use HTTPS instead of SSH. You can do this easily by changing the remote URL for origin to use the HTTPS scheme instead of SSH.
+
+One or the other of these should work, unless you are simply presenting the wrong credentials altogether.
+
+*****
+
+https://stackoverflow.com/questions/44773415/how-to-push-a-commit-to-github-from-a-circleci-build-using-a-personal-access-tok
+
+git credential helper cache
+
+*****
+
+
+*****
+
+https://blog.jdblischak.com/posts/circleci-ssh/
+
+
+
+
+
+https://git-scm.com/docs/git-credential-cache
+
