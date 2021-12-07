@@ -10,11 +10,10 @@ jobs:
       image: "ubuntu-1604:202004-01"
 
     steps:
-
+      - checkout
       - add_ssh_keys:
           fingerprints:
             - "256 SHA256:x89v/6Mbp46IXEpYnVUIr1UnESCV2vH2NY1GNt7TajI quo_vadis_germany@gmx.de (ED25519)"
-      - checkout
       - run:
           name: "Build HTML"
           command: |
