@@ -1,6 +1,6 @@
-:toc:
-
 = Warum bin ich nicht gegen COVID geimpft?
+
+:toc: left
 
 [quote, Noam Chomsky]
 
