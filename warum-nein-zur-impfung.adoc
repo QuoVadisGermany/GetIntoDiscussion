@@ -130,11 +130,12 @@ Medienberichte und sogenannte Fakten-Checker haben das Video als unseriös darge
 ===== 2021 beobachten wir eine deutliche Übersterblichkeit
 
 * Die aktuelle Graphik ist unten dargestellt.
-Man sieht, dass im Gegensatz zum Jahr mit Impfung der Verlauf der Sterblichkeit oberhalb derer der Vorjahre verläuft. Das diese Übersterblichkeit durch die gefährlichen Virus-Varianten induziert wird, kann man durch Betrachtung der COVID-Sterbezahlen, die ebenfalls eingezeichnet sind ausschließen.
+Man sieht, dass im Gegensatz zum Jahr mit Impfung der Verlauf der Sterblichkeit oberhalb derer der Vorjahre verläuft. Das diese Übersterblichkeit durch die gefährlichen Virus-Varianten Delta und Omicron induziert wird, kann man durch Betrachtung der COVID-Sterbezahlen, die ebenfalls eingezeichnet sind ausschließen.
 
-* Ob diese im Diagramm deutlich sichtbare Übersterblichkeit durch die Impfkampagne verursacht wurde, kann ich nicht beurteilen - ich würde mir hier aber weitere Untersuchungen wünschen.
+* Es steht natürlich im Raum, das die  Übersterblichkeit durch die Impfkampagne verursacht wurde. Dr. Rolf Steyer und Dr. Gregor Kappler haben im Auftrag der thüringer Landtagsabgeordneten Dr. Ute Bergner deutsche Bundesländer verglichen und eine Korrelation zwischen hoher Impfquote und hoher Übersterblichkeit gefunden. Der Vollständigkeit halber sei erwähnt, dass dieser Analyse von den üblichen Faktencheckern widersprochen wird, z.B. https://correctiv.org/faktencheck/2021/12/07/im-thueringer-landtag-vorgestellte-analyse-zeigt-nicht-dass-eine-hohe-impfquote-zu-erhoehter-sterblichkeit-fuehrt/[correctiv]. Weiter geht der
+der Youtuber https://www.youtube.com/channel/UCRUDDX1GNzPlYG-WNVEV5VA["Der subjektive Student"], der Daten des RKI und des Bundesamt für Statistik betrachtet und auf einen zeitlichen Zusammenhang zwischen der Impfkampagne und Spitzen in der Sterblichkeit hinweist - jeder kann sich https://www.youtube.com/watch?v=4EGk_-cV07o[hier] selbst ein Bild machen. Darüberhinaus stellt er https://www.youtube.com/watch?v=K8_oCgQec9o[hier] dar, dass die Presse schweigt, wenn es nicht ins Narrativ passt.] Ich glaube nicht, dass der Zusammenhang nach den vorliegenden Analysen bewiesen ist, aber es kann nicht sein, dass die Beweislast hier bei den, von einer Impfpflicht bedrohten Bürgern liegen soll. Der Staat, der hier in beispielloser Weise ein innovatives Arzneimittel unter Notzulassung mit Zuckerbrot und Peitsche unters Volk (frei nach Frank Ulrich Montgomery) unters Volk gebracht hat schuldet uns Aufklärung.
 
-* Die Linie mit den Punkten (COVID-Tote) is trückläufig, weil geimpfte Intensivpatienten nicht mehr gezählt werden, wenn sie zwar positiv getestet sind, aber an etwas anderem versterben.
+* Die Linie mit den Punkten (COVID-Tote) ist übrigens rückläufig, weil geimpfte Intensivpatienten nicht mehr gezählt werden, wenn sie zwar positiv getestet sind, aber an etwas anderem versterben.
 Mit steigerder Impfquote ergibt sich dieser Rückgang automatisch, auch wenn sich sonst NICHTS ändert.
 So kann man mit Statistiken manipulieren.
 Man schaut die Übersterblichkeitsstatistik ja eben deshalb an, weil man solche Effekte nicht sehen möchte.
@@ -186,8 +187,7 @@ Nach sogut wie 2 Jahren Corona nennt Google ca. 100.000 Corona-Tote in Deutschla
 *An oder Mit Corona gestorben?*
 
 Leider wurde bei der Zählung der Corona-Toten nie ein Unterschied zwischen Patienten gemacht, die AN Corona gestorben sind und Patienten, die MIT Corona gestorben sind.
-Diese 2020 viel disskutierte Auslassung wurde damit begründet, dass die Abgrenzung im Einzelfall nicht möglich sei. ein 2021 jedoch wird bei geimpften Patienten, die Covid-Positiv versterben sehr wohl unterschieden.
-Als Impfdurchbruch wird der Sterbefall nur dann gewertet, wenn eine Erkrankung mit einschlägiger Symptomatik zum Tod führte.
+Diese 2020 viel diskutierte Auslassung wurde damit begründet, dass die Abgrenzung im Einzelfall nicht möglich sei. Erstaunlicherweise wird 2021 jedoch bei geimpften Patienten, die Covid-Positiv versterben sehr wohl unterschieden - da ist die Abgrenzung dann plötzlich doch möglich und als Impfdurchbruch wird der Sterbefall nur dann gewertet, wenn eine Erkrankung mit einschlägiger Symptomatik zum Tod führte.
 
 Ich bin auch bei Betrachtung der Übersterblichkeit und des Sterbealters (s.o.) überzeugt, dass ein Großteil der Opfer auch ohne Corona nicht mehr leben würde.
 Es ist sicher 2020 kein Patient in eine Intensivstation aufgenommen worden, ohne auf Corona getestet zu werden und aus statistischen Gründen ist natürlich anzunehmen, dass auch Opfer des "normalen" Sterbegeschehens mit der in der in der Bevölkerung üblichen Rate infiziert und ggf. auch symptomlos sind.
@@ -196,7 +196,7 @@ Umgekehrt sehe ich hingegen keine Möglichkeit einer Dunkelziffer, da 2020 siche
 Leider kann ich diese mir logisch erscheinenden Schlüsse nicht belegen.
 
 Die Wissenschaft beziffert das Verhältnis zwischen https://www.welt.de/wissenschaft/article214363586/Covid-19-Tote-in-Deutschland-86-sterben-nicht-mit-sondern-an-Corona.html[85%] und https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html[20%], so dass hier festzuhalten bleibt, dass eine große Unsicherheit bezüglich der Zahl der AN Corona verstorbenen Patienten herrscht. nimmt man an, dass 50% und damit 25.000 Tote pro Jahr echte Corona-Tote waren, so entspricht Corona eben einer starken Grippewelle.
-In meinen Augen ist die 50%-Einschätzung bereits eine Worst-Case-Annahme
+In meinen Augen ist die 50%-Einschätzung bereits eine Worst-Case-Annahme. footnote:opferzahlenhinweis[Ich möchte ausdrücklich betonen, dass ich die Zahl von 50.000 Toten pro Jahr nur im Rahmen dieser Argeumentation verwende - in Wirklichkeit bin ich überzeugt, dass die Zahlen viel, viel geringer sind - ich kann das nur nicht beweisen.]
 
 Wenn wirklich jemand der Ansicht ist, bei mehr als 50% der Corona-Fälle sei dies auch die Todesursache, dann möge er mir erklären, warum in der Übersterblichkeit (s.o.) keine Erhöhung sichtbar ist.
 Nur um einem vorzugreifen: Eine Reduktion tödlicher Verkehrsunfälle durch den Lockdown 2020 ist unplausibel.
@@ -274,7 +274,7 @@ Ein wesentlicher Treiber für die Panik in 2020 war die Situation in einigen reg
 
 * In der Lombardei, aber auch in New York und Wisconsin habe ich Hinweise gefunden (Social Media und Lokalpresse), dass es gängige Praxis war, Covid-Patienten die Pflege aber keine Therapie benötigen aus Krankenhäusern in Altenheime zu verlegen. Im Fall des Wisconsin benachbarten und ebenfalls demokratisch geführten Staates Michigan https://www.bridgemi.com/michigan-government/feds-demand-answers-gov-whitmer-michigan-nursing-home-deaths[kam es zu einer formalen Untersuchung des Bundes gegen Gouvaneurin Gretchen Whitmer] die freilich unter Joe Biden https://www.bridgemi.com/michigan-health-watch/feds-wont-probe-michigan-nursing-home-covid-policy-despite-initial-query[wieder eingestellt wurde]. Hiervon habe ich in der deutschen Presse nichts erfahren.
 
-* Wenn man über regionale Hotspots redet, muss man natürlich zuerst über Wuhan sprechen. Ich habe die Situation dort früh verfolgt und es zeichnete sich dort wirklich apokalyptisches Bild: Menschen, die auf offener Straße tot zusammenbrachen - der junge Arzt, der das Virus entdeckt habe und nach mehreren Wochens heroischen Kampfes selbst der Krankheit erlag - Kraftanstrengungen zur Errichtung ganzer Krankenhäuser binnen weniger Tage - Menschen, die aus dem Taxi geschmissen wurden, weil sie zugaben in Wuhan gewesen zu sein... Umso befremdlicher (natürlich auch erleichternder) war es, die vergleichsweise geringen Auswirkungen hierzulande zu sehen. Aber es stellte sich sofort die Frage, wie das zusammenpasse.
+* Wenn man über regionale Hotspots redet, muss man natürlich zuerst über Wuhan sprechen. Ich habe die Situation dort früh verfolgt und es zeichnete sich dort wirklich apokalyptisches Bild: Menschen, die auf offener Straße tot zusammenbrachen - der junge Arzt, der das Virus entdeckt habe und nach mehreren Wochens heroischen Kampfes selbst der Krankheit erlag - Kraftanstrengungen zur Errichtung ganzer Krankenhäuser binnen weniger Tage - Menschen, die aus dem Taxi geschmissen wurden, weil sie zugaben in Wuhan gewesen zu sein... Umso befremdlicher (natürlich auch erleichternder) war es, die vergleichsweise geringen Auswirkungen hierzulande zu sehen. Aber es stellte sich sofort die Frage, wie das zusammenpasse. Nun muss man sich bewust machen, dass Informationen aus China sicher nur nach Billigung durch die KP nach außen dringen und das China dem Westen ganz klar nicht wohlgesonnen ist. Hier sehe ich also keine vertrauenswürdige Quelle, daher würde ich die Erfahrungen aus Wuhan bei der Bewertung der Pandemie verwerfen.
 
 * Schließlich gibt es sowohl positive wie auch negative Abweichungen von der Norm, https://www.youtube.com/watch?v=O1DgWYdukZU[Die Amish haben die Pandemie ohne sichtbaren Schaden überstanden], ohne dass sie irgendwelche Maßnahmen (natürlich auch keine Impfung) getroffen hätten. Schweden steht mit vergleichsweise milden Maßnahmen (und einer Impfquote wie in D) vergleichsweise gut dar. Trotz weniger Impfungen blieb die große Katastrophe aus. (https://www.spiegel.de/ausland/hohe-durchseuchung-und-niedrige-sterblichkeit-in-afrika-a-5b16ecd0-1803-4659-8405-3696c0ef55cb[Spiegel])
 
@@ -296,40 +296,49 @@ Es lies sich im Sommer beobachten, dass der Anteil der Geimpften unter den hospi
 
 image::./images/israel.png[width=80%,align="center"]
 
-Es war verwuderlich, als das RKI Anfang September verkündete, dass in Deutschland der Anteil der Ungeimpften nicht 40% wie in Israel, sondern sage und schreibe 94% beträgt.
+Es war verwunderlich, als das RKI Anfang September verkündete, dass in Deutschland der Anteil der Ungeimpften nicht 40% wie in Israel, sondern sage und schreibe 94% beträgt.
 
-Über Monate klärte sich langsam auf, wie dieses Ergebnis zustande kam. Hierzu stehen einige Behauptungen im Raum.
+Über Monate klärte sich langsam auf, wie dieses Ergebnis zustande kam. Der erste, der hier Hinweise lieferte war der Youtuber https://www.youtube.com/channel/UCRUDDX1GNzPlYG-WNVEV5VA["Der subjektive Student"], den wir schon mit seinen Analysen zur Übersterblichkeit 2021 kennengelernt haben. Seine Argumente gegen dieses Narrativ stellt er https://www.youtube.com/watch?v=lkST9sJL5Lc[hier] dar. Die Argumente sind (Details im Video):
 
-* Ungeimpfte Intensivpatienten mit einem anderen Einweisungsgrund werden getestet und bei positivem Ergebnis als COVID-Patienten gezählt. Geimpfte Intensivpatienten werden nicht getestet (bestätigt, aufgedeckt von einem https://www.youtube.com/watch?v=LLpC7DOUH5w&t=39s[Youtuber])
+* Eine verzerrte Statistik in der einschlägigen Tabelle 3 im Wochenbericht dadurch, weil die Kriterien um in diese Tabelle aufgenommen werden, sich unterscheiden zwischen Ungeimpften und Geimpften.
 
-* Geimpfte Patienten mit positivem Ergebnis aber keinen Corona-Typsichen-Symptomen werden nciht als Impfdurchbruch definiert. Wenn also gesagt wird: Auf der Intensiv-Station sind nur 10% Impfdurchbrüche kann das bedeuten, dass mehr als 10% der Corona-Positiven Patienten Geimpft sind.
+* Möglicherweise gilt ein Patient der nicht wegen Corona behandelt wird bei positivem Test als COVID-Fall, aufgrund der fehlenden Systematik aber nicht als Impfdurchbruch. Dies würde zur Fehlinterpretation der Tabelle 3 führen.
+
+* Der Impfsatus von COVID-Patinenten wird bei einem erstaunlich hohen Anteil der Patienten als "unbekannt" gemeldet. Bis zum 30.09. wurden diese Fälle den Ungeimpften zugeschlagen. Der Impfstatus "unbekannt" wächst ausserdem im Lauf der Zeit immer mehr an - von 38{nbsp}% in KW{nbsp} auf 59{nbsp}% in KW{nbsp}46. Angesichts dessen, dass ich im Alltag permanent meinen Imfpstatus nachweisen muss ist es absurd, dass im Krankenhaus bei der Mehrzahl der Patienten der Impfstatus unbekannt ist. Kann es sein, dass man geimpfte geziehlt aus der Statistik nimmt, indem man den Status als "unbekannt" meldet?
+
+Der subjektive Student ist sehr gewissenhaft bei der Nennung seiner Quellen, und zurückhaltend, was Bwertungen anbelant. Der freien Journalisten https://reitschuster.de/[Boris Reitschuster] geht diesen Hinweisen ebenfalls nach, er hat sich den ganzen Herbst durchgegenüber der Bundesregierung und dem RKI um Aufklärung über die Zählweisen bemüht. Ich habe Stunden seiner Berichterstattung aus der Bundespressekonferenz gesehen und immer weider beobachtet, wie sich die Verantwortlichen um eine Antwort gewunden haben. Stellvertretend für viele Stunden Bundespressekonferenz, die ich zu dem Thema gesehen habe, sei dieses kurze https://www.youtube.com/watch?v=YoycxmZ3ji0[Video] genannt.
+
+Am 15.11. wurde Prof. Marx von der DIVI, welche das Intensivbettenregister führt im Bundestag vom Abgeordneten Martin Sichert befragt: wie viele der 1662 (in der letzten Woche mit Covid aufgenommenen) Patienten geimpft bzw. ungeimpft waren?
+Antwort: Diese Frage kann ich leider nicht beantworten, weil wir bisher noch nicht erfasst haben, welche Patienten auf den Intensivstationen geimpft und welche nicht geimpft sind.  https://www.bundestag.de/resource/blob/869052/8ad3e08fc55c91e8f87812e64d74f691/protokoll-data.pdf[Protokoll Seite 28] *Wie kann es sein, dass wir zu dieser wichtigen Frage keine Daten haben und wie kann es sein, dass Politiker und Medien hier Permanent Behauptungen aufstellen, die offenkudig nicht durch die Datenlage gedeckt sind* Diese Widersprüche hat Boris Reitschuster in einem https://www.youtube.com/watch?v=m2lBN2PKw2w[kurzen Video] zusammengestellt.
+
+Um das Bild vom "Tarnen und Täuschen" abzurunden fallen einschlägige Politiker (insbesondere Markus Söder) immer wieder mit der Aussage auf "90{nbsp}% der COVID- Intensivpatienten sind ungeimpft" Diese Aussage wäre selbst dann Absurd, wenn man den offiziellen RKI Zahlen folgt. Den Auszug aus dem aktuellen Wochenbericht stelle ich hier dar, es sind danach knapp die Hälfte der Intensivpatienten mit COVID geimpft, das selbe gilt für die Todesfälle. Mutmaßlich (siehe oben) liegt diese Zahl höher. Andreas Scheuer hat im Interview mit BILD das Klinikum Passau erwähnt, wo 10 von 11 Patienten ungeimpft seien - hat er sich hier bewust einen nicht repräsentativen Fall herausgepickt, damit er nicht lügen muss? Diese spezifische Angabe hat bei mir den Eindruck hinterlassen.
+
+Wenn man das https://www.youtube.com/watch?v=LLpC7DOUH5w&t=39s[ursprüngliche Video] aus dem August anschaut, mit dem der subjektive Student die 94% Aussage als Betrug entlarvt hat, bleibt festzuhalten, dass die Zeit ihm Recht gegeben hat. Zu dieser Zeit hat der Mainstream noch am Narrativ der "Pandemie der Ungeimpften" festgehalten - der Youtuber hingegen hat die Effektivität der Impfung in Zweifel gezogen - berechtigt, wie sich nach 3 Monaten herausgestellt hat. Was sagt mir das bezüglich der Frage, welcher Seite ich heute vertrauen soll?
+
+Auch andere Quellen aus der Gegenöffentlichkeit, z.B. https://uncutnews.ch/studie-in-the-lancet-die-mehrheit-der-derzeit-infizierten-und-toten-in-deutschland-dem-vereinigten-koenigreich-israel-und-den-usa-ist-vollstaendig-geimpft/[uncutnews.ch] berichten von einer höheren Quote geimpfter auf den Intensivstationen, nicht nur Reitschauaster und der Subjektive student. Ich habe lediglich 2 Quellen herausgegriffen.
+
+*Selbstverständlich ist diese Frage hochinteressant, es liegt an den Verantwortlichen, hier qualitativ hochwertige Daten bereitzustellen anstatt Halbwahrheiten zu verbreiten!*
+
+
+.Die einschlägige "Tablelle 3" aus dem RKI Wochenbericht (hier von Anfang Dezember) weist unter den Corona-Toten 48% geimpfte aus. Für die Fälle auf der Intensivstation und die hodpitalisierten Fälle ist die Quote ähnlich (die Altersgruppe unter 60 kann man aufgrund der geringen Fallzahl vernachlässigen.)
+image::images/rki-wobericht-tab3.png[align="center",width=80%]
+
+Als Nachtrag "geistern" noch weitere Aussagen durch Social Media:
 
 * Geimpfte Patienten, die zu wenige Antikörper haben, werden als ungeimpft gezählt.
 
-* Patienten mit einer Impfung werden als ungeimpft gezählt.
+* Patienten mit nur einer Impfung werden als ungeimpft gezählt. (bestätigt)
 
-* Patienten bei denen die Zweit-Impfung weniger als 14 Tage zurückliegt werden als ungeimpft gezählt.
+* Patienten bei denen die Zweit-Impfung weniger als 14 Tage zurückliegt werden als ungeimpft gezählt. (bestätigt)
 
 * Patienten bei denen die Impfung mehr als 6 Monate zurückliegen, werden als ungeimpft gezählt.
 
 * Patienten mit einer in der EU nicht zugelassenen Impfung (Sinovac, Sputnik), werden als ungeimpft gezählt.
 
-* Ein auffällig hoher Anteil an Patienten hat angeblich einen unbekannten Impfstatus. Es gibt Aussagen, dass dieser Anteil den Ungeimpften zugerechnet wurde
 
-*Ich bin kein Journalist und kann nicht jeder dieser Behauptungen nachrecherchieren.* Aber es läge an den Verantwortlichen, hier nachvollziehbar Aufklärung über die Zählweise zu geben. Der Journalist Boris Reitschuster hat über Monate versucht, diese Widersprüche in der Berechnung aufzuklären. Stellvertretend für viele Stunden Bundespressekonferenz, die ich zu dem Thema gesehen habe, sei dieses kurze https://www.youtube.com/watch?v=YoycxmZ3ji0[Video] genannt.
+Natürlich springen correctiv und co. der Obrigkeit zur Seite (https://www.tagesschau.de/faktenfinder/ungeimpfte-covid-patienten-101.html[ARD], https://correctiv.org/faktencheck/2021/11/03/nein-geimpfte-zaehlen-nicht-als-ungeimpfte-sobald-sie-symptome-entwickeln/[Correctiv]) und kanzeln das als "unbewiesen" ab. Aber mal ehrlich? Wer glaubt noch irgendetwas, wenn man die obigen Analysen mal auf sich wirken lässt.
 
-Am 15.11. wurde Prof. Marx von der DIVI, welche das Intensivbettenregister führt im Bundestag vom Abgeordneten Martin Sichert befragt: wie viele der 1662 (in der letzten Woche mit Covid aufgenommenen) Patienten geimpft bzw. ungeimpft waren?
-Antwort: Diese Frage kann ich leider nicht beantworten, weil wir bisher noch nicht erfasst haben, welche Patienten auf den Intensivstationen geimpft und welche nicht geimpft sind.  https://www.bundestag.de/resource/blob/869052/8ad3e08fc55c91e8f87812e64d74f691/protokoll-data.pdf[Protokoll Seite 28] *Wie kann es sein, dass wir zu dieser wichtigen Frage keine Daten haben und wie kann es sein, dass Politiker und Medien hier Permanent Behauptungen aufstellen, die offenkudig nicht durch die Datenlage gedeckt sind* Diese Widersprüche hat Boris Reitschuster in einem https://www.youtube.com/watch?v=m2lBN2PKw2w[kurzen Video] zusammengestellt.
 
-Diese Aussagen stehen auch im Widerspruch zu zahlreichen Faktencheckern (https://www.tagesschau.de/faktenfinder/ungeimpfte-covid-patienten-101.html[ARD] oder https://correctiv.org/faktencheck/2021/11/03/nein-geimpfte-zaehlen-nicht-als-ungeimpfte-sobald-sie-symptome-entwickeln/[Correctiv]), welche die Argumentation mit der Zählweise als Desinformation von "Querdenkern" einwerten.
-
-Ich wünsche mir hier die Bereitstellung von transparenten, vollständigen und einsehbaren Zahlen deutschlandweit
-
-* Werden alle Personen, die in deutschen Kliniken aufgenommen werden unabhängig vom Impfstatus getestet? (Angesichts der Tatsache, dass ich einen Test brauche um Bus zu fahren will ich das schwer hoffen)
-
-* Pro Datensatz: Alterskohorte, Impfstatus, Symptome, Intensiv- oder Normlalpatient
-
-Ich möchte da vollen Zugriff auf die gesamtdaten haben, damit man Korrelationen untersuchen kann.
 
 Es bleibt feszuhalten, dass hier Aussage gegen Aussage steht. Entweder die https://uncutnews.ch/studie-in-the-lancet-die-mehrheit-der-derzeit-infizierten-und-toten-in-deutschland-dem-vereinigten-koenigreich-israel-und-den-usa-ist-vollstaendig-geimpft/[Mehrheit der Infizierten ist Geimpft] oder 90% der Patienten sind ungeimpft, wie Politiker und https://www.rbb24.de/panorama/thema/corona/beitraege/2021/11/interview-divi-geimpfte-ungeimpfte-unterschiede.html[Medien] nicht müde werden, zu behaupten.
 
