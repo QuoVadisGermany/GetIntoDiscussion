@@ -481,14 +481,14 @@ Es sind keine Daten verfügbar bezüglich der Austauschbarkeit des COVID-19-Impf
 
 
 
-==== Die Herstellerunternehmen sind nicht vertrauenswürdig
+=== Die Herstellerunternehmen sind nicht vertrauenswürdig
 
 
 .https://violationtracker.goodjobsfirst.org/parent/pfizer
 image::./images/pfizer-violation-track.PNG[]
 
 
-== Die Ungeimpften tragen keine Verantwortung für eine etwaige Überlastung der Intensivstationen
+=== Die Ungeimpften tragen keine Verantwortung für eine etwaige Überlastung der Intensivstationen
 
 Im fortgeschrittenen Herbst 2021 liess sich nicht mehr leugnen, dass die Impfstoffe nicht vor Weitergabe des Virus und Erkrankung schützen.
 Das Narrativ schwenkte daher um von "Die Impfung schützt vor Erkrankung mit dem Coronavirus und dessen Übertragung" auf "Die Impfung schützt vor einem schweren Verlauf". Die Ungeimpften, die nun nicht mehr für die Verbreitung der Krankheit verantwortlich gemacht werden konnten wurden nun bezichtigt, verantwortlich für die Überlastung der Intensivstationen zu sein.
@@ -512,7 +512,13 @@ Dieses Narrativ hat gleich mehrere Schwächen:
 .Entwicklung der Intensivbettenkapazitäten.
 image::images/Intensivbetten.png[align=center, width=70%]
 
-*Und jetzt bin ich als Ungeimpfter Schuld an der Auslastung der Intensivstationen? Klar doch!*
+Nachtrag:
+
+* Auch im letzten Jahr mussten fragwürdige Intensivbettenzahlen als Argument für die Bundesnotebremse herhalten (siehe https://www.bitchute.com/video/oqUtg6oPJBU/[hier] und https://www.bitchute.com/video/QzLIUOl9Hq2j/[hier])
+
+* Interessant wäre, nicht immer den Anteil der Ungeimfpten an den COVID-Patienten zu besprechen, sondern auch den Anteil der Geimpften an allen anderen Patienten. Hier könnte man ggf. ablesen, ob Impfnebenwirkungen auftreten (vergleiche dazu unsere Betrachtungen der Übersterblichkeit weiter oben).
+
+*Ich schwanke in meiner Bewertung zwischen "Die Ungeimpften werden als Sündenbock für Politikversagen missbraucht" und "Der Notstand wurde mutwillig herbeigeführt, um ein Druckmittel gegen die Ungeimpften zu haben"*
 
 === Der herschende "Impf-Extremismus" verhindert rationalen Diskurs
 
