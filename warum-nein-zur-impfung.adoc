@@ -377,19 +377,21 @@ _Im Frühsommer 2020 habe ich meiner Hausärztin gegenüber bei einer Konsultati
 
 * Die Verlautbarungen zur Pandemie von Politikern und Medienvertretern brandmarken ja immer jeden Zweifel oder jede abweichende Meinung als "unwissenschaftlich". Die Unfehlbarkeit, die damit in Anspruch genommen wird, ist besonders absurd, wenn man über die letzten Monate die Einchätzung zur Wirksamkeit der Impfstoffe revidieren musste. Wer sagt mir, dass nicht die Einschätzung zur Sicherheit der Impfstoffe ebenso vorläufig ist?
 
-*Politiker und Experten haben die Bevölkerung mit den optimistischen Behauptungen zum Impfschutz getäuscht, denn wäre gleich klar gewesen, dass der Impfschutz temporär und die Ipfung ein andauernder Prozess ist (wie meine Ärztin und ich das schon 2020 wusten), dann wäre die Akzetpanz sicher viel geringer augefallen. Zudem war den Verantwortlichen vermutlich bewust, dass sie mit 2G die 4. Welle provozieren. Das ist für mich ein klarer Hinweis darauf, dass die Pandemie ein Wilkommener Anlass für die Selbst-Ermächtigung der Politik ist.*
+Politiker und Experten haben die Bevölkerung mit den optimistischen Behauptungen zum Impfschutz getäuscht, denn wäre gleich klar gewesen, dass der Impfschutz temporär und die Ipfung ein andauernder Prozess ist (wie meine Ärztin und ich das schon 2020 wusten), dann wäre die Akzetpanz sicher viel geringer augefallen. *Zudem war den Verantwortlichen vermutlich bewust, dass sie mit 2G die 4. Welle provozieren. Das ist für mich ein klarer Hinweis darauf, dass die Pandemie ein Wilkommener Anlass für die Selbst-Ermächtigung der Politik ist.*
+
+Nachtrag vom 13.12.: Mittlerweile wiederholt sich das Spiel mit der Omikron-Variante. Zunächst hat man 2G+ eingeführt, weil ja Geimpfte das Virus auch weitergeben. Die Inzidenz ist nun seit 2 Wochen  am Fallen und nun kommen immer mehr Orte auf die Idee, Geboosterte von der Testpflicht zu befreien. *Nocheinmal: Das ist nicht fahrlässig, sondern mutwillig, man will die Inzidenzen wieder oben haben, denn die Politik möchte den Ausnahmezustand perpetuieren*
 
 === Die Impfstoffe sind gefährlicher als jeder andere Impfstoff, den wir kennen
 
-==== Meine Laien-haften Vorüberlegungen machen mich skeptisch bezüglich der Impfung
+==== Der politische Rahmen ist eine Steilvorlage für ein Desasater
 
-**Die Hundertprozentige Sicherheit und die Experten**
+**Richtige Angst bekomme ich, wenn Experten von 100%iger Sicherheit sprechen**
 
 Hundertprozentige Sicherheit gibt es nicht. Nicht in der Kernkraft, nicht in der Raumfahrt. Es gibt immer ein Restrisiko - die Frage ist nur 1. wie hoch ist es und 2. kennt man es überhaupt.
 
-In den sechziger Jahren hätten Wissenschaftler den Kopf geschüttelt, wenn man die Sicherheit von Aspest oder Atomenergie in Zweifel gezogen hätte. Wir haben gelernt, diesen Aussagen mit Misstrauen zu begegnen. Die Atomenergie wurde in Deutschland abgeschafft (was ich bedauere) obwohl keine konkreten Sicherheitsbedenken vorlagen - lediglich die Erfahrung, dass im Hochtechnologie-Land Japan etwas wie Fukoschima passieren konnte legte den Schluss nahe, dass auch hierzulande ein unbekanntes "Restrisiko" vorliegt.
+Legendär ist die die Falle einer zu großen Selbssicherheit im Fall der Titanic geworden. Das Krezfahrtschiff war bekanntlich unsinkbar und eben daher ist es auf seiner Jungfernfahrt gescheitert, hat doch diese voreilige Einschätzung alle Beteiligten in falscher Sicherheit gewogen.
 
-Zu keinem Zeitpunkt hätte die Öffentlichkeit sich die Mitsprache bei diesem Thema von einer Runde Siemens-Ingenieure und Kernphysiker verbieten lassen mit dem Hinweis darauf, nicht die notwendige Qualifikation zu haben, mitdiskutieren zu wollen.
+Ein zeitlich näheres Beispiel ist die Kernkraft. Die Öffentlichkeit hat nach Tschernobyl die Zusicherung 100%iger Sicherheit nicht mehr akzeptiert und nie hätte sich die Betreiber darauf zurückziehen können, dass eine Runde aus Siemens-Ingenieuren und Kernphysikern die 100%ige Sicherheit der Technologie bestätigt - Ender der Diskussion.
 
 **Der Faktor Zeit**
 
@@ -400,7 +402,11 @@ Wie kommt es, dass die Impfstoffhersteller ihre Einschätzung zur Wirksamkeit so
 .Eine Info-Graphik der Sendung "Quarks" gibt die Dauer der Impfstoffentwicklung mit 8 bis 17 Jahren an.
 image::images/phasen-der-impfstoffentwicklung.png[width=59%, align="center"]
 
+**Der Faktor Alternativlsoigkeit**
 
+Schon früh (nämlich noch im ersten Lockdown 2020) hat sich die Politik festgelegt, dass nur die Impfung, die Cornona-Krise beenden könne. Alternative Ansätze wurden nie ernsthaft in Erwägung gezogen. Das hat einen enormen politischen Druck aufgebaut. Es ist offenkundig, dass dies das Risiko erhöht: Man stelle sich vor, ein Sachbearbeiter in irgendeiner Gesundheitsbehörde prüft die Zulassung uns stellt fest, dass ein Testergebnis unbefriedigend ist. Ordnet er weitere Tests an? Damit ist er derjenige, der die Rückkehr zur Normalität verhindert und sich rechtfertigen muss, wenn die Bedenken sich als unbegründet herausstellen. Dann prüft man lieber weniger gewissenhaft und winkt das Ergebnis durch - wenn das schief geht, ist man ein Rädchen im großen Getriebe, das sich in die Richtung gedreht hat, wie alle anderen.
+
+Ich kenne mich nicht mit Arzneimittelfreigaben aus, aber genau diesen Effekt gibt es bei der Freigabe großer Softwareprojekte -  Ein typischer Widerspruch ist, dass vom Vorstand gedeckte Großprojekte durchgewunken werden, während Kleinstvorhaben nach allen Regeln der Kunst Risikomanagement-Prozesse durchlaufen.
 
 **Die Gesellschaft "durchimpfen"**
 
@@ -408,7 +414,7 @@ Ich habe in den letzten Jahren unter anderem Software für ein großes Rechenzen
 
 Der Impfstoff kann der sicherste der Welt sein, es gibt immer ein Restrisiko - so klein es auch seien mag. Machen wir mal ein Gedankenexperiment, nach dem es ein Restrisiko von 1:10.000 gibt, dass 10% der Impflinge nach einigen Jahren zu Tode kommen.
 
-Persönlich könnte man sich die Impfung geben, denn eine 1:10.000 Risiko ist etwas, mit dem man persönlich ständig konfrontiert ist. Aber als Gesellschaft können wir uns das nicht leisten, denn wenn es doch eintritt, haben wir bei globalem Roll-Out Milliarden Menschen auf dem Gewissen. Hoffentlich ist das Beispiel unrealistisch, aber Gedankenexperimente funktionieren durch ihre Zuspitzug. Wenn wir die Kriterien anlegen, die wir z.B. bei Kernenergie anlegen, müssten wir einen Roll-Out auf die Gesamtbevölkerung ablehenen.
+Persönlich könnte man sich die Impfung geben, denn eine 1:100.000 Risiko ist etwas, mit dem man persönlich ständig konfrontiert ist. Aber als Gesellschaft können wir uns das nicht leisten, denn wenn es doch eintritt, haben wir bei globalem Roll-Out Milliarden Menschen auf dem Gewissen. Hoffentlich ist das Beispiel unrealistisch, aber Gedankenexperimente funktionieren durch ihre Zuspitzug. Wenn wir die Kriterien anlegen, die wir z.B. bei Kernenergie anlegen, müssten wir einen Roll-Out auf die Gesamtbevölkerung ablehenen.
 
 _Gerade die Neuartigkeit der mRNA Impfstoffe gebietet es, die Impfung auf die vulnerablen Gruppen zu beschränken und es bei Freiwilligkeit zu belassen_
 
@@ -543,15 +549,27 @@ Inzwischen ist ja klar, dass ich dem Mainstream gegenüber ein massives Vertraue
 
 Herzmuskelenzündungen sind eine mittlerweile anerkannte Nebenwirkung der Impfung (und ganz ungefährlich, wie wir dieses Jahr gelernt haben) und können meinem Verständnis nach selbstverständlich einen Herzinfakt auslösen.
 
-Im Rahmen eines Interviews auf einer https://www.merkur.de/lokales/garmisch-partenkirchen/murnau-ort29105/impfkritik-bayern-eklat-corona-ukm-ungeimpft-intensivstation-klinik-murnau-impfung-news-aktuell-91166961.html[Corona-Demo sagte der Leiter der Intensivstation des Klinikum Murnau], dass die Notfälle mit Kardiologischen oder Neurologischen Problemen seit der Impfkampagne um ca. 25% zugenommen hätten.  Er weist übrigens selbst darauf hin, dass dies keinen kausalen Zusammenhang beweise, begründet aber seine eigenen Ängste damit. Übrigens sieht die Klinik ein Fehlverhalten: "Dabei hat er seine Funktion missbraucht, um seine privaten Ansichten öffentlich und unautorisiert im Klinikkontext zu verbreiten" und kündigt Konsequenzen an. Hätte er sich privat unter Berufung auf seine Funktion lobend zu der Impfung geäußert, würde ihm nichts passieren. *Diese Ungleichbehandlung ist nicht nur unfair dem Mitarbeiter gegenüber, sondern verzerrt auch den Diskurs.*
+Im Rahmen eines Interviews auf einer https://www.merkur.de/lokales/garmisch-partenkirchen/murnau-ort29105/impfkritik-bayern-eklat-corona-ukm-ungeimpft-intensivstation-klinik-murnau-impfung-news-aktuell-91166961.html[Corona-Demo sagte der Leiter der Intensivstation des Klinikum Murnau], dass die Notfälle mit Kardiologischen oder Neurologischen Problemen seit der Impfkampagne um ca. 25% zugenommen hätten.  Er weist übrigens selbst darauf hin, dass dies keinen kausalen Zusammenhang beweise, begründet aber seine eigenen Ängste damit.
 
 Ich finde die Verharmlosungen einer schweren Erkrankung unglaubwürdig und wer mich zu einer medizinischen Behandlung nötigen möchte, sollte etwas mehr Ehrlichkeit ausstrahlen, um glaubwürdig zu sein.
+
+====== Informationen werden unterdrückt
+
+Übrigens sieht die Klinik Murnau in dem Interview, das der ungeimpfte Leiter der Intensivstation gegeben hat (siehe vorhergehender Abschnitt) ein Fehlverhalten: "Dabei hat er seine Funktion missbraucht, um seine privaten Ansichten öffentlich und unautorisiert im Klinikkontext zu verbreiten" und Konsequenzen werden angekündigt.
+
+Ähnlich geht es einer https://www.tonight.de/aktuelles/nach-wut-video-erklaert-ehemalige-lmu-mitarbeiterin-corona-ist-echt_154877.html[Mitarbeiterin der LMU], deren Wut-REde viral ging und die nun https://www.spiegel.de/panorama/coronavirus-pathologie-mitarbeiterin-aeussert-sich-nach-tirade-in-instagram-video-das-ist-alles-ein-bisschen-aus-dem-ruder-gelaufen-a-190e36c8-9c89-4a8d-8d5d-2c45be6f8d4d[zu Kreuze kriecht] um ihren https://www.tonight.de/aktuelles/nach-wut-video-erklaert-ehemalige-lmu-mitarbeiterin-corona-ist-echt_154877.html[Job zu retten].
+
+Schon länger wird in meiner Filterblase berichtet, die Kliiniken hätten Mitarbeiter in Änderungen zum Arbeitsvertrag verpflichtet, keine internen Informationen nach draußen zu geben, insbesondere keine Hinweise auf die Quote der Geimpften auf Intensivstationen. Diese Meldungen, denen ich zunächst mit Skepsis begegnet bin, erhalten durch die Reaktion der Kliniken auf die geschilderten Fälle Glaubhaftigkeit.
+
+Ich habe öfter das Argument gehört, innerhalb von Kliniken gelte Filmverbot und es sei  normal, dass ein Mitarbeiter nicht einfach Interna seines Arbeitgebers nach außen geben dürfe. Freilich ist es OK, wenn https://www.youtube.com/watch?v=UBXkj2BJJes[Klinikpersonal sich für das offizielle Narrativ einspannen lässt] oder https://www.youtube.com/watch?v=be7wxojWtOk[sich systemkonform äußert].
+
+*Ich widerspreche dieser Argumentation. Was auf den Intensivstationen (angeblich) passiert, wird täglich genutzt, um uns zu erpressen. Es ist nicht "interne Information" der Kliniken, wieviele Geimpfte bzw. Ungeimpfte auf Intensivstation sind - das ist in dieser Situation von absolutem Öffentlichen Interesse und die Unterdrückung von Berichten, die dem offiziellen Narrativ widersrpechen ist eine Sauerei!*
 
 ====== Probleme bei Schwangerschaft und Kinderwunsch
 
 Fehlgeburten gehören früh zu den häufiger berichteten Problemen. Mehrfach habe ich Audio-Files mit vorgeblichen Stellungnahmen von Kinderwunsch-Medizinern gehört, die von einer drastisch reduzierten Erfolgsrate bei der IVF berichteten. Eine https://investors.biontech.de/de/news-releases/news-release-details/pfizer-und-biontech-veroeffentlichen-weitere-daten-aus-phase-3[Mitteilung von Pfizer/Biontech aus dem April] enthält den Hineweis: "Die bisher verfügbaren Daten zum Pfizer-BioNTech COVID-19-Impfstoff sind unzureichend, um eine Aussage zu den Risiken bei Schwangeren zu machen." Im Dezember 2021 wurde mir ein kurzes Video zugesand, in dem https://www.theglobeandmail.com/canada/article-ontario-mpp-rick-nicholls-out-as-deputy-speaker-at-legislature-after/[Rick Nicholls], ein Impf-kritischer Abgeordneter im Parlament der kanadischen Provinz Ontario von einer dramatischen Häufung von Todgeburten (angeblich 86 von Januar bis Juli statt üblicherweise 4) berichtet.
 
-Anlässlich einiger Schwangerscshaften in meinem Umfeld habe ich im Sommer recherchiert und keinen Hinweis darauf gefunden, dass Schwangere nicht geimpft würden. Im Gegenteil wird ausdrücklich https://www.muenchen-klinik.de/covid-19/corona-impfung-kinderwunsch-schwangerschaft/[dauzu geraten]. Auch im persönlichen Gespräch berichtete ein Bekannter von gleich 4 Schwangeren, die an COVID gestorben seien (Sein Wissen war mittelbar über seinen Arzt).
+Anlässlich einiger Schwangerschaften in meinem Umfeld habe ich im Sommer recherchiert und keinen Hinweis darauf gefunden, dass Schwangere nicht geimpft würden. Im Gegenteil wird ausdrücklich https://www.muenchen-klinik.de/covid-19/corona-impfung-kinderwunsch-schwangerschaft/[dauzu geraten]. Auch im persönlichen Gespräch berichtete ein Bekannter von gleich 4 Schwangeren, die an COVID gestorben seien (Sein Wissen war mittelbar über seinen Arzt).
 
 Erneut haben wir so ein Thema, in dem Aussage gegen Aussage steht. Ich kann weder die Aussagen der einen, noch der anderen Seite überprüfen. Es bleibt Abzuwarten, wie die Situation sich auf mittlere Sicht entwickelt.
 
