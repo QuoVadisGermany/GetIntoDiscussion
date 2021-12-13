@@ -57,14 +57,10 @@ Wenn nicht anders gesagt, beziehen sich Zahlen auf Deutschland. Ich werde in der
 == Welche Fragestellungen sind relevant für die Impfentscheidung?
 
 Es gibt hier 3 Gruppen an Fragestellungen.
-Im Vordergrund sollten die Fragen nach der persönlichen Betroffenheit stehen.
-Nutzt oder schadet mir die Impfung eher?
-Diese bilden die Gruppe der *primären Fragen*.
-Nachrangig sind die *sekundären Fragen* nach der Verantwortung für die Gesellschaft.
-Der Abgleich mit der Realität führt auf eine dritte Gruppe von *Meta-Fragen*, denn die Realität wird großenteils nicht direkt, sondern mittelbar wahrgenommen.
-Wie vertrauenswürdig sind die Mittler - Politiker, Medien, Statistiken?
 
-=== Primäre Fragen
+=== Fragen der persönlichen Betroffenheit
+
+Diese Fragen sollten ausschlaggebend für die Entscheidung sein.
 
 * Wie gefährlich ist Corona für mich und meine Familie?
 
@@ -74,7 +70,11 @@ Wie vertrauenswürdig sind die Mittler - Politiker, Medien, Statistiken?
 
 * Welche Gefahr geht von der Impfung aus?
 
-=== Sekundäre Fragen
+=== Fragen nach der gesellschaftlichen Verantwortung
+
+Diese Frage sind in dem Sinn nachrangig, dass bei einer eindeutigen Aussage der ersten Fragegruppe diese Fragen keine Rolle mehr spielen sollten. Wenn die Impfung klar schadet, rechtfertigt alle Mahnung an eine Gesellschaftliche Verantwortung die Impfung nicht.
+
+Interessant sind diese Fragen, wenn die erste Fragegruppe zu keinem schlüssigen Ergebnis kommt.
 
 * Ist das Impfen wirklich ein Beitrag für die Rückkehr zur gesellschaftlichen Normalität?
 
@@ -82,7 +82,9 @@ Wie vertrauenswürdig sind die Mittler - Politiker, Medien, Statistiken?
 
 === Meta-Fragen
 
-* Wie vertrauenswürdig sind Politiker, Medien?
+Meta sind diese Fragen in dem Sinne, dass Ihre Antwort die Überlegugngen zu den anderen Fragen beeinflusst. Da wir vielfach keine gesicherten Infomrationen haben, muss ich die Vertrauenswürdigkeit derjenigen bewerten, die mich zu etwas drängen wollen. Raten sie mir um meiner selbst willen, oder werde ich instrumentalisiert?
+
+* Wie vertrauenswürdig sind Politiker, Medien und Pharma-Konzerne?
 
 * Folge ich dem "Narrativ" der einen- oder der anderen Seite?
 
@@ -101,10 +103,10 @@ Diese Offenheit würde ich mir natürlich idealerweise auch von meinem Opponente
 So könnte man gemäß der Aristotelischen Formel "These und Antithese bilden die Synthese" gemeinsam zu einem inhaltlichen Fortschritt gelangen.
 Leider werden Diskussionen heute meist lediglich mit dem Wunsch geführt Recht zu behalten und das eigene Weltbild bestätigt zu sehen.
 
-=== COVID ist ungefähr so gefährlich wie eine schwere Influenza-Welle
+=== COVID ungefähr so gefährlich wie eine schwere Influenza-Welle
 
 Diese Aussage ruft oft eine sehr emotionale Abwehrreaktion hervor.
-Ich möchte nicht leugnen, dass Meschen leiden und keine Opfer verhöhen.
+Ich möchte nicht leugnen, dass Menschen leiden und keine Opfer verhöhen.
 
 Allerdings ist dieser Vergleich nötig, um die abstrakten Zahlen von Tausenden von Toten (die selbstverständlich erstmal Angst machen) in etwas Bekanntes einordnen zu können.
 
