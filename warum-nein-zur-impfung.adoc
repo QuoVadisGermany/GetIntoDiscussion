@@ -43,13 +43,13 @@ Ich kann nachvollziehen, dass es für einen schwer Erkrankten, oder jemanden, de
 Auch Opfer von Impfschäden haben Anspruch auf Verständnis, und auch Mitmenschen, die "nur" durch Einschränkung ihrer Grundrechte betroffen sind haben einen Anspruch darauf, dass die Maßnahmen auf Verhältnismäßigkeit geprüft werden.
 Die alarmierende Aussage "es sterben Menschen" ist nicht hinreichend.
 
-Ein weiterer Aspekt der Verhälnismässgkeit ist die Wirksamkeit der Maßnahmen.
-Hier vermisse ich, dass wenigstens Nachträglich untersucht wird, was Lockdowns, Maskenmandate und Kontaktbeschränkungen genau für eine Effekt hatten.
+Um Verhälnismäßigkeit zu bewerten muss man die Wirksamkeit der Maßnahmen kennen.
+Hier vermisse ich, dass wenigstens nachträglich untersucht wird, was Lockdowns, Maskenmandate und Kontaktbeschränkungen genau gebracht haben.
 
-Die Abwägung zwischen dem einen oder anderem Schaden ist ein Thema der rationalen Ethik und insofern ein philosophisch anspruchsvolles Problem bei dem nicht so klar ist, wie es die Politiker scheinen lassen, was ethisch ist und was nicht.
+Die Abwägung zwischen dem einen oder anderem Schaden ist ein Thema der rationalen Ethik und insofern ein philosophisch anspruchsvolles Problem. Was ethisch geboten ist und was nicht, ist keineswegs so klar ist, wie es die Politiker gerne scheinen lassen.
 
 Ich schildere nun meine Gedanken zu dieser Abwägung.
-Wenn nicht anders gesagt, beziehen sich Zahlen auf Deutschland. Ich werde in der Folge vielleicht der Verständlichkeit halber selbst von Kritikern und Beführwortern der Impfung sprechen und damit ein Framing des Mainstreams übernehmen. Dieses spricht gerne von Impf-Kritikern und leugnet damit die Neuartigkeit der mRNA Impfstoffe und den Fakt, dass wir bei keinem traditionellen Impfstoff derart viele Nebenwirkungen beobachtet haben. Daher an dieser Stelle der Hinweis: Ich bin durchgeimpft, Ich habe mein Kind durchimpfen lassen - ich bin kein Impf-Kritiker, aber ich verweigere die COVID-Impfung und beharre darauf, dass die Covid-Vakzine **keine gewöhnlichen Impfstoffe** sind. Noch ein Hinweis: Ich sehe das hier als Gebrauchstext und bitte um Nachsicht bzlg. Rechtschreibung und Redaktion. Mit geht es um den Inhalt, nicht um die Form und mir fehlt die Zeit, einen so langen Text zu redigieren, wie ich es mir wünschen würde.
+Wenn nicht anders gesagt, beziehen sich Zahlen auf Deutschland. Ich werde in der Folge vielleicht der Verständlichkeit halber selbst von Kritikern und Befürwortern der Impfung sprechen und damit ein Framing des Mainstreams übernehmen. Dieses spricht gerne von Impf-Kritikern und leugnet damit die Neuartigkeit der mRNA Impfstoffe und den Fakt, dass wir bei keinem traditionellen Impfstoff derart viele Nebenwirkungen beobachtet haben. Daher an dieser Stelle der Hinweis: Ich bin durchgeimpft, Ich habe mein Kind durchimpfen lassen - ich bin kein Impf-Kritiker, aber ich verweigere die COVID-Impfung und beharre darauf, dass die Covid-Vakzine **keine gewöhnlichen Impfstoffe** sind.
 
 == Welche Fragestellungen sind relevant für die Impfentscheidung?
 
@@ -75,9 +75,9 @@ Diese Fragen sind nachrangig, d.h. bei einer eindeutigen Aussage der Fragen zur 
 
 * Sehe ich vielleicht auch nachteilige Auswirkungen auf die Gesellschaft, die von der Impfkampagne ausgehen? (Stichwort: Schaffung eines Präzedenzfalls für angeordnete medizinische Maßnahmen / Zwangsimpfung für Kinder)
 
-=== Meta-Fragen
+=== Vertrauen und Weltbild
 
-Meta bedeutet, dass die Antwort auf diese Fragen alle anderen Antworten beeinflusst. Da wir vielfach keine gesicherten Infomrationen haben, muss ich die Vertrauenswürdigkeit derjenigen bewerten, die mich zu etwas drängen wollen.
+Hier handelt es sich um Meta-Fragen, die implizit bei der Beantwortung aller anderen Fragen mitschwingen. Da wir vielfach keine gesicherten Informationen haben, muss ich die Vertrauenswürdigkeit derjenigen bewerten, die mich zu etwas drängen wollen.
 
 * Wie vertrauenswürdig sind Politiker, Medien und Pharma-Konzerne - Raten sie mir um meiner selbst willen zur Impfung? Bin ich für sie Mittel zum Zweck?
 
@@ -87,16 +87,13 @@ Meta bedeutet, dass die Antwort auf diese Fragen alle anderen Antworten beeinflu
 
 == Hypothesen und Begründungen
 
-Ich werde hier eine Reihe von Hypothesen aufstellen.
-Das sind Aussagen, die wahr oder falsch sein können.
+Ich werde hier eine Reihe von Hypothesen aufstellen, also Aussagen die wahr oder falsch sein können.
 Zu jeder Hypothese führe ich die Begründungen an, die mich zu der Annahme bringen, dass sie richtig ist.
 Diese Hypothesen bilden dann die Basis für die Beantwortung der oben genannten Fragen.
 
-Nochmal: Die hier getroffenen Aussagen sind kein absolutes Wissen dar, sondern sind Glaubenssätze (in der Philosophie auch Doxa genannt).
-Sie stehen zur Disposition, wenn bessere Argumente kommen.
+Nochmal: Die hier getroffenen Aussagen stellen kein absolutes Wissen dar, sondern sind Glaubenssätze (in der Philosophie auch Doxa genannt) - diese stehen zur Disposition, wenn bessere Argumente kommen.
 Diese Offenheit würde ich mir natürlich idealerweise auch von meinem Opponenten in einem Streit wünschen.
 So könnte man gemäß der Aristotelischen Formel "These und Antithese bilden die Synthese" gemeinsam zu einem inhaltlichen Fortschritt gelangen.
-Leider werden Diskussionen heute meist lediglich mit dem Wunsch geführt Recht zu behalten und das eigene Weltbild bestätigt zu sehen.
 
 === COVID ungefähr so gefährlich wie eine schwere Influenza-Welle
 
@@ -105,20 +102,22 @@ Ich möchte nicht leugnen, dass Menschen leiden und keine Opfer verhöhen.
 
 Allerdings ist dieser Vergleich nötig, um die abstrakten Zahlen von Tausenden von Toten (die selbstverständlich erstmal Angst machen) in etwas Bekanntes einordnen zu können.
 
-Es gibt ja die Vermutung, dass es Covid gar nicht gäbe und dass es sich um die Grippewelle 2020 handele. Ich finde diese Gedanken plausibel, gerade wenn man sich vor Augen führt, dass https://www.achgut.com/artikel/indubio_folge_186_08_12_2021_ein_test_als_fetish[manm die Krankheitsbilder klinisch kaum voneinander abgrenzen kann] und nur der PCR-Test die eine von der anderen Krankheit differenziert. Ich kann aber zu dieser Diskussion wenig beitragen und halte sie auch nicht für sonderlich relevant. Im Fokus meiner Betrachtung steht, die Gefährlichkeit der Epedemie einzugrenzen - ob der Erreger neu oder alt ist, spielt da eine nachrangige Rolle. Diese Einschätzung würde ich gerne auf harte Zahlen stützen - leider werden wir sehen, dass das durch voreingenommene Berichterstattung, Intransparenz und Lügen erschwert wird.
+*Corona-Leugner oder nicht?*
+
+Es gibt ja die Hypothese, dass es COVID gar nicht gibt und dass es sich um die Grippewelle 2020 handele. Ich finde diese Gedanken plausibel, gerade wenn man sich vor Augen führt, dass https://www.achgut.com/artikel/indubio_folge_186_08_12_2021_ein_test_als_fetish[man die Krankheitsbilder klinisch kaum voneinander abgrenzen kann], und nur der PCR-Test die eine von der anderen Krankheit differenziert. Ich kann aber zu dieser Diskussion wenig beitragen und halte sie auch nicht für sonderlich relevant. Mich interessiert die Gefährlichkeit der Epidemie - ob der Erreger neu oder alt ist, spielt eine nachrangige Rolle.
 
 ==== Übersterblichkeit
 
 ===== Es gab 2020 keine Übersterblichkeit
 
 * Das Statistische Bundesamt stellt Daten zur Sterblichkeit bereit, entweder als Grafik aufbereitet, oder in Rohdaten.
-Diese Daten habe ich 2020 fortlaufend beobachtet und keine Übersterblichkeit festgestellt.
+Diese habe ich 2020 fortlaufend beobachtet und keine Übersterblichkeit festgestellt.
 
-* Im November oder Dezember 2020 (ich habe das darmals nicht dokumentiert) wurden rückwirkend die Zahlen ab September angehoben, so dass sich ab diesem Zeitpunkt eine Übersterblichkeit ergeben hat - allerdings nur bezogen auf den Herbst, nicht auf das Gesamtjahr.
+* Im November oder Dezember 2020 (ich habe das damals nicht dokumentiert) wurden rückwirkend die Zahlen ab September angehoben, sodass sich ab diesem Zeitpunkt eine Übersterblichkeit ergeben hat - allerdings nur bezogen auf den Herbst, nicht auf das Gesamtjahr.
 Diese als Datenbereinigung begründete Korrektur passte seinerzeit in das Narrativ der Medien, die Angst vor der zweiten Welle schürten und einen Lockdown herbeischrieben, der ja dann in Form der Bundesnotbremse auch kam.
 Natürlich ist es mir nicht möglich, die Berechtigung für diese Korrektur zu prüfen, aber mein Vertrauen in die Zahlen wurde dadurch erschüttert.
 
-* Zwar ist die entsprechende Graphik für 2020 nicht mehr abrufbar, statdessen kann ich auf das Video "https://www.youtube.com/watch?v=nEPiOEkkWzg&t=0s[Die Pandemie in Rohdaten]" verweisen, das in seiner Analyse wesentlich tiefer geht und zu der *Schlussfolgerung gelangt, es habe keine Übersterblichkeit gegeben.* Dieses Video wurde übrigens zunächst als Fehlinformation von YouTube gesperrt und wurde erst auf juristischen Druck wieder freigeschaltet.
+* Zwar ist die entsprechende Graphik für 2020 nicht mehr abrufbar, stattdessen kann ich auf das Video "https://www.youtube.com/watch?v=nEPiOEkkWzg&t=0s[Die Pandemie in Rohdaten]" verweisen, das in seiner Analyse wesentlich tiefer geht und zu der *Schlussfolgerung gelangt, es habe keine Übersterblichkeit gegeben.* Dieses Video wurde übrigens zunächst als Fehlinformation von YouTube gesperrt und wurde erst auf juristischen Druck wieder freigeschaltet.
 Medienberichte und sogenannte Fakten-Checker haben das Video als unseriös dargestellt, ich empfehle jedem, sich ein eigenes Bild zu machen.
 
 * Die Bundesregierung https://rumble.com/vnzfyv-regierung-zu-anstieg-der-bersterblichkeit-im-vorjahresvergleich-da-fehlen-d.html[verweigert eine Stellungnahme zu dem Thema unter Verweis auf "fehlende Vergleichsdaten"].
@@ -131,16 +130,11 @@ Medienberichte und sogenannte Fakten-Checker haben das Video als unseriös darge
 Man sieht, dass im Gegensatz zum Jahr mit Impfung der Verlauf der Sterblichkeit oberhalb derer der Vorjahre verläuft. Das diese Übersterblichkeit durch die gefährlichen Virus-Varianten Delta und Omicron induziert wird, kann man durch Betrachtung der COVID-Sterbezahlen, die ebenfalls eingezeichnet sind ausschließen.
 
 * Es steht natürlich im Raum, das die  Übersterblichkeit durch die Impfkampagne verursacht wurde. Dr. Rolf Steyer und Dr. Gregor Kappler haben im Auftrag der thüringer Landtagsabgeordneten Dr. Ute Bergner deutsche Bundesländer verglichen und eine Korrelation zwischen hoher Impfquote und hoher Übersterblichkeit gefunden. Der Vollständigkeit halber sei erwähnt, dass dieser Analyse von den üblichen Faktencheckern widersprochen wird, z.B. https://correctiv.org/faktencheck/2021/12/07/im-thueringer-landtag-vorgestellte-analyse-zeigt-nicht-dass-eine-hohe-impfquote-zu-erhoehter-sterblichkeit-fuehrt/[correctiv]. Weiter geht der
-der Youtuber https://www.youtube.com/channel/UCRUDDX1GNzPlYG-WNVEV5VA["Der subjektive Student"], der Daten des RKI und des Bundesamt für Statistik betrachtet und auf einen zeitlichen Zusammenhang zwischen der Impfkampagne und Spitzen in der Sterblichkeit hinweist - jeder kann sich https://www.youtube.com/watch?v=4EGk_-cV07o[hier] selbst ein Bild machen. Darüberhinaus stellt er https://www.youtube.com/watch?v=K8_oCgQec9o[hier] dar, dass die Presse schweigt, wenn es nicht ins Narrativ passt.] Ich glaube nicht, dass der Zusammenhang nach den vorliegenden Analysen bewiesen ist, aber es kann nicht sein, dass die Beweislast hier bei den, von einer Impfpflicht bedrohten Bürgern liegen soll. Der Staat, der hier in beispielloser Weise ein innovatives Arzneimittel unter Notzulassung mit Zuckerbrot und Peitsche unters Volk (frei nach Frank Ulrich Montgomery) unters Volk gebracht hat, schuldet uns Aufklärung.
+der Youtuber https://www.youtube.com/channel/UCRUDDX1GNzPlYG-WNVEV5VA["Der subjektive Student"], der Daten des RKI und des Bundesamt für Statistik betrachtet und auf einen zeitlichen Zusammenhang zwischen der Impfkampagne und Spitzen in der Sterblichkeit hinweist - nachdem https://www.youtube.com/watch?v=4EGk_-cV07o[Youtube] hat das Video zensiert - machen Sie sich auf https://odysee.com/@INFORMATION:9/SubjektiveStudent:9[Odysee] selbst ein Bild, ob das berechtigt war. Darüberhinaus stellt er https://www.youtube.com/watch?v=K8_oCgQec9o[hier] dar, dass die Presse anders über das Thema Übersterblichkeit berichtet als im Vorjahr - für mich weist das auf ihre parteilichkeit zum Thema Impfung hin. Ich glaube nicht, dass der Zusammenhang zwischen Übersterblichkeit und Impfkampagne nach den vorliegenden Analysen bewiesen ist, aber es kann nicht sein, dass die Beweislast hier bei den, von einer Impfpflicht bedrohten Bürgern liegen soll. Der Staat, der hier in beispielloser Weise ein innovatives Arzneimittel unter Notzulassung mit https://de.nachrichten.yahoo.com/welt%C3%A4rztechef-ungeimpfte-brauchen-zuckerbrot-statt-091715983.html[Zuckerbrot und Peitsche] unters Volk gebracht hat, schuldet uns Aufklärung.
 
-* Wenn man über die Übersterblichkeit nachdenkt, fällt mir ein, dass in 2021 der Topos "plötzlich und unerwartet verstorben 2021" durch Social Media gegeistert ist. Dies waren anektodische Berichte über Prominennte oder nicht so prominente, die "plötzlich und unerwartet" in der Todesanzeige stehen hatten. Natürlich wurde damit Stimmung gegen die Impfung gemacht - aber im Kontext der wirklich stattfindenden Übersterblichketi tue ich mich schwer, die Spekulationen als haltlos zu verdammen.
+* Wenn man über die Übersterblichkeit nachdenkt, fällt mir ein, dass in 2021 der Topos https://report24.news/2021-das-jahr-der-ploetzlich-und-unerwartet-verstorbenen/["plötzlich und unerwartet verstorben 2021"] durch Social Media gegeistert ist. Natürlich beweisen anekdodische Berichte über weniger prominente Todesfälle mit diesem Satz in der Traueranzeige keinen Kausalzusammenhang zur Impfung, aber sie lösen Ängste aus. Entsprechend kamen beim https://www.news.de/promis/856025624/mirco-nontschew-ist-tot-irre-spekulationen-um-todesursache-verschwoerungstheorie-nach-todesermittlungsverfahren-um-toten-comedian/1/[Tod von Mirko Nontschew Spekulationen über eine kürzliche Booster-Impfung auf, die als geschmacklos verurteilt wurden]. Natürlich ist es generell zu verurteilen, Fehlinformationen zu verbreiten, aber angesichts der gerade laufenden Booster-Welle liegt die Frage nach einer etwaigen Booster-Imfpung nahe - auch sehe ich ein berechtigtes Informationsinteresse. Umgekehrt sieht man keine Pietätsprobleme, prominente https://www.mdr.de/nachrichten/deutschland/panorama/prominente-stars-gestorben-zweitausendeinundzwanzig100.html[Corona-Tote] aufzuführen.
 
-* Auch der https://www.br.de/nachrichten/wissen/was-steckt-hinter-der-uebersterblichkeit-im-september,Sn7heCB[BR] tut sich schwer, aber er bemüht sich redlich. Gerade dass aus jeder Zeile des Artikels das Bemühen spricht, Impfschäden als Ursache auszuschließen macht diese Art Beitrag leider so unglaubwürdig.
-
-* Die Linie mit den Punkten (COVID-Tote) ist übrigens rückläufig, weil geimpfte Intensivpatienten nicht mehr gezählt werden, wenn sie zwar positiv getestet sind, aber an etwas anderem versterben.
-Mit steigerder Impfquote ergibt sich dieser Rückgang automatisch, auch wenn sich sonst NICHTS ändert.
-So kann man mit Statistiken manipulieren.
-Man schaut die Übersterblichkeitsstatistik ja eben deshalb an, weil man solche Effekte nicht sehen möchte.
+* Selbst der https://www.br.de/nachrichten/wissen/was-steckt-hinter-der-uebersterblichkeit-im-september,Sn7heCB[BR] tut sich schwer, einen Zusammenhang zwischen Impfung und Übersterblichkeit wegzuerklären, aber er bemüht sich redlich. Gerade dass aus jeder Zeile des Artikels das Bemühen spricht, Impfschäden als Ursache auszuschließen, ist eine Selbst-Entlarvung.
 
 * Beachtenswert ist auch die grün eingekreiste Erhebung in den Sommermonaten.
 Diese gibt die Übersterblichkeit im August an, denn Kanke oder Hochbetagte versterben verstärkt bei hohen sommerlichen Temperaturen.
