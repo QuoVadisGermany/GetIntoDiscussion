@@ -1,5 +1,7 @@
 = Warum bin ich nicht gegen COVID geimpft?
 :toc: left
+:sectnums:
+:xrefstyle: short
 
 [quote, Noam Chomsky]
 
@@ -72,19 +74,17 @@ Diese Fragen sollten ausschlaggebend für die Entscheidung sein.
 
 === Fragen nach der gesellschaftlichen Verantwortung
 
-Diese Frage sind in dem Sinn nachrangig, dass bei einer eindeutigen Aussage der ersten Fragegruppe diese Fragen keine Rolle mehr spielen sollten. Wenn die Impfung klar schadet, rechtfertigt alle Mahnung an eine Gesellschaftliche Verantwortung die Impfung nicht.
-
-Interessant sind diese Fragen, wenn die erste Fragegruppe zu keinem schlüssigen Ergebnis kommt.
+Diese Fragen sind nachrangig, d.h. bei einer eindeutigen Aussage der Fragen zur persönlichen Betroffenheit würde ich diesen foglen. Erst, wenn die erste Fragegruppe zu keinem schlüssigen Ergebnis kommt, werden diese Fragestellungen relevant.
 
 * Ist das Impfen wirklich ein Beitrag für die Rückkehr zur gesellschaftlichen Normalität?
 
-* Sehe ich vielleicht auch nachteilige Auswirkungen auf die Gesellschaft, die von der Impfkampagne ausgehen? (Stichwort: Schaffung eines Präzedenzfalls für angeordnete Medizinische Maßnahmen / Zwangsimpfung für Kinder)
+* Sehe ich vielleicht auch nachteilige Auswirkungen auf die Gesellschaft, die von der Impfkampagne ausgehen? (Stichwort: Schaffung eines Präzedenzfalls für angeordnete medizinische Maßnahmen / Zwangsimpfung für Kinder)
 
 === Meta-Fragen
 
-Meta sind diese Fragen in dem Sinne, dass Ihre Antwort die Überlegugngen zu den anderen Fragen beeinflusst. Da wir vielfach keine gesicherten Infomrationen haben, muss ich die Vertrauenswürdigkeit derjenigen bewerten, die mich zu etwas drängen wollen. Raten sie mir um meiner selbst willen, oder werde ich instrumentalisiert?
+Meta bedeutet, dass die Antwort auf diese Fragen alle anderen Antworten beeinflusst. Da wir vielfach keine gesicherten Infomrationen haben, muss ich die Vertrauenswürdigkeit derjenigen bewerten, die mich zu etwas drängen wollen.
 
-* Wie vertrauenswürdig sind Politiker, Medien und Pharma-Konzerne?
+* Wie vertrauenswürdig sind Politiker, Medien und Pharma-Konzerne - Raten sie mir um meiner selbst willen zur Impfung? Bin ich für sie Mittel zum Zweck?
 
 * Folge ich dem "Narrativ" der einen- oder der anderen Seite?
 
@@ -314,9 +314,10 @@ Es war verwunderlich, als das RKI Anfang September verkündete, dass in Deutschl
 
 * Möglicherweise gilt ein Patient der nicht wegen Corona behandelt wird bei positivem Test als COVID-Fall, aufgrund der fehlenden Systematik aber nicht als Impfdurchbruch. Dies würde zur Fehlinterpretation der Tabelle 3 führen.
 
-* Der Impfsatus von COVID-Patinenten wird bei einem erstaunlich hohen Anteil der Patienten als "unbekannt" gemeldet. Bis zum 30.09. wurden diese Fälle den Ungeimpften zugeschlagen. Der Impfstatus "unbekannt" wächst ausserdem im Lauf der Zeit immer mehr an - von 38{nbsp}% in KW{nbsp} auf 59{nbsp}% in KW{nbsp}46. Angesichts dessen, dass ich im Alltag permanent meinen Imfpstatus nachweisen muss ist es absurd, dass im Krankenhaus bei der Mehrzahl der Patienten der Impfstatus unbekannt ist. Kann es sein, dass man geimpfte geziehlt aus der Statistik nimmt, indem man den Status als "unbekannt" meldet?
+* Der Impfsatus von COVID-Patinenten wird bei einem erstaunlich hohen Anteil der Patienten als "unbekannt" gemeldet. Bis zum 30.09. wurden diese Fälle den Ungeimpften zugeschlagen. Der Impfstatus "unbekannt" wächst ausserdem im Lauf der Zeit immer mehr an - von 38{nbsp}% in KW{nbsp}35 auf 59{nbsp}% in KW{nbsp}46. Angesichts dessen, dass ich im Alltag permanent meinen Imfpstatus nachweisen muss ist es absurd, dass im Krankenhaus bei der Mehrzahl der Patienten der Impfstatus unbekannt ist. Kann es sein, dass man geimpfte geziehlt aus der Statistik nimmt, indem man den Status als "unbekannt" meldet?
 
-Der subjektive Student ist sehr gewissenhaft bei der Nennung seiner Quellen, und zurückhaltend, was Bwertungen anbelant. Der freien Journalisten https://reitschuster.de/[Boris Reitschuster] geht diesen Hinweisen ebenfalls nach, er hat sich den ganzen Herbst durchgegenüber der Bundesregierung und dem RKI um Aufklärung über die Zählweisen bemüht. Ich habe Stunden seiner Berichterstattung aus der Bundespressekonferenz gesehen und immer weider beobachtet, wie sich die Verantwortlichen um eine Antwort gewunden haben. Stellvertretend für viele Stunden Bundespressekonferenz, die ich zu dem Thema gesehen habe, sei dieses kurze https://www.youtube.com/watch?v=YoycxmZ3ji0[Video] genannt.
+Der subjektive Student ist sehr gewissenhaft bei der Nennung seiner Quellen, und zurückhaltend, was Bwertungen anbelant. Der freien Journalisten https://reitschuster.de/[Boris Reitschuster] geht diesen Hinweisen ebenfalls nach, er hat sich den ganzen Herbst durchgegenüber der Bundesregierung und dem RKI um Aufklärung über die Zählweisen bemüht. Ich habe Stunden seiner Berichterstattung aus der Bundespressekonferenz gesehen und immer weider beobachtet, wie sich die Verantwortlichen um eine Antwort gewunden haben. Stellvertretend für viele Stunden Bundespressekonferenz, die ich zu dem Thema gesehen habe, sei dieses kurze https://www.youtube.com/watch?v=YoycxmZ3ji0[Video] genannt. Boris Reitschuster schildert eingangs des https://www.youtube.com/watch?v=PvecN5YLhqA[Videos] die anhalten Inkonsistenzen in den RKI Berichten.
+
 
 Am 15.11. wurde Prof. Marx von der DIVI, welche das Intensivbettenregister führt im Bundestag vom Abgeordneten Martin Sichert befragt: wie viele der 1662 (in der letzten Woche mit Covid aufgenommenen) Patienten geimpft bzw. ungeimpft waren?
 Antwort: Diese Frage kann ich leider nicht beantworten, weil wir bisher noch nicht erfasst haben, welche Patienten auf den Intensivstationen geimpft und welche nicht geimpft sind.  https://www.bundestag.de/resource/blob/869052/8ad3e08fc55c91e8f87812e64d74f691/protokoll-data.pdf[Protokoll Seite 28] *Wie kann es sein, dass wir zu dieser wichtigen Frage keine Daten haben und wie kann es sein, dass Politiker und Medien hier Permanent Behauptungen aufstellen, die offenkudig nicht durch die Datenlage gedeckt sind*. Dieses Unwissen hält Prof. Marx natürlich nicht ab, schon am Folgetag in den https://www.rbb24.de/panorama/thema/corona/beitraege/2021/11/interview-divi-geimpfte-ungeimpfte-unterschiede.html[Medien] weiter Behauptungen aufzustellen, die ja offenkundig ungedeckt sind. Diese Widersprüche hat Boris Reitschuster in einem https://www.youtube.com/watch?v=m2lBN2PKw2w[kurzen Video] zusammengestellt.
@@ -623,9 +624,17 @@ Das Narrativ schwenkte daher um von "Die Impfung schützt vor Erkrankung mit dem
 
 Dieses Narrativ hat gleich mehrere Schwächen:
 
-* Bereits während der Grippewelle 2018 waren die Intensivstationen überlastet, so habe ich das zu Beginn der Corona-Pandmie 2020 recherchiert. Nur hat es damals keierlei Aufmerksamkeit erfahren, da es sich gerade nicht politisch instrumentalisieren lies.
+* Sagen wir mal so: Durch winterliche Infektionskrankheiten überlastete Krankenhäuser scheinen ja nicht unbedingt etwas Neues oder Ungewöhnliches zu sein. Der Ertrag von wenigen Minuten "Googeln":
+** *2013* https://www.welt.de/regionales/koeln/article113760346/Grippewelle-hat-Koeln-fest-im-Griff.html[Grippewelle hat Köln fest im Griff (Welt)]
+** *2015* https://www.sueddeutsche.de/bayern/notfallmedizin-in-bayern-vor-dem-kollaps-1.2350251[Notfallmedizin in Bayern: Vor dem Kollaps (SZ)]
+** *2016* https://www.nordbayern.de/region/nuernberg/kliniken-schlagen-alarm-notaufnahmen-sind-uberlastet-1.5036441[Kliniken schlagen Alarm: Notaufnahmen sind überlastet (NZZ)]
+** *2017* https://www.welt.de/regionales/bayern/article161869919/Kliniken-schliessen-wegen-Ueberlastung-ihre-Notaufnahmen.html[Kliniken schließen wegen Überlastung ihre Notaufnahmen (Welt)]
+//https://www.aerzteblatt.de/nachrichten/72938/Grippewelle-sorgt-fuer-ueberlastete-Kliniken[Grippewelle sorgt für überlastete Klinike (Deutsches Ärzteblatt)] / https://www.mz.de/lokal/halle-saale/grippe-in-halle-saale-an-der-uniklinik-geht-nichts-mehr-1276040[Grippe in Halle (Saale): An der Uniklinik geht nichts mehr (MZ)]
+** *2018* https://www.merkur.de/bayern/wohin-mit-vielen-patienten-grippewelle-sorgt-fuer-ueberfuellte-krankenhaeuser-alarmstufe-not-zr-9678577.html[Grippe sorgt für überfüllte Kliniken - Unfallopfer konnten nicht aufgenommen werden (Merkur)]
 
-* Just während der aktuellen Diskussion waren Kinderklinken durch das RS-Virus überlastet (https://www.hessenschau.de/gesellschaft/pflegenotstand-und-rs-virus-kinderkliniken-beklagen-hohe-belastung,kinderkliniken-rsv-100.html[Hessenschau], https://www.sueddeutsche.de/muenchen/muenchen-kinderklinik-rsv-notfall-1.5454637?reduced=true[SZ: "Schuld ist nicht Corona - sondern das RS-Virus."]) Wenn eine herbstliche Infektionswelle unser Gesundheitssystem überlastet - liegt die Schuld dann vielleicht nicht bei den Patienten, sondern bei den Gesundheitspolitikern?
+
+
+* Just während der aktuellen Diskussion waren Kinderklinken durch das RS-Virus überlastet (https://www.hessenschau.de/gesellschaft/pflegenotstand-und-rs-virus-kinderkliniken-beklagen-hohe-belastung,kinderkliniken-rsv-100.html[Hessenschau], https://www.sueddeutsche.de/muenchen/muenchen-kinderklinik-rsv-notfall-1.5454637?reduced=true[SZ: "Schuld ist nicht Corona - sondern das RS-Virus."]) Wenn eine herbstliche Infektionswelle unser Gesundheitssystem überlastet - liegt die Schuld dann vielleicht doch nicht bei den Patienten, sondern bei den Gesundheitspolitikern?
 
 * In der Tat wurde die Zahl der Krankenhausbetten wurde in den vergangenen 2 Jahrzehnten um Rund ein Drittel abgebaut. Maßgeblicher Treiber der Privatisierung war unser neuer Gesundheitsminister, der damals Berater von Ulla Schmidt (2003-09 Gesundheitsministerin im Kabinett Schröder) und im Nebenjob Aufsichtsratmitglied der Helios-Kliniken war. (Sehenswert hier ein Video von https://www.youtube.com/watch?v=hvQKE0bGq5U[Sahra Wagenknecht])
 
@@ -673,7 +682,9 @@ Derzeit wird mächtig für die Booster-Impfung geworben. https://www.echo24.de/w
 
 === Die Träger der öffentlichen Debatte (Politik und Medien) sind einseitig
 
-
+Wagenknesth über Lauterbach https://www.youtube.com/watch?v=hvQKE0bGq5U
+Lauterbach https://www.tichyseinblick.de/meinungen/karl-lauterbach-der-panik-verbreiter-als-gesundheitsminister/
+https://www.achgut.com/artikel/bericht_zur_coronalage_16.6.2020der_seltsame_professor
 
 ==== Spenden an Medien durch Stiftungen
 Der
@@ -682,22 +693,8 @@ https://www1.wdr.de/daserste/hartaberfair/faktencheck/faktencheck-510.html[WDR H
 
 == Schlussfolgerungen
 
-inkonsistenzen zahlen rki
-https://www.youtube.com/watch?v=PvecN5YLhqA
 
 
-
-Impfstatus unbekannt = ungeimpft
-
-1x geimpft = ungeimpft
-
-2x geimpft = < 14 Tage Abstand = ungeimpft
-
-2x geimpft + C Symptome = ungeimpft
-
-2x geimpft, aber kreuzgeimpft = ungeimpft
-
-2x geimpft +6 (4, 5, 12) Monate = ungeimpft
 
 Mit in der EU nicht zugelassene Injektionen wie Sputnik oder Sinovac, etc. geimpft = ungeimpft
 
@@ -717,7 +714,11 @@ Verträge zwischen EU und Herstellern: Die Bundesregierung verweigert die Aussag
 
 
 
-=== Unehrlichkeit
+=== Stiko die Kinder und die Politische Beeinflussung
+
+
+https://www.tichyseinblick.de/daili-es-sentials/kinderimpfung-start-trotz-sicherheitsbedenken/
+
 
 
 ==== Astrazeneka-Aussetzung
@@ -725,8 +726,11 @@ Verträge zwischen EU und Herstellern: Die Bundesregierung verweigert die Aussag
 
 
 
-==== Schwangere
+== Schlussfolgerungen
 
+Aus
 
+=== Für meine Familie und mich sehe die Impfung eher als Gefahr, denn alsn Schutz
 
+Ich habe bereits einen Qua <<_die_risiko_abwägung_fällt_für_junge_und_mittlere_jahrgänge_klar_gegen_den_impfstoff_aus>>
 
