@@ -37,20 +37,18 @@ Die Meinungsbildung findet von Oben nach Unten statt. Die für diese Beeinflussu
 
 *Es ist moralisch geboten, unbequeme Fragen zu stellen*
 
-Von Beginn der Pandemie an ist die offenkundige notwendige Güterabwägung zwischen Nutzen und Schaden von MVon Beginn der Pandemie an ist die offenkundige notwendige Güterabwägung zwischen Nutzen und Schaden von Maßnahmen nie thematisiert worden.
-aßnahmen nie thematisiert worden.
-
 Ich kann nachvollziehen, dass es für einen schwer Erkrankten, oder jemanden, der einen Angehörigen verloren hat, nur schwer erträglich ist, wenn die Krankheit relativiert wird - wenn man sich aber um diese Abwägung "drückt" riskiert man, dass unkontrolliert an anderer Stelle Schaden entsteht.
 Auch Opfer von Impfschäden haben Anspruch auf Verständnis, und auch Mitmenschen, die "nur" durch Einschränkung ihrer Grundrechte betroffen sind haben einen Anspruch darauf, dass die Maßnahmen auf Verhältnismäßigkeit geprüft werden.
-Die alarmierende Aussage "es sterben Menschen" ist nicht hinreichend.
+
+Von Beginn der Pandemie an ist die offenkundige notwendige Güterabwägung zwischen Nutzen und Schaden von Maßnahmen nie thematisiert worden. Die alarmierende Aussage "es sterben Menschen" ist nicht hinreichend.
 
 Um Verhälnismäßigkeit zu bewerten muss man die Wirksamkeit der Maßnahmen kennen.
 Hier vermisse ich, dass wenigstens nachträglich untersucht wird, was Lockdowns, Maskenmandate und Kontaktbeschränkungen genau gebracht haben.
 
-Die Abwägung zwischen dem einen oder anderem Schaden ist ein Thema der rationalen Ethik und insofern ein philosophisch anspruchsvolles Problem. Was ethisch geboten ist und was nicht, ist keineswegs so klar ist, wie es die Politiker gerne scheinen lassen.
+Die Abwägung zwischen dem einen oder anderem Schaden ist ein Thema der rationalen Ethik und insofern ein philosophisch anspruchsvolles Problem. Was ethisch geboten ist und was nicht, ist keineswegs so klar ist, wie es die Politiker darstellen.
 
 Ich schildere nun meine Gedanken zu dieser Abwägung.
-Wenn nicht anders gesagt, beziehen sich Zahlen auf Deutschland. Ich werde in der Folge vielleicht der Verständlichkeit halber selbst von Kritikern und Befürwortern der Impfung sprechen und damit ein Framing des Mainstreams übernehmen. Dieses spricht gerne von Impf-Kritikern und leugnet damit die Neuartigkeit der mRNA Impfstoffe und den Fakt, dass wir bei keinem traditionellen Impfstoff derart viele Nebenwirkungen beobachtet haben. Daher an dieser Stelle der Hinweis: Ich bin durchgeimpft, Ich habe mein Kind durchimpfen lassen - ich bin kein Impf-Kritiker, aber ich verweigere die COVID-Impfung und beharre darauf, dass die Covid-Vakzine **keine gewöhnlichen Impfstoffe** sind.
+Wenn nicht anders gesagt, beziehen sich Zahlen auf Deutschland. Der Verständlichkeit halber werde in der Folge selbst von Kritikern und Befürwortern der *Impfung* sprechen und damit ein Framing der Pharma-Lobby übernehmen. Dieses spricht gerne von Impf-Kritikern und leugnet damit die Neuartigkeit der mRNA Impfstoffe und den Fakt, dass wir bei keinem traditionellen Impfstoff derart viele Nebenwirkungen beobachtet haben. Daher an dieser Stelle der Hinweis: Ich bin durchgeimpft, Ich habe mein Kind durchimpfen lassen - ich bin kein Impf-Kritiker, aber ich verweigere die COVID-Impfung und beharre darauf, dass die Covid-Vakzine **keine gewöhnlichen Impfstoffe** sind. Analogien, z.B. zur Impfpflicht
 
 == Welche Fragestellungen sind relevant für die Impfentscheidung?
 
@@ -709,7 +707,33 @@ Verträge zwischen EU und Herstellern: Die Bundesregierung verweigert die Aussag
 
 
 
+=== Meine tägliche Impfung gib mir heute
+
+
 === Stiko die Kinder und die Politische Beeinflussung
+
+Im Juli und August war zu beobachten, wie die Impfkampagne auf Jugendliche und Kinder ausgedehnt wurde. Noch einmal: Von Covid geht keine Gefahr für diese Altersgruppe aus - die Todeszahlen sind minimal und noch einmal der Hinweis: Ein Kind, das tragischerweise an Krebs erkrankt oder einem Unfalltod erliegt, wird zum COVID-Toten, wenn es positiv getestet wurde. Dennoch ist die jährliche Fallzahl (vgl. <<coviddeathbyage>>) in der betroffenen Altersgruppe einstellig. Mit unwesentlicher Abweichung nennt der https://www.mdr.de/nachrichten/deutschland/panorama/corona-kinder-verlauf-100.html[MDR 29 Tote] wohlgemerkt in 2 Jahren und in der grö0eren Altersgruppe von 0 bis 19 Jahren.
+
+https://www.tagesschau.de/inland/gesellschaft/impfen-kinder-101.html[Richtig geframed] klingt das dann so:
+
+----
+Allerdings gibt es auch bei Kindern Fälle mit schwerem oder tödlichem Verlauf - wenn auch deutlich seltener als bei Älteren.
+----
+
+* "deutlich seltener" beschreibt einen Anteil von 17 Todesfällen in 2 Jahren in der Altersgruppe von 10 bis 19 gegenüber ca. 43.000 Todesfällen bei den 80 bis 89-jährigen. Also einen Anteil von 0.041{nbsp}% Das ist ungefähr ein Faktor 3.000. Ein solcher Faktor liegt zwischen einer dreiviertel-Stunde Autobahnfahrt und dem Abstand von der Erde zum Mond (!)
+
+Zurück zur Chronologie der Impfempfehlung:
+
+* Die Debatte um die Impfung von Jugendlichen kam in Fahrt, als die Hersteller im Mai die Zulassung des Impfstoffes https://www.tagesschau.de/inland/gesellschaft/impfen-kinder-101.html[für diese Altersgruppen beantragten].
+
+* Die Ständige Impfkommission (STIKO) https://www.tagesschau.de/inland/gesellschaft/stiko-coronavirus-impfung-kinder-101.html[positionierte sich zunächst klar gegen eine Impfempfehlung].
+
+* Die Politik https://www.aerzteblatt.de/nachrichten/126088/Impfen-von-Kindern-und-Jugendlichen-Politik-sieht-keinen-Widerspruch-zu-STIKO-Empfehlungen[startete dann auch ohne die Zustimmung dieses Gremiums die Impfkampagne]
+
+* Mitte August
+
+
+
 
 
 https://www.tichyseinblick.de/daili-es-sentials/kinderimpfung-start-trotz-sicherheitsbedenken/
