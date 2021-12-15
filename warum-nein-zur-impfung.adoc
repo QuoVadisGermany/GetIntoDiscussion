@@ -52,7 +52,9 @@ Wenn nicht anders gesagt, beziehen sich Zahlen auf Deutschland. Der Verständlic
 
 == Welche Fragestellungen sind relevant für die Impfentscheidung?
 
-Es gibt hier 3 Gruppen an Fragestellungen.
+Ich möchte hier dem Vorwurf begegnen, ich würde die Impfung aus irgendwelchen politischen Gründen verweigern und gegen besseres Wissen "Propaganda" betreiben. Ich wäre ja schön blöd - es ist meine Gesundheit, die auf dem Spiel steht. Gerade aus meiner Außenseiterposition überprüfe ich die eigene Entscheidung regelmäßig und ich bin nach wie vor überzeugt von meiner Sicht der Dinge. Gleichwohl muss ich eingestehen, dass ich mich irren kann. Insbesondere bei Auftreten neuer Fakten oder besserer Belege für von mir verworfene Behauptungen werde ich meine Positon revidieren. Dieses selbstverständliche Eingeständnis nehme ich allerdings bei dien Impf-Befürwortern nicht wahr. Mit der Bestätigung durch die gesellschaftliche Mehrheit und dem Narrativ der Medien im Rücken herscht hier iene zu große Gewissheit bzgl. der eigenen Position.
+
+Für mich sind 3 Gruppen von Fragen relevant bei der Frage, ob ich mich impfen lasse:
 
 === Fragen der persönlichen Betroffenheit
 
@@ -145,10 +147,10 @@ Freilich dauerte sie 2 Monate und nicht 2 Wochen - insofern liegt auch die Opfer
 [#uebersterblichkeit21,reftext='{figure-caption} {counter:refnum}']
 image::./images/Destatis-Übersterblichkeit-Highlighted.png[width=80%,align="center"]
 
+
 *In Summe lässt sich festhalten, dass das Sterbegeschehen im Jahr mit Impfung höher war, als im Jahr Ohne Impfung und das Corona derzeit keinen deutlichen Einfluss mehr auf die Übersterblichkeit hat.*
 
 //.Die Graphik der Corona-Toten in Deutschland zeigt den Gesamtverlauf über zwei Jahre. Man sieht das Maximum am Jahreswechsel und den Abfall mit der Schulter im Frühjahr - dies entspricht der Graphik in der Übersterblichketisstatistik.
-//[#covitdeathsgermany,reftext='{figure-caption} {counter:refnum}']
 //image::./images/corona-tote-deutschland.png[width=80%,align="center"]
 
 ==== Altersstruktur der Todesopfer
@@ -177,6 +179,7 @@ Um einen Vergleichspunkt zu haben, betrachten wir zunächst die Jährlichen Grip
 Wir sehen, dass nur alle paar Jahre eine wirkliche Grippe-Welle auftritt, diese dann aber zwischen 10 und 25 Taunsend Menschenleben kostet. die 25.000 wurde 2018 erneut erreicht (nicht im Scope dieses alten Diagramms), trat in den letzten 30 Jahren also 2x auf.
 
 .Die Alle paar Jahre auftretenden Grippewellen können in Deutschland zwischen 10-25 Tausend Tote kosten. Nicht im Scope dieser Darstellung ist die Saison 2018/19 mit ca. 25.000 Toten. Es handelt sich um Schätzzahlen des RKI, die durch Testungen bestätigten Fallzahlen bilden nur einen Bruchteil ab.
+[#grippetoteprojahr,reftext='{figure-caption} {counter:refnum}']
 image::./images/grippe-tote-pro-jahr-historie.png[width=80%,align="center"]
 
 Nach sogut wie 2 Jahren Corona nennt Google ca. 100.000 Corona-Tote in Deutschland - das sind also 50.000 pro Jahr.
@@ -214,6 +217,7 @@ Wie üblich wurde diese Studie https://www.tagesschau.de/investigativ/swr/heinsb
 Eine Übersichts-Studie aus dem Oktober 2020 kommt nach der Auswertung von 61 Studien zu einem Spektrum zwischen 0 und 1,54% Mortalität. Und man kann beobachten, wie die Politik sich die passenden Zahlen aus dem Spektrum herauspickt und dann jeden Widerspruch als "unwissenschaftlich" abwehrt. Das trifft auch andere Wissenschaftler. John Ioannidis, ein namhafter Epidemiologe von der University of Stanford, der selbst in einer https://www.n-tv.de/wissen/Covid-19-weniger-toedlich-als-vermutet-article22104272.html[Studie] eine Mortalität von 0,15% ausweist, wird umgehend vom Mainstream angegriffen, z.B. bezeichnet ihn die https://www.faz.net/aktuell/wissen/forscher-john-ioannidis-verharmlost-corona-und-provoziert-17290403.html[FAZ als "Verharmloser"]. Lauterbach bezeichent Ioannidis, der zu den https://www.einsteinfoundation.de/medien/fragebogen/john-ioannidis/[meistzitiertesten Wissenschaftlern der Welt] gehört auf Twitter als "Außenseiter"
 
 .Lauterbach über John Ioannidis auf Twitter
+[#lauterbachtwitterioannidis,reftext='{figure-caption} {counter:refnum}']
 image::./images/lauterbach-twitter-ioannidis01.png[width=50%,align="center"]
 
 //.John Ioannidis wird deutlich öfter zitiert, als Christian Drosten
@@ -243,6 +247,7 @@ Beide Mittel sind seit vielen Jahrzehnten beim Menschen eingesetzt und haben seh
 Hydroxychloroquine wurde sogar von Präsident Trump als Hoffnung in der Behandlung von Corona bezeichnet, wobei die Medien daraus die Empfehlung bastelten, Trump habe die Leute aufgefordert, https://www.achgut.com/artikel/ivory_will_es_wissen_wie_sichMedien_selbst_demontieren[Chlorbleiche zu saufen]. Ich kenne die Orginalzitate nicht und habe nur viel gelesen, was darüber berichtet wurde - ob hier Trumps große Schnauze oder die Missgunst der Medien die Schuld tragen möchte ich an dieser Stelle nicht erläutern - jedenfalls war Hydroxychloroquine damit ausserhalb von Trumps Anhängerschaft erfolgreich diskretitiert.
 
 .https://today.yougov.com/topics/politics/articles-reports/2020/04/30/americans-reject-disinfectant[Umfragen] zeigen, dass Demokraten Hydroxychloroquine als gefährlich einschätzen
+[#trumphydroxycholorquine,reftext='{figure-caption} {counter:refnum}']
 image::./images/trump.png[width=50%,align="center"]
 
 Offenbar gab es aufgrund von
@@ -282,7 +287,17 @@ Ein wesentlicher Treiber für die Panik in 2020 war die Situation in einigen reg
 
 ==== Aber Long Covid zeigt doch, wie gefährlich die Krankheit ist.
 
+Die erste Erwähnung von Long Covid derer ich mir bewust war, war im Mai 2020 zu einer Zeit, als allgemein beklagt wurde, junge Leute nähmen Corona nicht ernst genug. Da passte Long Covid gut als "Angstmacher" und seither wird es immer wieder für alarmierende Meldungen genutzt: https://www.pharmazeutische-zeitung.de/jeder-dritte-covid-patient-hat-langzeitschaeden-an-nerven-oder-psyche-124852/seite/2/[Neurologische Langzeitschäden bei jedem 3. COVID-Patient - Im letzten Satz dann "Ob die (...) Folgen noch länger als sechs Monate anhalten, muss noch untersucht werden."] Das wird auch als Begründung für die Impfung von Kindern genutzt. Obwohl selbst das https://www.rki.de/SharedDocs/FAQ/COVID-Impfen/FAQ_Liste_Impfung_Kinder_Jugendliche.html[RKI sagt "Unsicher bleibt, ob und wie häufig Long-COVID nach SARS-CoV-2-Infektion bei Kindern und Jugendlichen auftritt" und "Die Häufigkeit von Long-COVID kann derzeit bei Kindern noch nicht verlässlich erfasst werden" (Stand 30.11.)], wird Long Covid immer wieder als Argument für diese Maßnahme herangezogen. Immer wieder wird behauptet, https://www.zusammengegencorona.de/informieren/koerperliche-gesundheit/long-covid-langzeitfolgen-einer-covid-19-erkrankung/[Long-COVID kann auch Patientinnen und Patienten mit leichten Verläufen betreffen].
 
+*Das macht Long Coivid natürlich zum Joker in der Debatte um die Abwägung von Maßnahmen, denn man kann so auch vor einer leichten Erkrankung Angst schüren.*
+
+Ein Problem ist die schwammige Beschreibung der Symptomatik. Ist Long Covid ein Erschöpfungszustand, der nach der Krankheit noch einige Monate anhalten kann - wir kennen das als "Fatige" auch nach Influenza Erkrankungen. Dieser Zustand mag nicht angenehm sein, aber er ist gut therapierbar und nicht lebensbedrohlich. Andererseits gibt es wieder Berichte von drastischen Spätfolgen https://www.rnd.de/gesundheit/ulmer-forschungsprojekt-zu-long-covid-jeder-fuenfte-mit-organschaeden-DYIH7VPKL4FZP5XJUDXPOEIXZM.html[(z.B. Organschäden)] die eher nach einer langfristigen Einschränkung für die betroffenen klingen.
+
+*Es ist eine Schwierigkeit in unserer Gesellschaft, dass wir oft mit Schlagworten operieren, ohne uns der Definition gewiss zu sein. Ich wünsche mir hier mehr Präzision und wie überhaupt klarere Daten.*
+
+Es sei auch darauf verwiesen, dass in Zweifel gezogen wird, https://www.rnd.de/gesundheit/corona-langzeitfolgen-long-covid-aehnliche-symptome-treten-auch-nach-grippe-auf-YQPDVJU4DJDUBEE7F5GYJPUYSA.html[ob Long Covid wirklich etwas anderes ist, als die Fatigue nach einer Grippe]
+
+*Mir ist das Thema zu schwamig und mit zu vielen Unsicherheiten belegt, um hieraus eine Begründung abzuleiten, mich impfen zu lassen. Bei dieser Beurteilung spielt auch eine Rolle, dass mein Vertrauen in z.B. das RKI angesichts anderer Prognosen, die sich nicht halten liessen, nicht sehr ausgeprägt ist.*
 
 === Die COVID-Impfstoffe haben eine begrenzte Wirksamkeit
 
@@ -298,7 +313,11 @@ Weil Israel früher als Deutschland eine hohe Impfquote erreicht hat, aber auch 
 
 Es lies sich im Sommer beobachten, dass der Anteil der Geimpften unter den hospitalisierten COVID-Fällen https://www.beckershospitalreview.com/public-health/nearly-60-of-hospitalized-covid-19-patients-in-israel-fully-vaccinated-study-finds.html[ungefähr dem Impfgrad] der Bevölkerung entspricht. Ganz klar darf man daraus nicht schließen, dass die Impfung wirkungslos sei. Die Impfquote variiert sicher stark mit dem Alter, so dass in den Risikogruppen (und auf die kommt es ja an) - der Anteil von vielleicht 10% Ungeimpften immerhin 40% der Hospitalisierung ausmacht. *Die Impfung scheint das Risiko damit um einen Faktor 4 zu senken* Natürlich handelt es sich hier um eine Daumen-Schätzuung, dieser Faktor könnte bei 3, aber auch bei 6 liegen. Der Schutz ist aber sicher nicht 100%ig, wie noch kurz zuvor behauptet.
 
+
+[#israelcovid,reftext='{figure-caption} {counter:refnum}']
+.Covid metrics for israel
 image::./images/israel.png[width=80%,align="center"]
+
 
 Es war verwunderlich, als das RKI Anfang September verkündete, dass in Deutschland der Anteil der Ungeimpften nicht 40% wie in Israel, sondern sage und schreibe 94% beträgt.
 
@@ -311,7 +330,6 @@ Es war verwunderlich, als das RKI Anfang September verkündete, dass in Deutschl
 * Der Impfsatus von COVID-Patinenten wird bei einem erstaunlich hohen Anteil der Patienten als "unbekannt" gemeldet. Bis zum 30.09. wurden diese Fälle den Ungeimpften zugeschlagen. Der Impfstatus "unbekannt" wächst ausserdem im Lauf der Zeit immer mehr an - von 38{nbsp}% in KW{nbsp}35 auf 59{nbsp}% in KW{nbsp}46. Angesichts dessen, dass ich im Alltag permanent meinen Imfpstatus nachweisen muss ist es absurd, dass im Krankenhaus bei der Mehrzahl der Patienten der Impfstatus unbekannt ist. Kann es sein, dass man geimpfte geziehlt aus der Statistik nimmt, indem man den Status als "unbekannt" meldet?
 
 Der subjektive Student ist sehr gewissenhaft bei der Nennung seiner Quellen, und zurückhaltend, was Bwertungen anbelant. Der freien Journalisten https://reitschuster.de/[Boris Reitschuster] geht diesen Hinweisen ebenfalls nach, er hat sich den ganzen Herbst durchgegenüber der Bundesregierung und dem RKI um Aufklärung über die Zählweisen bemüht. Ich habe Stunden seiner Berichterstattung aus der Bundespressekonferenz gesehen und immer weider beobachtet, wie sich die Verantwortlichen um eine Antwort gewunden haben. Stellvertretend für viele Stunden Bundespressekonferenz, die ich zu dem Thema gesehen habe, sei dieses kurze https://www.youtube.com/watch?v=YoycxmZ3ji0[Video] genannt. Boris Reitschuster schildert eingangs des https://www.youtube.com/watch?v=PvecN5YLhqA[Videos] die anhalten Inkonsistenzen in den RKI Berichten.
-
 
 Am 15.11. wurde Prof. Marx von der DIVI, welche das Intensivbettenregister führt im Bundestag vom Abgeordneten Martin Sichert befragt: wie viele der 1662 (in der letzten Woche mit Covid aufgenommenen) Patienten geimpft bzw. ungeimpft waren?
 Antwort: Diese Frage kann ich leider nicht beantworten, weil wir bisher noch nicht erfasst haben, welche Patienten auf den Intensivstationen geimpft und welche nicht geimpft sind.  https://www.bundestag.de/resource/blob/869052/8ad3e08fc55c91e8f87812e64d74f691/protokoll-data.pdf[Protokoll Seite 28] *Wie kann es sein, dass wir zu dieser wichtigen Frage keine Daten haben und wie kann es sein, dass Politiker und Medien hier Permanent Behauptungen aufstellen, die offenkudig nicht durch die Datenlage gedeckt sind*. Dieses Unwissen hält Prof. Marx natürlich nicht ab, schon am Folgetag in den https://www.rbb24.de/panorama/thema/corona/beitraege/2021/11/interview-divi-geimpfte-ungeimpfte-unterschiede.html[Medien] weiter Behauptungen aufzustellen, die ja offenkundig ungedeckt sind. Diese Widersprüche hat Boris Reitschuster in einem https://www.youtube.com/watch?v=m2lBN2PKw2w[kurzen Video] zusammengestellt.
@@ -327,7 +345,10 @@ Auch andere Quellen aus der Gegenöffentlichkeit, z.B. https://uncutnews.ch/stud
 *Selbstverständlich ist die Frage, wieviele COVID-Patienten geimpft sind hochinteressant (am besten gestaffelt nach Alter und Schwere der Erkrankung), es liegt an den Verantwortlichen, hier qualitativ hochwertige Daten bereitzustellen anstatt Halbwahrheiten zu verbreiten!*
 
 .Die einschlägige "Tablelle 3" aus dem RKI Wochenbericht (hier von Anfang Dezember) weist unter den Corona-Toten 48% geimpfte aus. Für die Fälle auf der Intensivstation und die hodpitalisierten Fälle ist die Quote ähnlich (die Altersgruppe unter 60 kann man aufgrund der geringen Fallzahl vernachlässigen.)
+[#tabelle3,reftext='{figure-caption} {counter:refnum}']
 image::images/rki-wobericht-tab3.png[align="center",width=80%]
+
+
 
 Als Nachtrag "geistern" noch weitere Aussagen durch Social Media:
 
@@ -397,6 +418,7 @@ Es wurde häufig bestritten, aber nach meiner Lebenserfahrung lassen sich Abläu
 Wie kommt es, dass die Impfstoffhersteller ihre Einschätzung zur Wirksamkeit so sehr revidieren mussten, aber in Bezug auf die Impfsicherheit nicht in Frage gestellt werden?
 
 .Eine Info-Graphik der Sendung "Quarks" gibt die Dauer der Impfstoffentwicklung mit 8 bis 17 Jahren an.
+[#impfstoffentwicklung,reftext='{figure-caption} {counter:refnum}']
 image::images/phasen-der-impfstoffentwicklung.png[width=59%, align="center"]
 
 **Der Faktor Alternativlsoigkeit**
@@ -450,6 +472,7 @@ Einige Tage danach berichteten verschiedenen Youtuber ihren Tod, wobei Ihr Name 
 Das Krankenhaus in dem Tiffany arbeitete, hat danach ein Bild veröffentlicht, was Tiffany im Kreise ihrer Kollegen zeigte. Es handelte sich um ein Gruppenbild mit ca. 20 Personen und offenkundig auch um https://www.youtube.com/watch?v=ylhq-fnMV00[Videomaterial], die alle in medizinischer Schutzkleidung und Gesichtsmaske auftraten. Für mich sah die angebliche Tiffany der Person am Impftag nicht sehr ähnlich, aber da kann sich jeder selbst ein Bild von machen. Mit dem Bild wurde die Nachricht verbreitet, Tiffany wolle nicht mehr in der Öffentlichkeit stehen und es wurde aufgefordert, ihre Privatsphäre zu respektieren.
 
 .Das Photo stellt laut dem Krankenhaus in dem sie beschäftigt ist, die genesene Tiffany Dover im Kreis ihrer Kolleginnen dar. Dies ist für mich mindestens zweifelhaft.
+[#tiffanydoveramongstcolleagues,reftext='{figure-caption} {counter:refnum}']
 image::images/tiffany-dover-or-not[align=center, width=70%]
 
 Da die kritischen Berichte nicht nachließen traten nun die Faktenchecker (https://www.politifact.com/factchecks/2021/oct/20/instagram-posts/theres-still-no-evidence-tennessee-nurse-who-faint/[politifact]) auf den Plan, die auch in Deutschland entsprechende Recherchen verurteilten.  (https://correctiv.org/faktencheck/2021/02/12/nein-eine-krankenschwester-die-im-tv-geimpft-und-ohnmaechtig-wurde-ist-nicht-gestorben/[Correctiv] verweist dabei auf Bildmaterial, das auch verlinkt ist und wirklich mehr als unschlüssig ist). Dabei werden entsprechende Nachforschungen moralisch als https://www.thedailybeast.com/anti-vaxxers-wont-stop-harassing-tiffany-dover-nurse-theyre-convinced-is-dead-after-covid-shot["Harrasment" verurteilt]
@@ -503,7 +526,7 @@ https://odysee.com/@ReelNews:8/Spike-protein-is-very-dangerous-it's-cytotoxic-Ro
 
 ==== Johnson & Johnson
 
-US-Pharmakonzern Johnson und Johnson (J&J) treibt derzeit einen 26 Milliarden Dollar Vergleich voran, mit dem die Opiat-Klagen abgewendet werden sollen. In den USA sind ca. 500.000 Amerikaner umgekommen - https://www.spiegel.de/wirtschaft/unternehmen/us-pharmafirmen-treiben-26-milliarden-dollar-vergleich-voran-a-156a2716-c4a2-4f37-87fd-55ced7456d96[J&J wird beschuldigt, die Vorteile von Opioiden überbewertet und die Risiken heruntergespielt zu habenr]
+US-Pharmakonzern Johnson und Johnson (J&J) treibt derzeit einen 26 Milliarden Dollar Vergleich voran, mit dem die Opiat-Klagen abgewendet werden sollen. In den USA sind ca. 500.000 Amerikaner umgekommen - https://www.spiegel.de/wirtschaft/unternehmen/us-pharmafirmen-treiben-26-milliarden-dollar-vergleich-voran-a-156a2716-c4a2-4f37-87fd-55ced7456d96[J&J wird beschuldigt, die Vorteile von Opioiden überbewertet und die Risiken heruntergespielt zu haben.]
 
 ==== Pfizer
 
@@ -526,6 +549,7 @@ und so weiter und so weiter (Link in der Bildunterschrift)
 *Die Hersteller sind bei diesem Milliardengeschäft nicht vertrauenswürdig, zu groß ist der potentielle Gewinn.*
 
 .https://violationtracker.goodjobsfirst.org/parent/pfizer
+[#pfizerviolationtracker,reftext='{figure-caption} {counter:refnum}']
 image::./images/pfizer-violation-track.PNG[]
 
 ==== Berichte auf Social Media footnote:socialmdeia[Social Media schließt Messaging (Telegram) und Videoportale (z.B. Youtube, Rumble, Odyssee)]
@@ -611,6 +635,7 @@ Das oben erwähnte Interview mit Herrn Popp vom Klinikum Murnau berichtet von ei
 * Das angeblich nicht existierende Risiko von bislang nicht entdeckten Langzeitfolgen, wie hoch man immer es veranschlagen möchte ist nicht abgedeckt.
 
 .In meiner Altersdekade (40 bis 50) sterben pro Jahr immerhin 780 Männer an Herzinfakt. Wir haben weiter oben gesehen, dass in dieser Gruppe ca. 600 Corona-Tote zu beklagen sind - nach 2 Jahren. Bei den 50 bis 60-jährigen stehen 3000 Herzinfakte pro Jahr 2.400 Corona-Toten in 2 Jahren gegenüber. Nicht berücksichtigt ist der Unterschied "An Corona-Mit Corona" gestorben.
+[#herzinfaktnachalter,reftext='{figure-caption} {counter:refnum}']
 image::images/herzinfaktnachalter.png[align=center, width=80%]
 
 In Summe fällt die Nutzen-Risiko Abwägung deutlich zu ungunsten des Impfstoffes aus. Nun kann man mir vorwerfen mit unsoliden Zahlen zu argumentieren. Aber es gibt keiene entsprechede Rechnung, die von den Proponenten der Rechnung aufgemacht wird. Hier heißt es immer nur: "Die Impfung ist sicher" Das ist unglaubwürdig. Ich sehe den Mangel an verlässlichen Zahlen zwar, die Verantwortung liegt aber bei eben den Politikern, die mich seit Monaten zur Impfung drängen wollen.
@@ -624,13 +649,14 @@ Das Narrativ schwenkte daher um von "Die Impfung schützt vor Erkrankung mit dem
 
 Dieses Narrativ hat gleich mehrere Schwächen:
 
-* Sagen wir mal so: Durch winterliche Infektionskrankheiten überlastete Krankenhäuser scheinen ja nicht unbedingt etwas Neues oder Ungewöhnliches zu sein. Der Ertrag von wenigen Minuten "Googeln":
+* Durch winterliche Infektionskrankheiten überlastete Krankenhäuser sind weder Neu, noch Ungewöhnlich. Der Ertrag von wenigen Minuten "Googeln":
 ** *2013* https://www.welt.de/regionales/koeln/article113760346/Grippewelle-hat-Koeln-fest-im-Griff.html[Grippewelle hat Köln fest im Griff (Welt)]
 ** *2015* https://www.sueddeutsche.de/bayern/notfallmedizin-in-bayern-vor-dem-kollaps-1.2350251[Notfallmedizin in Bayern: Vor dem Kollaps (SZ)]
 ** *2016* https://www.nordbayern.de/region/nuernberg/kliniken-schlagen-alarm-notaufnahmen-sind-uberlastet-1.5036441[Kliniken schlagen Alarm: Notaufnahmen sind überlastet (NZZ)]
 ** *2017* https://www.welt.de/regionales/bayern/article161869919/Kliniken-schliessen-wegen-Ueberlastung-ihre-Notaufnahmen.html[Kliniken schließen wegen Überlastung ihre Notaufnahmen (Welt)]
 //https://www.aerzteblatt.de/nachrichten/72938/Grippewelle-sorgt-fuer-ueberlastete-Kliniken[Grippewelle sorgt für überlastete Klinike (Deutsches Ärzteblatt)] / https://www.mz.de/lokal/halle-saale/grippe-in-halle-saale-an-der-uniklinik-geht-nichts-mehr-1276040[Grippe in Halle (Saale): An der Uniklinik geht nichts mehr (MZ)]
 ** *2018* https://www.merkur.de/bayern/wohin-mit-vielen-patienten-grippewelle-sorgt-fuer-ueberfuellte-krankenhaeuser-alarmstufe-not-zr-9678577.html[Grippe sorgt für überfüllte Kliniken - Unfallopfer konnten nicht aufgenommen werden (Merkur)]
+
 
 
 
@@ -647,6 +673,7 @@ Dieses Narrativ hat gleich mehrere Schwächen:
 * Wir haben ja schon weiter oben (bei der Diskussion der Impfstoff-Wirksamkeit) die Frage besprochen, inwiefern der Anteil der Ungeimpften an den Intensivpatienten (offiziell ca. 50{nbsp}%) künstlich hochgerechnet wurde. Aber selbst, wenn man diesen Wert für den Moment akzeptiert, muss man beachten, dass nur ein kleiner Teil der Intensivbetten durch COVID-Patienten belegt ist. Laut Bundesregierung (Im Herbst 2021 auf der BPK geäußert) lag dieser Anteil nie über 25%, aktuell liegt der Anteil eher bei 15{nbsp}% (siehe Graphik). Das bedeutet, dass maximal ca. 10{nbsp}% der Intensivbettenkapazitäten durch ungeimpfte COVID-Patienten belegt sind, vermutlich deutlich weniger (denn wir haben bei beiden Faktoren die eingehen eine Maximal-Annahme getroffen). Wie können 10{nbsp}% der Betten für die Überbelegung verantwortlich zeichnen? https://www.youtube.com/watch?v=lkST9sJL5Lc&t=550s[siehe Minute 9:50]
 
 .Entwicklung der Intensivbettenkapazitäten.
+[#intensivbetten,reftext='{figure-caption} {counter:refnum}']
 image::images/Intensivbetten.png[align=center, width=70%]
 
 Nachtrag:
@@ -672,7 +699,6 @@ Man beobachtet an diesen Punkten, dass die Imfpung nicht als Mittel zum Zweck (G
 
 Nach dieser Analyse verwundert auch der Eindruck nicht mehr, den viele Impf-Verweigerer teilen, nämlich die seltsame Argumentlosigkeit, mit der man konfrontiert ist. Man würde ja denken, die Leute würden versuchen, einen zu überzeugen, aber er Debatte wird meiner Erfahrung nach aus dem Weg gegangen. Es bleibt bei der moralischen Verurteilung, ggf. mit dem pseudo-liberalen Bekenntnis verbunden, es könne ja jeder seine eigene Meinung dazu haben. (Wissend, dass die andere Meinung kurz davor steht, gesetzlich verboten zu werden - Stichwort: Impfpflicht - empfinde ich solche Kommentare als zynisches Achselzucken.)
 
-
 === Erkenntnisse die zum Narrativ passen
 
 ==== Booster-Kampagne
@@ -682,7 +708,7 @@ Derzeit wird mächtig für die Booster-Impfung geworben. https://www.echo24.de/w
 
 === Die Träger der öffentlichen Debatte (Politik und Medien) sind einseitig
 
-Wagenknesth über Lauterbach https://www.youtube.com/watch?v=hvQKE0bGq5U
+Sahra Wagenknecht über Lauterbach https://www.youtube.com/watch?v=hvQKE0bGq5U
 Lauterbach https://www.tichyseinblick.de/meinungen/karl-lauterbach-der-panik-verbreiter-als-gesundheitsminister/
 https://www.achgut.com/artikel/bericht_zur_coronalage_16.6.2020der_seltsame_professor
 
