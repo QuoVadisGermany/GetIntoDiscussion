@@ -211,12 +211,12 @@ Ich betrachte die Altersverteilung der Todesfälle (die wie wir in <<_argument_d
 
 Indirekt bestätigt wird diese Rechnung von Mainstream-Medien, die diese Rechnung relativeren, z.B. https://www.aerzteblatt.de/blog/112935/Sterben-mehr-Menschen-an-COVID-19-als-an-der-saisonalen-Grippe[hier].
 Dabei wird auf den Umstand hingewiesen, dass wir hier Schätzungen (Grippe) mit Testdaten (Corona) vergleichen.
-Bei der Grippe betragen die Schätzzahlen in der Tat das Vielfache der Testzahlen - diese Argumentation ist jedoch wenig stichhaltig, weil in 2021/22 eine praktisch 100%ige Corona-Testabdeckung bei Personen angenommen werden kann, die im Krankenhaus verstarben.
+Bei der Grippe betragen die Schätzzahlen in der Tat das Vielfache der Testzahlen - diese Argumentation ist jedoch wenig stichhaltig, weil in 2021/22 eine praktisch 100%ige Corona-Testabdeckung bei Personen angenommen werden kann, die im Krankenhaus verstarben. Es gibt aber keine Dunkelziffer von nicht gezählten Corona-Toten. Im Gegenteil gibt es eine Über-Zählung wie ich dargestellt habe.
 
-==== Argument: Mortalität
+==== Argument: Studien zur Mortalität von COVID spannen einen großen Bereich von 0 bis 1,5 % ab. Grippe hat eine Mortalität von 0,37%
 
 Eine weitere Messgröße ist die Mortalität, also der Prozentsatz der Infizierten, der schließlich an der Kranheit verstirbt.
-Um Ostern 2020 wurde die COVID-19 Case-Cluster-Study (aka Heinsberg-Studie) präsentiert, die von Forschern rund um Professor Hendrik Streeck von der Universität Bonn durchgeführt wurde.
+Im Frühjahr 2020 wurde die COVID-19 Case-Cluster-Study (aka Heinsberg-Studie) präsentiert, die von Forschern rund um Professor Hendrik Streeck von der Universität Bonn durchgeführt wurde.
 Es wurde durch Untersuchung eines frühen Corona-Hotspots eine Mortalität von 0,37 ausgewiesen - ein Wert, wie er für eine Influenza erwartet wird.
 
 Wie üblich wurde diese Studie https://www.tagesschau.de/investigativ/swr/heinsberg-studie-103.html[angegriffen]. Das in Deutschland Maßgebliche RKI nennt 1,5 % in den Medien wurde mit Verweis auf New York (mehr zu den regionalen Hotspots unten) häufig 1,8 % genannt.
@@ -234,7 +234,7 @@ Diese Vereinnahmung eines Teils der Wissenschaft für das eigene Narrativ bei gl
 
 Zurück zur Frage der Mortalität: Die Mortalität der Grippe (0,37%) liegt im Spektrum der Studienergebnisse für die Mortalität für Corona. Auffällig ist die uneinheitliche Studienlage und das in der Öffentlichkeit verzerrte Bild, bei dem nur die dramatischsten Ergebnisse Eingang in den Diskurs finden.
 
-==== Argument: Behandlungsmethoden und Prävention
+==== Argument: Alternativen zur Impfung werden nicht mit der Energie untersucht, die man in einer verzweifelten Pandeminesituation unterstellen würde.
 
 Die Mortalität einer Krankheit ist ja keine Naturkonstante, sondern hängt davon ab, wie man behandelt. Bei einer neuen Krankheit würde ich daher erwarten, dass die Mortalität gerade zu Beginn durch schnell sinkt.
 
@@ -268,7 +268,9 @@ Wie plausibel ist das? Da ist man schier am Verzweifeln über die ganzen Toten, 
 
 Eine immer wieder auftretende Stilblüte lässt sich an dieser Episode auch illustrieren: Das Muster "Es gibt keine Beweise" ( https://www.medizin-transparent.at/ivermectin-corona/[Ivermectin gegen Corona: möglicherweise wirkungslos], https://www.cochrane.de/de/news/ivermectin-keine-evidenz-f%C3%BCr-wirksamkeit-gegen-covid-19[Ivermectin: Keine Evidenz für Wirksamkeit gegen COVID-19]) Dabei werden häufig gerade von denjenigen, die das offizielle Narrativ hinterfragen immer Beweise gefordert, oft von den Leuten, die Transparenz entgegenarbeiten.
 
-==== Argument: Aber die regionalen Hot-Spots zeigen doch die Gefährlichkeit
+Mein Eindruck ist, dass es eher um die Impfung geht, als um die Behandlung der Erkrankung.
+
+==== Argument: Die regionalen Hot-Spots zeigen nicht die Gefährlichkeit
 
 Ein wesentlicher Treiber für die Panik in 2020 war die Situation in einigen regionalen Hotspots (Wuhan, Lombadei, New York, Wisconsin). Hier stellt sich natürlich die Frage, warum ich dennoch zu meiner "entwarnenden" Bewertung gelange. Hierzu als erstes eineige generelle Überlegungen:
 
@@ -292,8 +294,7 @@ Ein wesentlicher Treiber für die Panik in 2020 war die Situation in einigen reg
 
 **In Summe bleibt hier festzustellen, dass ein geziehltes Cherry-Picking von Hot-Spots kein realistisches Bild zeichnet.**
 
-==== Argument: Aber Long Covid zeigt doch, wie gefährlich die Krankheit ist.
-
+==== Argument: "Long Covid" wird als Joker genutzt, mit dem man Patienten mit milden Krankheitsverlauf Angst vor Langzeitschäden machen kann. Ohne mehr Präzision und eine Bessere Datenlage ist diese Argumentationsstrategie abzulehnen.
 Die erste Erwähnung von Long Covid derer ich mir bewust war, war im Mai 2020 zu einer Zeit, als allgemein beklagt wurde, junge Leute nähmen Corona nicht ernst genug. Da passte Long Covid gut als "Angstmacher" und seither wird es immer wieder für alarmierende Meldungen genutzt: https://www.pharmazeutische-zeitung.de/jeder-dritte-covid-patient-hat-langzeitschaeden-an-nerven-oder-psyche-124852/seite/2/[Neurologische Langzeitschäden bei jedem 3. COVID-Patient - Im letzten Satz dann "Ob die (...) Folgen noch länger als sechs Monate anhalten, muss noch untersucht werden."] Das wird auch als Begründung für die Impfung von Kindern genutzt. Obwohl selbst das https://www.rki.de/SharedDocs/FAQ/COVID-Impfen/FAQ_Liste_Impfung_Kinder_Jugendliche.html[RKI sagt "Unsicher bleibt, ob und wie häufig Long-COVID nach SARS-CoV-2-Infektion bei Kindern und Jugendlichen auftritt" und "Die Häufigkeit von Long-COVID kann derzeit bei Kindern noch nicht verlässlich erfasst werden" (Stand 30.11.)], wird Long Covid immer wieder als Argument für diese Maßnahme herangezogen. Immer wieder wird behauptet, https://www.zusammengegencorona.de/informieren/koerperliche-gesundheit/long-covid-langzeitfolgen-einer-covid-19-erkrankung/[Long-COVID kann auch Patientinnen und Patienten mit leichten Verläufen betreffen].
 
 *Das macht Long Coivid natürlich zum Joker in der Debatte um die Abwägung von Maßnahmen, denn man kann so auch vor einer leichten Erkrankung Angst schüren.*
@@ -314,7 +315,7 @@ Die Frage nach der Wirksamkeit der Impfstoffe ist die Geschichte eines Rückzugg
 
 Hat man ein halbes Jahr später bessere Informationen als damals? Wieso wurde dann so oft behauptet, die Imfpung sei trotz der schnellen Entwicklung gut erforscht, wenn man ein halbes Jahr nach Beginn der breiten Impfkampagne noch so im Dunkeln tappte? Wieso wussten viele "Querdenker" schon früh, was der Mainstream erst unter dem Druck der Fakten zugeben musste. Und: *Wenn die Hersteller so daneben lagen, was die Wirksamkeit angeht, wieso sollte ich ihnen in der ungleich wichtigern Frage nach den Nebenwirkungen vertrauen?*
 
-==== Argument: Schützt die Impfung den Impfling vor schwerer Erkrankung bzw. Tod?
+==== Argument: Die Impfung schützt nur teilweise vor schwerer Erkrankung bzw. Tod (ca. 30%-80%, vermutlich abhängig von Alter, Zeit nach der Imfpung, Variante des Virus)
 
 Weil Israel früher als Deutschland eine hohe Impfquote erreicht hat, aber auch früher in die Delta-Variante gelaufen ist, die dort Ende August / Anfang September ihren Höchststand erreicht hat, bot das Land einen interessanten Blick in die Zukunft.
 
