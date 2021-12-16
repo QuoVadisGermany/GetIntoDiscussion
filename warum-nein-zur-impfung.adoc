@@ -96,7 +96,7 @@ Nochmal: Die hier getroffenen Aussagen stellen kein absolutes Wissen dar, sonder
 Diese Offenheit würde ich mir natürlich idealerweise auch von meinem Opponenten in einem Streit wünschen.
 So könnte man gemäß der Aristotelischen Formel "These und Antithese bilden die Synthese" gemeinsam zu einem inhaltlichen Fortschritt gelangen.
 
-=== COVID ungefähr so gefährlich wie eine schwere Influenza-Welle
+=== Hypothese: COVID ungefähr so gefährlich wie eine schwere Influenza-Welle
 
 Diese Aussage ruft oft eine sehr emotionale Abwehrreaktion hervor.
 Ich möchte nicht leugnen, dass Menschen leiden und keine Opfer verhöhen.
@@ -105,9 +105,9 @@ Allerdings ist dieser Vergleich nötig, um die abstrakten Zahlen von Tausenden v
 
 *Corona-Leugner oder nicht?*
 
-Es gibt ja die Hypothese, dass es COVID gar nicht gibt und dass es sich um die Grippewelle 2020 handele. Ich finde diese Gedanken plausibel, gerade wenn man sich vor Augen führt, dass https://www.achgut.com/artikel/indubio_folge_186_08_12_2021_ein_test_als_fetish[man die Krankheitsbilder klinisch kaum voneinander abgrenzen kann], und nur der PCR-Test die eine von der anderen Krankheit differenziert. Ich kann aber zu dieser Diskussion wenig beitragen und halte sie auch nicht für sonderlich relevant. Mich interessiert die Gefährlichkeit der Epidemie - ob der Erreger neu oder alt ist, spielt eine nachrangige Rolle.
+Es gibt ja die Hypothese, dass es COVID gar nicht gibt und dass es sich um die Grippewelle 2020 handele. Ich finde diese Gedanken plausibel, gerade wenn man sich vor Augen führt, dass https://www.achgut.com/artikel/indubio_folge_186_08_12_2021_ein_test_als_fetish[man die Krankheitsbilder klinisch kaum voneinander abgrenzen kann], und nur der PCR-Test die eine von der anderen Krankheit differenziert. Ich kann aber zu dieser Diskussion fachlich wenig beitragen und halte sie auch nicht für sonderlich relevant. Mich interessiert die Gefährlichkeit der Epidemie - ob der Erreger neu oder alt ist, spielt eine nachrangige Rolle.
 
-==== Übersterblichkeit
+==== Argument: Die Pandemie hat sich 2020 nicht in der Übersterblichkeitsstatistik in Deutschland gezeigt - sehr wohl gibt es aber seit der Impfkampagne eine Übersterblichkeit mit bislang ungeklärter Ursache
 
 ===== Es gab 2020 keine Übersterblichkeit
 
@@ -153,7 +153,7 @@ image::./images/Destatis-Übersterblichkeit-Highlighted.png[width=80%,align="cen
 //.Die Graphik der Corona-Toten in Deutschland zeigt den Gesamtverlauf über zwei Jahre. Man sieht das Maximum am Jahreswechsel und den Abfall mit der Schulter im Frühjahr - dies entspricht der Graphik in der Übersterblichketisstatistik.
 //image::./images/corona-tote-deutschland.png[width=80%,align="center"]
 
-==== Altersstruktur der Todesopfer
+==== Argument: Aus der Altersstruktur der Todesfälle lässt sich ablesen, dass mittlere und junge Jahrgänge kaum betroffen sind.
 
 Die absolute Mehrzahl der Opfer ist hochbetagt.
 Dast Durschnittssterbealter in der 2. Welle betrug 84,5 Jahren - unten stehende Graphik zeigt, dass mehr als 85% über 70 Jahre alt sind.
@@ -163,50 +163,57 @@ Unter 60-jährige bilden weniger als 5% der Todesfälle.
 [#coviddeathbyage,reftext='{figure-caption} {counter:refnum}']
 image::./images/statista-altersstruktur-corona-tote.png[width=80%,align="center"]
 
-Die Graphik zeigt also, dass von ca. 100.000 Todesfällen ungefähr 1.300 Fälle unter 50 Jahre alt waren (1,3{nbsp}%) und weniger als 150 Fälle unter 30 Jahren waren (0,15{nbsp}%). Die ohnehin minimalen Fallzahlen in den jungen Alterskohorten relativieren sich weiter, wenn man sich vor Augen hält, dass diese Statistik alle Toten mit positivem Corona-Test enthält, unabhängig von der Todesursache. Bei den Kindern z.B. liegt zu vermuten, dass hier Krebspatienten mit dem Virus verstorben sind und dann als Corona-Tote zählen. Es ist aber nicht zulässig, diese Todesfälle möglichen Impfschäden gegenüberzustellen, denn die beste Impfung hätte sie vermutlich nicht retten können.
-
-Diese Verteilung ist mehrfach interessant:
-
-* Die als Corona-Opfer gezählten Toten gehören in der Mehrzahl Alterskohorten an, in denen eine hohe Sterblichkeit nichts auffälliges ist. Wir werden weiter unten auf die Frage stoßen, welcher Prozentsatz AN und welcher MIT Corona gestorben ist. Diese Altersstruktur legt für mich nahe, dass die hohen Schätzungen (85{nbsp}%) unplausibel sind.
+* Die als Corona-Opfer gezählten Toten gehören in der Mehrzahl Alterskohorten an, in denen eine hohe Sterblichkeit nichts auffälliges ist.
 
 * Die Abwägung von Risiken und Nutzen der Impfung müsste nach Alterskohorten getroffen werden. Für die unter 30-jährigen - so wird hier deutlich - ist der potentielle Nutzen minimal. Eine Impfung für Kinder und vielleicht sogar eine Impfpflicht (Österreich macht da gerade vor, dass bei Kindern keine Ausnahme gemacht wird) sind meiner Einschätzung nach ein Skandal.
 
-* Eigentlich müsste man auf die Impfquote unter den über 70-jährigen schauen, wenn es um Schutz vor der Krankheit ging. Genauso hätten auch andere Schutzmaßnahmen auf diese Gruppen fokussieren müssen.
+==== Argument: Der Vergleich der Altersstruktur der Corona-Toten mit der Struktur aller Todesfälle in 2019 lässt legt nahe, dass die Toten in der Mehrzahl MIT und nicht AN Coronoa gestorben sind.
 
-==== Todeszahlen
+Um die absoluten Zahl an Todesfällen betrachten kann, muss man abschätzen, bei wievielen der derzeit gut 100.000 "Corona-Toten" für die Jahre 2020-2021 footnote:warumkeinjahresbezug[Warum wird die Zahl der Corona-Toten immer weiter hochgezählt, wo Zahlen für alle anderen Todesursachen immer pro Jahr gemessen werden? Um zu höheren Absolut-Zahlen zu kommen?] COVID ursächlich für den Tod war. Leider wurde bei der Zählung nie ein Unterschied zwischen Patienten gemacht, die AN Corona gestorben sind und Patienten, die MIT Corona gestorben sind.footnote:abgrenzungnichtmoeglich[Während man 2020 immer argumentiert hat, eine Abgrenzung zwischen den "an" Corona gestorbenen von den "mit" Corona Verstorbenen sei nicht möglich, funktioniert das 2021 erstaunlicherweise. Bei geimpften Patienten, die Covid-Positiv wird nur dann von einem "Impfdurchbruch" gesprochen, wenn es sich um eine einschlägige Symptomatik handelt.]
+
+Die Wissenschaft beziffert das Verhältnis zwischen https://www.welt.de/wissenschaft/article214363586/Covid-19-Tote-in-Deutschland-86-sterben-nicht-mit-sondern-an-Corona.html[85%] und https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html[20%], so dass hier eine große Unsicherheit verbleibt.
+
+Ich habe in einer sehr einfachen Analyse mal die Alterstruktur der COVID-Toten (2020 und 2021) in blau mit der des "normalen" Sterbegeschehens (2019) in grau verglichen (<<sterbealter>>): Falls COVID wirklich bei einem hohen Anteil der 100.000 Patienten der eigentliche Sterbegrund war, würde ich erwarten, dass die Verteilung sich deutlich von der normalen Sterbeverteilung unterscheidet. Wenn hingegen bei den meisten Patienten der postiive COVID-Test nur zufällig einen ohnehin im Sterben liegenden Menschen zum Covid-Opfer machte, dann würde ich eine Verteilung erwarten, die fast deckungsgleich mit der Verteilung des "normalen" Sterbegeschehens ist. Als Prüfung für diese Annahme habe ich die Sterbeverteilung für Brustkrebs mit eingezeichnet.
+
+Ergebnis:
+
+* Eine eine geringe Abweichung zwischen dem COVID-Sterbegesehen erklärt sich dadurch, dass Unfalltode nicht im Kontext eines Krankenhaus mit seinen Tests stattfinden und somit nicht "mitgezählt werden"
+* Abgesehen von diesem Effekt ist die Verteilung der COVID-Tode in erstaunlicherweise deckungsgleich zu der Verteilung des "normalen" Sterbegeschehens
+* Die Brustkrebs-Verteilung ist deutlich unterschiedlich.
+
+*Fazit:* Gerade unter Berücksichtigung der Tatsache, dass im Jahr 2020 keine Übersterblichkeit herrschte, muss ich davon ausgehen, dass die Todesursache in den meisten Fällen NICHT Corona war. Wie wäre es sonst zu erklären, dass die Sterblichkeit dieser neuen Krankheit zufällig die Altersstruktur der normalen Sterblichkeit abbildet?
+
+.Die Alterstruktur der Covid-Fälle in den Jahren 2020 bis 2021 gegenüber dem normalen Sterbegeschehen 2019 (Quelle für beides: de.statista.com) und der Altersverteilung der https://www.radiologie-westmuensterland.de/mammographie-screening/fakten-zum-brustkrebs[Brustkrebs-Toten 2004] (Jahrgang und Erkrankungsart wurden nicht "cherry"-gepickt, ich habe sonst keine nach Alter aufgeschlüsselten Statistiken für eine Todesursache gefunden.).
+[#sterbealter,reftext='{figure-caption} {counter:refnum}']
+image::./images/covid-brustrkebs-allgemein[width=80%,align="center"]
+
+==== Argument: Die absoluten Todesfallzahlen für Corona liegen maximal footnote:opferzahlenhinweis[Ich möchte ausdrücklich betonen, dass ich die Zahl von 10.000 Toten pro Jahr nur im Rahmen dieser Argeumentation verwende und sie eine Maximal-Abschätzung darstellt - in der Tat glaube ich, dass es in 2020 kein ausergewöhnliches Sterbegeschehen gab.]
 
 Um einen Vergleichspunkt zu haben, betrachten wir zunächst die Jährlichen Grippe-Toten.
-Wir sehen, dass nur alle paar Jahre eine wirkliche Grippe-Welle auftritt, diese dann aber zwischen 10 und 25 Taunsend Menschenleben kostet. die 25.000 wurde 2018 erneut erreicht (nicht im Scope dieses alten Diagramms), trat in den letzten 30 Jahren also 2x auf.
+Wir sehen, dass nur alle paar Jahre eine wirkliche Grippe-Welle auftritt, diese dann aber zwischen 10 und 25 Taunsend Menschenleben kostet. die 25.000 wurde 2018 erneut erreicht (nicht im Scope dieses alten Diagramms). Wir stellen fest, dass im Betrachtungszeitraum seit 1990 (also in 30 Jahren)
+
+* 2x über 25.000 Tote
+* 2x über 20.000 Tote
+* 2x über 15.000 Tote
+* 2x über 10.000 Tote
+
+In Summe gibt es also alle 3 bis 4 Jahre eine Grippewelle mit mehr als 10.000 Toten.
 
 .Die Alle paar Jahre auftretenden Grippewellen können in Deutschland zwischen 10-25 Tausend Tote kosten. Nicht im Scope dieser Darstellung ist die Saison 2018/19 mit ca. 25.000 Toten. Es handelt sich um Schätzzahlen des RKI, die durch Testungen bestätigten Fallzahlen bilden nur einen Bruchteil ab.
 [#grippetoteprojahr,reftext='{figure-caption} {counter:refnum}']
 image::./images/grippe-tote-pro-jahr-historie.png[width=80%,align="center"]
 
-Nach sogut wie 2 Jahren Corona nennt Google ca. 100.000 Corona-Tote in Deutschland - das sind also 50.000 pro Jahr.
+Es stellt sich nun also die Frage, ob die mehr als 20% der 50.000 Corona-Toten, die derzeit pro Jahr gemessen werden an COVID gestorben sind.
 
-*An oder Mit Corona gestorben?*
+Ich betrachte die Altersverteilung der Todesfälle (die wie wir in <<_argument_der_vergleich_der_altersstruktur_der_corona_toten_mit_der_struktur_aller_todesfälle_in_2019_lässt_legt_nahe_dass_die_toten_in_der_mehrzahl_mit_und_nicht_an_coronoa_gestorben_sind>> gesehen haben) als eine Art Fingerabdruck der Krankheit. Die Indizienkette schließt sich durch das Fehlen einer Übersterblichkeit in 2020. Daher gehe ich davon aus, dass Covid nicht schlimmer ist, als eine übliche Grippewelle.
 
-Leider wurde bei der Zählung der Corona-Toten nie ein Unterschied zwischen Patienten gemacht, die AN Corona gestorben sind und Patienten, die MIT Corona gestorben sind.
-Diese 2020 viel diskutierte Auslassung wurde damit begründet, dass die Abgrenzung im Einzelfall nicht möglich sei. Erstaunlicherweise wird 2021 jedoch bei geimpften Patienten, die Covid-Positiv versterben sehr wohl unterschieden - da ist die Abgrenzung dann plötzlich doch möglich und als Impfdurchbruch wird der Sterbefall nur dann gewertet, wenn eine Erkrankung mit einschlägiger Symptomatik zum Tod führte.
-
-Ich bin auch bei Betrachtung der Übersterblichkeit und des Sterbealters (s.o.) überzeugt, dass ein Großteil der Opfer auch ohne Corona nicht mehr leben würde.
-Es ist sicher 2020 kein Patient in eine Intensivstation aufgenommen worden, ohne auf Corona getestet zu werden und aus statistischen Gründen ist natürlich anzunehmen, dass auch Opfer des "normalen" Sterbegeschehens mit der in der in der Bevölkerung üblichen Rate infiziert und ggf. auch symptomlos sind.
-Es ist unstrittig, dass diese Patienten bei Tod als Corona-Tote gezählt wurden.
-Umgekehrt sehe ich hingegen keine Möglichkeit einer Dunkelziffer, da 2020 sicher kein Patient ohne Corona-Test in ein Krankenhaus kam.
-Leider kann ich diese mir logisch erscheinenden Schlüsse nicht belegen.
-
-Die Wissenschaft beziffert das Verhältnis zwischen https://www.welt.de/wissenschaft/article214363586/Covid-19-Tote-in-Deutschland-86-sterben-nicht-mit-sondern-an-Corona.html[85%] und https://www.welt.de/politik/deutschland/plus233426581/Seit-Juli-2021-Corona-bei-80-Prozent-der-offiziellen-Covid-Toten-wohl-nicht-Todesursache.html[20%], so dass hier festzuhalten bleibt, dass eine große Unsicherheit bezüglich der Zahl der AN Corona verstorbenen Patienten herrscht. nimmt man an, dass 50% und damit 25.000 Tote pro Jahr echte Corona-Tote waren, so entspricht Corona eben einer starken Grippewelle.
-In meinen Augen ist die 50%-Einschätzung bereits eine Worst-Case-Annahme. footnote:opferzahlenhinweis[Ich möchte ausdrücklich betonen, dass ich die Zahl von 50.000 Toten pro Jahr nur im Rahmen dieser Argeumentation verwende - in Wirklichkeit bin ich überzeugt, dass die Zahlen viel, viel geringer sind - ich kann das nur nicht beweisen.]
-
-Wenn wirklich jemand der Ansicht ist, bei mehr als 50% der Corona-Fälle sei dies auch die Todesursache, dann möge er mir erklären, warum in der Übersterblichkeit (s.o.) keine Erhöhung sichtbar ist.
-Nur um einem vorzugreifen: Eine Reduktion tödlicher Verkehrsunfälle durch den Lockdown 2020 ist unplausibel.
-Wir hatten 2020 ca. 300 Verkehrstote weniger als 2019 - das sind nicht ansatzweise die Größenordnungen, die die behaupteten Corona-Toten in der Übersterblichkeit kompensieren könnten.
+*Kritik der Mainstream Medien*
 
 Indirekt bestätigt wird diese Rechnung von Mainstream-Medien, die diese Rechnung relativeren, z.B. https://www.aerzteblatt.de/blog/112935/Sterben-mehr-Menschen-an-COVID-19-als-an-der-saisonalen-Grippe[hier].
 Dabei wird auf den Umstand hingewiesen, dass wir hier Schätzungen (Grippe) mit Testdaten (Corona) vergleichen.
-Bei der Grippe betragen die Schätzzahlen in der Tat das Vielfache der Testzahlen - diese Argumentation ist jedoch wenig stichhaltig, weil in 2021/22 eine praktisch 100%ige Corona-Testabdeckung angenommen werden kann.
+Bei der Grippe betragen die Schätzzahlen in der Tat das Vielfache der Testzahlen - diese Argumentation ist jedoch wenig stichhaltig, weil in 2021/22 eine praktisch 100%ige Corona-Testabdeckung bei Personen angenommen werden kann, die im Krankenhaus verstarben.
 
-==== Mortalität
+==== Argument: Mortalität
 
 Eine weitere Messgröße ist die Mortalität, also der Prozentsatz der Infizierten, der schließlich an der Kranheit verstirbt.
 Um Ostern 2020 wurde die COVID-19 Case-Cluster-Study (aka Heinsberg-Studie) präsentiert, die von Forschern rund um Professor Hendrik Streeck von der Universität Bonn durchgeführt wurde.
@@ -227,7 +234,7 @@ Diese Vereinnahmung eines Teils der Wissenschaft für das eigene Narrativ bei gl
 
 Zurück zur Frage der Mortalität: Die Mortalität der Grippe (0,37%) liegt im Spektrum der Studienergebnisse für die Mortalität für Corona. Auffällig ist die uneinheitliche Studienlage und das in der Öffentlichkeit verzerrte Bild, bei dem nur die dramatischsten Ergebnisse Eingang in den Diskurs finden.
 
-==== Behandlungsmethoden und Prävention
+==== Argument: Behandlungsmethoden und Prävention
 
 Die Mortalität einer Krankheit ist ja keine Naturkonstante, sondern hängt davon ab, wie man behandelt. Bei einer neuen Krankheit würde ich daher erwarten, dass die Mortalität gerade zu Beginn durch schnell sinkt.
 
@@ -261,7 +268,7 @@ Wie plausibel ist das? Da ist man schier am Verzweifeln über die ganzen Toten, 
 
 Eine immer wieder auftretende Stilblüte lässt sich an dieser Episode auch illustrieren: Das Muster "Es gibt keine Beweise" ( https://www.medizin-transparent.at/ivermectin-corona/[Ivermectin gegen Corona: möglicherweise wirkungslos], https://www.cochrane.de/de/news/ivermectin-keine-evidenz-f%C3%BCr-wirksamkeit-gegen-covid-19[Ivermectin: Keine Evidenz für Wirksamkeit gegen COVID-19]) Dabei werden häufig gerade von denjenigen, die das offizielle Narrativ hinterfragen immer Beweise gefordert, oft von den Leuten, die Transparenz entgegenarbeiten.
 
-==== Aber die regionalen Hot-Spots zeigen doch die Gefährlichkeit
+==== Argument: Aber die regionalen Hot-Spots zeigen doch die Gefährlichkeit
 
 Ein wesentlicher Treiber für die Panik in 2020 war die Situation in einigen regionalen Hotspots (Wuhan, Lombadei, New York, Wisconsin). Hier stellt sich natürlich die Frage, warum ich dennoch zu meiner "entwarnenden" Bewertung gelange. Hierzu als erstes eineige generelle Überlegungen:
 
@@ -285,7 +292,7 @@ Ein wesentlicher Treiber für die Panik in 2020 war die Situation in einigen reg
 
 **In Summe bleibt hier festzustellen, dass ein geziehltes Cherry-Picking von Hot-Spots kein realistisches Bild zeichnet.**
 
-==== Aber Long Covid zeigt doch, wie gefährlich die Krankheit ist.
+==== Argument: Aber Long Covid zeigt doch, wie gefährlich die Krankheit ist.
 
 Die erste Erwähnung von Long Covid derer ich mir bewust war, war im Mai 2020 zu einer Zeit, als allgemein beklagt wurde, junge Leute nähmen Corona nicht ernst genug. Da passte Long Covid gut als "Angstmacher" und seither wird es immer wieder für alarmierende Meldungen genutzt: https://www.pharmazeutische-zeitung.de/jeder-dritte-covid-patient-hat-langzeitschaeden-an-nerven-oder-psyche-124852/seite/2/[Neurologische Langzeitschäden bei jedem 3. COVID-Patient - Im letzten Satz dann "Ob die (...) Folgen noch länger als sechs Monate anhalten, muss noch untersucht werden."] Das wird auch als Begründung für die Impfung von Kindern genutzt. Obwohl selbst das https://www.rki.de/SharedDocs/FAQ/COVID-Impfen/FAQ_Liste_Impfung_Kinder_Jugendliche.html[RKI sagt "Unsicher bleibt, ob und wie häufig Long-COVID nach SARS-CoV-2-Infektion bei Kindern und Jugendlichen auftritt" und "Die Häufigkeit von Long-COVID kann derzeit bei Kindern noch nicht verlässlich erfasst werden" (Stand 30.11.)], wird Long Covid immer wieder als Argument für diese Maßnahme herangezogen. Immer wieder wird behauptet, https://www.zusammengegencorona.de/informieren/koerperliche-gesundheit/long-covid-langzeitfolgen-einer-covid-19-erkrankung/[Long-COVID kann auch Patientinnen und Patienten mit leichten Verläufen betreffen].
 
@@ -299,7 +306,7 @@ Es sei auch darauf verwiesen, dass in Zweifel gezogen wird, https://www.rnd.de/g
 
 *Mir ist das Thema zu schwamig und mit zu vielen Unsicherheiten belegt, um hieraus eine Begründung abzuleiten, mich impfen zu lassen. Bei dieser Beurteilung spielt auch eine Rolle, dass mein Vertrauen in z.B. das RKI angesichts anderer Prognosen, die sich nicht halten liessen, nicht sehr ausgeprägt ist.*
 
-=== Die COVID-Impfstoffe haben eine begrenzte Wirksamkeit
+=== Hypothese: Die COVID-Impfstoffe haben nur eine sehr begrenzte Wirksamkeit
 
 Mein Haupt-Problem mit dem Impfstoff ist **nicht** seine begrenzte Wirksamkeit, sondern seine Gefährlichkeit. Dennoch ist dieser Punkt natürlich wichtig.
 
@@ -307,7 +314,7 @@ Die Frage nach der Wirksamkeit der Impfstoffe ist die Geschichte eines Rückzugg
 
 Hat man ein halbes Jahr später bessere Informationen als damals? Wieso wurde dann so oft behauptet, die Imfpung sei trotz der schnellen Entwicklung gut erforscht, wenn man ein halbes Jahr nach Beginn der breiten Impfkampagne noch so im Dunkeln tappte? Wieso wussten viele "Querdenker" schon früh, was der Mainstream erst unter dem Druck der Fakten zugeben musste. Und: *Wenn die Hersteller so daneben lagen, was die Wirksamkeit angeht, wieso sollte ich ihnen in der ungleich wichtigern Frage nach den Nebenwirkungen vertrauen?*
 
-==== Schützt die Impfung den Impfling vor schwerer Erkrankung bzw. Tod?
+==== Argument: Schützt die Impfung den Impfling vor schwerer Erkrankung bzw. Tod?
 
 Weil Israel früher als Deutschland eine hohe Impfquote erreicht hat, aber auch früher in die Delta-Variante gelaufen ist, die dort Ende August / Anfang September ihren Höchststand erreicht hat, bot das Land einen interessanten Blick in die Zukunft.
 
@@ -365,7 +372,7 @@ Als Nachtrag "geistern" noch weitere Aussagen durch Social Media:
 
 Natürlich springen correctiv und co. der Obrigkeit zur Seite (https://www.tagesschau.de/faktenfinder/ungeimpfte-covid-patienten-101.html[ARD], https://correctiv.org/faktencheck/2021/11/03/nein-geimpfte-zaehlen-nicht-als-ungeimpfte-sobald-sie-symptome-entwickeln/[Correctiv]) und kanzeln das als "unbewiesen" ab. Es bleibt feszuhalten, dass hier Aussage gegen Aussage steht. Entweder die https://uncutnews.ch/studie-in-the-lancet-die-mehrheit-der-derzeit-infizierten-und-toten-in-deutschland-dem-vereinigten-koenigreich-israel-und-den-usa-ist-vollstaendig-geimpft/[Mehrheit der Infizierten ist Geimpft] oder 90% der Patienten sind ungeimpft, wie Politiker und Medien nicht müde werden, zu behaupten.
 
-==== Kann der Geimpfte andere anstecken?
+==== Argument: Kann der Geimpfte andere anstecken?
 
 * Mittlerweile ist diese Frage auch durch das https://www.rki.de/SharedDocs/FAQ/COVID-Impfen/FAQ_Transmission.html[RKI bejaht]: "Es muss (...) davon ausgegangen werden, dass Menschen nach Kontakt mit SARS-CoV-2 trotz Impfung PCR-positiv werden und dabei auch Viren ausscheiden und infektiös sind." Allerdings sieht das RKI die Wahrscheinlichkeit hierfür "deutlich vermindert". Alle Aussagen beziehen sich ausdrücklich auf die Delta-Variante, nicht auf die Ende November aufgetretende Omnicron-Variante (Stand 2.12.). "Deutlich vermindert" kann dabei natürlich alles heißen - die Schwamigkeit der Formulierungen ("es muss davon ausgegangen werden") spricht Bände. Hier könnte Correctiv mal hinterherforschen, ob die Aussagen des RKI belegt sind, wo sie doch der Gegenöffentlichkeit so gerne einen Strick daraus drehen, keine Wasserdichten Beweise für Ihre Aussgen vorbringen zu können.
 
@@ -399,9 +406,9 @@ Politiker und Experten haben die Bevölkerung mit den optimistischen Behauptunge
 
 Nachtrag vom 13.12.: Mittlerweile wiederholt sich das Spiel mit der Omikron-Variante. Zunächst hat man 2G+ eingeführt, weil ja Geimpfte das Virus auch weitergeben. Die Inzidenz ist nun seit 2 Wochen  am Fallen und nun kommen immer mehr Orte auf die Idee, Geboosterte von der Testpflicht zu befreien. *Nocheinmal: Das ist nicht fahrlässig, sondern mutwillig, man will die Inzidenzen wieder oben haben, denn die Politik möchte den Ausnahmezustand perpetuieren*
 
-=== Die Impfstoffe sind gefährlicher als jeder andere Impfstoff, den wir kennen
+=== Hypothese: Die Impfstoffe sind gefährlicher als jeder andere Impfstoff, den wir kennen
 
-==== Der politische Rahmen ist eine Steilvorlage für ein Desasater
+==== Argument: Der politische Rahmen ist eine Steilvorlage für ein Desasater
 
 **Richtige Angst bekomme ich, wenn Experten von 100%iger Sicherheit sprechen**
 
@@ -457,7 +464,7 @@ Nun bedroht diesen Arzt niemand mit einem Gesetz, dass seine Bremsbeläge nur no
 
 Wir sind betroffen, daher dürfen wir auch mitreden und wenn wir zu dumm sind, etwas zu verstehen, dann haben wir einen Anspruch darauf, es erklärt zu bekommen. Und Experten haben in der Vergangenheit schon so manchen Blödsinn verzapft. Wieviele Studien gab es eigentlich zwischen 1950 und 1980, die die gesundheitlichen Vorzüge des Rauchens lobten?
 
-==== Anstatt Hinweisen auf Nebenwirkungen nachzugehen und Transparenz einzufordern, stellen sich die Massen-Medien schützend vor das Narrativ der Pharmaindustrie
+==== Argument: Anstatt Hinweisen auf Nebenwirkungen nachzugehen und Transparenz einzufordern, stellen sich die Massen-Medien schützend vor das Narrativ der Pharmaindustrie
 
 *Der Fall Tiffany Dover*
 
@@ -510,8 +517,7 @@ Ich habe aber gelernt, dass es sich um eine leichte Erkrankung handelt: https://
 
 Mir fällt auf, dass dieselben Medien, die 2020 die Corona-Welle in den düstersten Farben schilderten und sich jede Relativierung verbaten ("Es sterben Menschen") nun das Bild von Nebenwirkungen in den sanftesten Pastell-Tönen zeichnen. Den Impfungen wird das maximale Vertrauen entgegenbringen. Den Aussagen von Pharmaindustrie und Politik wird bis zum Beweis des Gegenteils (und darüber hinaus) geglaubt, Querdenkern und Schwurlbern wird mit maximaler Skepsis begegnet und alles wass sie nicht hart beweisen können gilt als falsch. Zur Krönung werden einer wirklichen Aufklärung dann noch Steine in den Weg gelegt - man denke z.B. an die Moralische Verurteilung der Recherchen im Fall "Tiffany Dover"
 
-
-=== Dr Sucharit Bhakdi und die Patologen
+==== Argument: Dr Sucharit Bhakdi und die Patologen
 
 Die Wirkung der Impfstoffe wurde schon früh in einem Video von https://www.youtube.com/watch?v=4KD_3igxz0k[Sucharit Bhakdi erklärt]. Ich meine, das Video ist älter als es hier scheint, denn es wurde zunächst von Youtube gelöscht und auf juristischen Druck wieder zugelassen. Herr Bhakdi schildert hier einen Mechanismus, der zur Zellschädigung führen kann. Er prognostizierte bestimmte Schäden bei Geimpften.
 
@@ -522,47 +528,8 @@ Mich haben die beiden Videos (die natürlcih alle im Mainstream als unseriös da
 Ebenfalls sehr beeindruckt hat mich dieses
 https://odysee.com/@ReelNews:8/Spike-protein-is-very-dangerous-it's-cytotoxic-Robert-Malone-Steve-Kirsch-Bret-Weinstein:4[Gespräch über die Wirkung der Spike Proteine] Der Gastgeber https://odysee.com/@BretWeinstein:f[Bret Weinstein] hat auch einen sehr interessanten Podcast auf https://odysee.com/[Odysee]
 
-=== Die Herstellerunternehmen sind nicht vertrauenswürdig
 
-==== Johnson & Johnson
-
-US-Pharmakonzern Johnson und Johnson (J&J) treibt derzeit einen 26 Milliarden Dollar Vergleich voran, mit dem die Opiat-Klagen abgewendet werden sollen. In den USA sind ca. 500.000 Amerikaner umgekommen - https://www.spiegel.de/wirtschaft/unternehmen/us-pharmafirmen-treiben-26-milliarden-dollar-vergleich-voran-a-156a2716-c4a2-4f37-87fd-55ced7456d96[J&J wird beschuldigt, die Vorteile von Opioiden überbewertet und die Risiken heruntergespielt zu haben.]
-
-==== Pfizer
-
-Viele der Angaben zu den Impfstoffen basieren auf Aussagen der Pharmaunternehmen die Milliardengewinne mit den Impfstoffen machen. Beispielsweise basieren die Zulassungen auf solchen, nicht auf Studien unabhängiger Dritter. Als Beispiel zeige ich im Bild, die Gesetzes-Verstöße von Pfizer jeweils mit den Strafen.
-
-Wir sehen, dass Pfizer in den vergangenen 20 Jahren 4,6 Milliarden Dollar Strafe zahlen musste. darunter:
-
-* Werbung für nicht zugelassene Produkte (2009), 2,3 Milliarden Dollar
-* Falsche Angaben (2016), 784,6 Millionen Dollar
-* Bestechung (2009) 331 Millionen Dollar
-* Sicherheitsverstöße (2012) 55 Millionen Dollar
-* Falsche Angaben (2019) 55 Millionen Dollar
-* Bestechung (2012) 26 Millionen Dollar
-* Falsche Angaben (2018), 23 Millionen Dollar
-* Falsche Angaben (2002), 21 Millionen Dollar
-* Falsche Angaben (2013), 18 Millionen Dollar
-
-und so weiter und so weiter (Link in der Bildunterschrift)
-
-*Die Hersteller sind bei diesem Milliardengeschäft nicht vertrauenswürdig, zu groß ist der potentielle Gewinn.*
-
-.https://violationtracker.goodjobsfirst.org/parent/pfizer
-[#pfizerviolationtracker,reftext='{figure-caption} {counter:refnum}']
-image::./images/pfizer-violation-track.PNG[]
-
-==== Berichte auf Social Media footnote:socialmdeia[Social Media schließt Messaging (Telegram) und Videoportale (z.B. Youtube, Rumble, Odyssee)]
-
-Generell stellt sich die Frage nach der Bewertung solcher Berichte, insbesondere wenn sie  anonym und ohne Quellen daherkommen.
-
-Wenn Menschen ihr Gesicht in die Kamera halten, oder durch das Setting klar ist, dass sich die Szene nicht eben mal nachstellen lässt (z.B. ein Impfzentrum in vollem Betrieb) dann stärkt das die Glaubwürdigkeit der Berichte. Gestärkt wird das nochmal, wenn Menschen Ihren Namen nennen.
-
-Vielfach bin ich eingesprochenen Tonbeiträgen begegenet, in denen z.B. Ärzte anonym aus ihrer Praxis berichten. Hier bewerte ich den Inhalt und die Form. Wird in ruhigem, sachlichem Ton berichtet, sind die geschilderten Sachverhalte für mich plausibel...
-
-Besonders glaubwürdig sind natürlich Berichte von Symptomen, die später als Nebenwirkung anerkannt werden oder von Prognosen, die später eintreten.
-
-Natürlich ist es angemessen, diesen Berichten mit gesundem Misstrauen zu begegnen und natürlich hat sich in mir mittlerweile eine Meinung verfestigt, die mich anfällig macht, hier zu vertrauensselig zu sein. Verfehlt halte ich es aber genauso, diese Berichte insgesamt zu verwerfen während man dem Narrativ von Leuten folgt, die in der Vergangenheit die Unwahrheit gesagt haben, nur weil sie in einer Takshow sitzen, oder von den Medien hoffiert werden.footnote:aufrichtigkeit[Zum Beispiel Herr Lauterbach hat schon vielfach Behauptungen aufgestellt, die sich später als unhaltbar erwiesen haben, dennoch war er Talkshow-Dauergast und wurde von den Medien zum Gesundheitsminister gemacht https://www.fr.de/panorama/karl-lauterbach-spd-corona-mutante-b1617-variante-indien-mutation-impfung-berlin-90466962.html[Es komme eine Covid-Katastrophe auf uns zu (April 2021)]  https://www.berliner-zeitung.de/news/mehr-junge-corona-intensivpatienten-fdp-politikerin-spricht-von-falschen-fakten-li.157998[Corona-Intensivpatienten werden immer jünger (Mai 2021)], https://www.rnd.de/politik/corona-infektionen-in-uk-steigen-lauterbach-kritisiert-johnson-fuer-oeffnungsplaene-M3QC636RGDMLBXKSAR72CKQTME.html[Warnung vor einer Welle nach der sommerlichen Liberalisierung der Regeln in UK] - weitere Beispiele wären die fragwürdigen und unbelegten Behauptungen z.B. vono Herrn Söder bzgl. der Impfquote von Intensivpatienten, die Liste ließe sich fortführen.]\
+==== Argument: dddd
 
 ====== Guillain-Barré Syndrom
 
@@ -600,7 +567,7 @@ Anlässlich einiger Schwangerschaften in meinem Umfeld habe ich im Sommer recher
 
 Erneut haben wir so ein Thema, in dem Aussage gegen Aussage steht. Ich kann weder die Aussagen der einen, noch der anderen Seite überprüfen. Es bleibt Abzuwarten, wie die Situation sich auf mittlere Sicht entwickelt.
 
-==== Aber der Impfstoff ist durch die Massenwanwendung millardenfach getestet
+==== Argument: Aber der Impfstoff ist durch die Massenwanwendung millardenfach getestet
 
 Olaf Scholz hat ja etwas augenzwinkernd von den Geimpften als "Versuchskaninchen" gesprochen, deren derzeitiges Wohlergehen doch die Ungeimpften überzeugen sollten, ihnen zu folgen. Ähnlich argumentiert maiLab in ihrem https://www.youtube.com/watch?v=KEggd1S9_9Y[Impfpflicht OK] Video.
 
@@ -614,13 +581,20 @@ Hierzu das folgende:
 
 * Die Zahl "94{nbsp}% der Corona-Patienten auf der Intensiv-Station sind ungeimpft" ist ein Beispiel dafür, dass auf die falschen Dinge geschaut wird. Diese Zahl würde nicht ausschließen, dass die dreifache Menge an Patienten mit einem Herzinfakt nebenan liegt (aber nicht mit Corona). Ich möchte über *alle* Hospitalisierten, Intensivpatienten und Gestorbenen wissen wer geimpft war und wer nicht.
 
-==== Notfallzulassung und Betrügereien bei den Studien
+==== Argument: Notfallzulassung und Betrügereien bei den Studien
 
 Es spielt in der Diskussion kaum noch eine Rolle, dass die Impfstoffe unter einer Notfallzulassung verwendet werden. Dies müsste bedeuten, dass die Imfpung nur an Risikogruppen abgegeben wird, denn z.B. bei Kindern oder gesunden jungen Erwachsenen besteht kein Notfall.
 
 Im Spätsommer wurden Betrügereien bei einer der Zulassungsstudien bekannt. Die Mainstream-Medien sind sofort zur Rettung geeilt. https://www.tagesschau.de/faktenfinder/pfizer-impfung-test-usa-101.html[Die ARD-Tagesschau zitiert einen Fachmann (Peter Kremsner, Direktor des Instituts für Tropenmedizin an der Universität Tübingen), der die Enthüllungen zwar "unschön" findet, aber voller Verständnis für Big-Pharma ist: "falls Fehler gemacht worden seien, könne der große Erfolgs- und Zeitdruck in der Pandemie eine Rolle gespielt haben." Solche in Verständnis wünscht man sich doch.]
 
-=== Die Risiko-Abwägung fällt für junge und mittlere Jahrgänge klar gegen den Impfstoff aus.
+//==== Argument: Die Verschwörungstheoretiker machen mir Angst
+//
+//Es gibt Analysen aus zweifelhafter Quelle, die recht phantastisch klingende Ergebnisse behaupten. Man würde mir natürlich raten,
+//
+//* Verunreinigungen der Impfstoffe durch https://odysee.com/@eingeSCHENKt:0/blutbild-der-geimpften:3[Wurmeier], Metallpartikel 
+//* Demonstration, dass die Impfstoffe Blut verklumpung
+
+=== Schlussfolgerung: Die Risiko-Abwägung fällt für junge und mittlere Jahrgänge klar gegen den Impfstoff aus.
 
 Das oben erwähnte Interview mit Herrn Popp vom Klinikum Murnau berichtet von einem 25%igen Anstieg der kardiologischen Notfälle. Ich bin Ende 40, in dieser Altersdekade sterben jährlich knapp 800 Männer an einem Herzinfakt. Wenn man annimmt, dass diese Zahl proportional zu den Notfällen steigt, hätten wir also 200 Tote durch Herzinfakte, die mutmaßlich durch die Impfung induziert sind auf der einen Seite. In 2 Jahren hatten wir 600 Corona-Patienten, pro Jahr also 300. Wenn wir mit einer Wirksamkeit der Impfung von 2/3 rechnen, würde man erwarten, dass diese Zahl sich um ca. 200 Fälle reduziert.
 
@@ -699,12 +673,73 @@ Man beobachtet an diesen Punkten, dass die Imfpung nicht als Mittel zum Zweck (G
 
 Nach dieser Analyse verwundert auch der Eindruck nicht mehr, den viele Impf-Verweigerer teilen, nämlich die seltsame Argumentlosigkeit, mit der man konfrontiert ist. Man würde ja denken, die Leute würden versuchen, einen zu überzeugen, aber er Debatte wird meiner Erfahrung nach aus dem Weg gegangen. Es bleibt bei der moralischen Verurteilung, ggf. mit dem pseudo-liberalen Bekenntnis verbunden, es könne ja jeder seine eigene Meinung dazu haben. (Wissend, dass die andere Meinung kurz davor steht, gesetzlich verboten zu werden - Stichwort: Impfpflicht - empfinde ich solche Kommentare als zynisches Achselzucken.)
 
-=== Erkenntnisse die zum Narrativ passen
+=== Die Herstellerunternehmen sind nicht vertrauenswürdig
 
-==== Booster-Kampagne
+==== Argument: Johnson & Johnson
+
+US-Pharmakonzern Johnson und Johnson (J&J) treibt derzeit einen 26 Milliarden Dollar Vergleich voran, mit dem die Opiat-Klagen abgewendet werden sollen. In den USA sind ca. 500.000 Amerikaner umgekommen - https://www.spiegel.de/wirtschaft/unternehmen/us-pharmafirmen-treiben-26-milliarden-dollar-vergleich-voran-a-156a2716-c4a2-4f37-87fd-55ced7456d96[J&J wird beschuldigt, die Vorteile von Opioiden überbewertet und die Risiken heruntergespielt zu haben.]
+
+==== Argument: Pfizer
+
+Viele der Angaben zu den Impfstoffen basieren auf Aussagen der Pharmaunternehmen die Milliardengewinne mit den Impfstoffen machen. Beispielsweise basieren die Zulassungen auf solchen, nicht auf Studien unabhängiger Dritter. Als Beispiel zeige ich im Bild, die Gesetzes-Verstöße von Pfizer jeweils mit den Strafen.
+
+Wir sehen, dass Pfizer in den vergangenen 20 Jahren 4,6 Milliarden Dollar Strafe zahlen musste. darunter:
+
+* Werbung für nicht zugelassene Produkte (2009), 2,3 Milliarden Dollar
+* Falsche Angaben (2016), 784,6 Millionen Dollar
+* Bestechung (2009) 331 Millionen Dollar
+* Sicherheitsverstöße (2012) 55 Millionen Dollar
+* Falsche Angaben (2019) 55 Millionen Dollar
+* Bestechung (2012) 26 Millionen Dollar
+* Falsche Angaben (2018), 23 Millionen Dollar
+* Falsche Angaben (2002), 21 Millionen Dollar
+* Falsche Angaben (2013), 18 Millionen Dollar
+
+und so weiter und so weiter (Link in der Bildunterschrift)
+
+*Die Hersteller sind bei diesem Milliardengeschäft nicht vertrauenswürdig, zu groß ist der potentielle Gewinn.*
+
+.https://violationtracker.goodjobsfirst.org/parent/pfizer
+[#pfizerviolationtracker,reftext='{figure-caption} {counter:refnum}']
+image::./images/pfizer-violation-track.PNG[]
+
+==== Argument: Berichte auf Social Media footnote:socialmdeia[Social Media schließt Messaging (Telegram) und Videoportale (z.B. Youtube, Rumble, Odyssee)]
+
+Generell stellt sich die Frage nach der Bewertung solcher Berichte, insbesondere wenn sie  anonym und ohne Quellen daherkommen.
+
+Wenn Menschen ihr Gesicht in die Kamera halten, oder durch das Setting klar ist, dass sich die Szene nicht eben mal nachstellen lässt (z.B. ein Impfzentrum in vollem Betrieb) dann stärkt das die Glaubwürdigkeit der Berichte. Gestärkt wird das nochmal, wenn Menschen Ihren Namen nennen.
+
+Vielfach bin ich eingesprochenen Tonbeiträgen begegenet, in denen z.B. Ärzte anonym aus ihrer Praxis berichten. Hier bewerte ich den Inhalt und die Form. Wird in ruhigem, sachlichem Ton berichtet, sind die geschilderten Sachverhalte für mich plausibel...
+
+Besonders glaubwürdig sind natürlich Berichte von Symptomen, die später als Nebenwirkung anerkannt werden oder von Prognosen, die später eintreten.
+
+Natürlich ist es angemessen, diesen Berichten mit gesundem Misstrauen zu begegnen und natürlich hat sich in mir mittlerweile eine Meinung verfestigt, die mich anfällig macht, hier zu vertrauensselig zu sein. Verfehlt halte ich es aber genauso, diese Berichte insgesamt zu verwerfen während man dem Narrativ von Leuten folgt, die in der Vergangenheit die Unwahrheit gesagt haben, nur weil sie in einer Takshow sitzen, oder von den Medien hoffiert werden.footnote:aufrichtigkeit[Zum Beispiel Herr Lauterbach hat schon vielfach Behauptungen aufgestellt, die sich später als unhaltbar erwiesen haben, dennoch war er Talkshow-Dauergast und wurde von den Medien zum Gesundheitsminister gemacht https://www.fr.de/panorama/karl-lauterbach-spd-corona-mutante-b1617-variante-indien-mutation-impfung-berlin-90466962.html[Es komme eine Covid-Katastrophe auf uns zu (April 2021)]  https://www.berliner-zeitung.de/news/mehr-junge-corona-intensivpatienten-fdp-politikerin-spricht-von-falschen-fakten-li.157998[Corona-Intensivpatienten werden immer jünger (Mai 2021)], https://www.rnd.de/politik/corona-infektionen-in-uk-steigen-lauterbach-kritisiert-johnson-fuer-oeffnungsplaene-M3QC636RGDMLBXKSAR72CKQTME.html[Warnung vor einer Welle nach der sommerlichen Liberalisierung der Regeln in UK] - weitere Beispiele wären die fragwürdigen und unbelegten Behauptungen z.B. vono Herrn Söder bzgl. der Impfquote von Intensivpatienten, die Liste ließe sich fortführen.]\
+
+
+=== Die  Methode Prokrustes (was nicht passt, wird passend gemacht)
+
+==== Argument: Omicron und die Booster-Kampagne
 
 Derzeit wird mächtig für die Booster-Impfung geworben. https://www.echo24.de/welt/biontech-impfstoff-impfschutz-studie-corona-israel-ansteckung-booster-geimpfte-mrna-forscher-91141559.html[Entsprechend oft wird eine Studie aus Israel genutzt, um den Leuten vor Augen zu führen, dass Ihr Impfschutz schon am Ablaufen ist]. Die gegenüber Impfunwilligen bis auf die Zähne verteidigte Wirksamkeit der Impfstoffe ist plötzlich doch nicht so hoch. https://twitter.com/karl_lauterbach/status/1451175675222712322[Nach der 3. Impfung bleibt nur ein minimales Risiko der Infektion übrig.] twittert Lauterbach im Oktober - Als frisch gebackener Gesundheitsmiinister legt er  https://www.tagesschau.de/inland/corona-omikron-booster-101.html[nach] "Die Impfung ist nur abgeschlossen, wenn man dreimal geimpft wurde" Wobei man wohl davon ausgehen kann, dass das Wort "abgeschlossen" vorläufiger Natur ist.
 
+Hier lassen sich erneut typsiche Probleme veranschaulichen:
+
+* Angesichts einer "neuen" Sachlange (Omicron) werden dem staunenden Publikum Erkenntnisse präsentiert, bei denen man sich fragt, wo sie herkommen. ,
+
+
+* *Ausgangslage:* https://www.arte.tv/de/videos/106993-000-A/omicron-ansteckender-als-delta-aber-mildere-verlaeufe/[siehe Arte] Omicron wurde  erstmals am 24.11. in Südafrika nachgewiesen, ist ansteckender als Delta hat https://www.youtube.com/watch?v=C39RFlHaGHU[aber milde Verläufe]. Der Schutz durch die Impfung ist offenbar nicht gegeben ("etwas weniger wirksam").
+
+* *Bewertung mit gesundem Menschenverstand:* Dass ein Virus in die Richtung "höhere Ansteckung" und "weniger schwerer Verlauf" mutiert entspricht Prognosen, die ich Anfang 2020 gehöhrt habe und die mit dem Evolutionsdruck argumentierten, der es für das Virus unattraktiv macht, seinen Wirt zu töten. Das der "milde Verlauf" immer mit der Einschränkung versehen wird, die Bewertung sei vorläufig ist in Ordnung - nur würde ich mir diesen Vorbehalt auch mal bei schlechten Nachrichten wünschen. Bei der Booster-Impfung erwarte ich einen positiven Effekt eher auf die Börsenkurse - Omicron hat deutlich mehr Mutationen, als Delta (vgl. <<deltaomicronmutation>>). Während die erneute Gabe des alten Impfstoffes möglicherweise einen nachlassenden Impfschutz auffrischt ist mir nicht plausibel, dass das alte Mittel jetzt plötzlich einen Impfschutz gegen einen veränderten Erreger aufbaut.
+
+* Sofort springt Lauterbach auf den Zug auf und sieht hier eine Bestätigung für die Forderung nach einer Impfpflicht. Der Aspekt, des milden Verlaufs geht dabei genauso unter, wie die beschränkte Wirksamkeit der IMpfung. Der Joker Long Covid wird wieder als https://www.politico.com/newsletters/politico-nightly/2021/12/14/mild-omicron-could-still-be-bad-495458[Angstmacher] gezogen - meinem Eindruck nach ohne hinreichende Evidenz (die Variante gibt es erst seit ein paar Wochen).
+
+.Omicron [[abcde]] ist deutlich weiter mutiert, als Delta https://www.rainews.it/tgr/tagesschau/articoli/2021/11/tag-Omikron-Italien-draengt-zu-europaweiten-Beschraenkungen-a35338f1-9daf-4e98-b8ac-da1adb693534.html[Quelle].
+[#deltaomicronmutation,reftext='{figure-caption} {counter:refnum}']
+image::images/deltaomicronmutation.png[abc,align=center, width=70%]
+
+
+
+- und die Hersteller empfehlen den Booster.
 
 === Die Träger der öffentlichen Debatte (Politik und Medien) sind einseitig
 
@@ -712,7 +747,7 @@ Sahra Wagenknecht über Lauterbach https://www.youtube.com/watch?v=hvQKE0bGq5U
 Lauterbach https://www.tichyseinblick.de/meinungen/karl-lauterbach-der-panik-verbreiter-als-gesundheitsminister/
 https://www.achgut.com/artikel/bericht_zur_coronalage_16.6.2020der_seltsame_professor
 
-==== Spenden an Medien durch Stiftungen
+==== Argument: Spenden an Medien durch Stiftungen
 Der
 https://www1.wdr.de/daserste/hartaberfair/faktencheck/faktencheck-510.html[WDR Hart aber Fair Faktencheck] kanzelt Covid-Impf-Gegnerin Svenja Flaßpöhler ab, die doch tatsächlich eine Studie erwähnt, die "herausgefunden haben *soll*, dass in den Medien einseitig über Corona berichtet werde. Bestimmte Stimmen seien häufig zu Wort gekommen, andere weniger." Auch wenn sich die Autoren der Studie selbst umgehend von dieser Ketzerin distanzierten und gleich irgendwelche anderen Professoren den Medien zur Seite springen - für mich ist es lächerlich, hier eine Ausgeglichene Berichterstattung zu sehen.
 
@@ -775,18 +810,21 @@ https://www.tichyseinblick.de/daili-es-sentials/kinderimpfung-start-trotz-sicher
 https://www.zdf.de/nachrichten/politik/corona-spiegel-kinder-impfung-stiko-100.html
 
 
-==== Astrazeneka-Aussetzung
+==== Argument: Astrazeneka-Aussetzung
 
 
 
 
 == Schlussfolgerungen
 
-Aus
+Bereits
+
+
+
 
 === Für meine Familie und mich überwiegen die Nachteile der Impfung die Vorteile
 
-Ich habe
+Die Gefährlichkeit des Virus für mittlere Jahrgänge schätze ich als gering ein. Es gab mim Pandemiejahr 2020 in Deutschland keine Übersterblichkeit <<uebersterblichkeit21>> und die Todesfallzahlen <<_todeszahlen>> in den entsprechenden Alterskohorten sind geringer als z.B. Fallzahlen zum Herzinfakt. Für ältere Jahrgänge sehe ich sehr wohl eine Gefährdung,
 
 
 
