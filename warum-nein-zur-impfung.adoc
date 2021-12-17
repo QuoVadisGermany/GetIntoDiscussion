@@ -29,7 +29,7 @@ Stattdessen geht man lieber den Weg von Zwang und Zensur - das führt ggf. kurzf
 In den letzten Jahren setzt sich die Vorstellung durch, es gebe eine objektive Wahrheit, die durch Medien und Politik unter Berufung auf (ausgewählte) Wissenschaftler vorgegeben wird.
 Wer sich dieser Wahrheit verweigert, wird zunächst mit geheucheltem Verständnis als "falsch informiert" bezeichnet, wenn er sich als renitent erweist wird er jedoch als Verschwörungstheoretiker lächerlich gemacht, ausgegrenzt und schließlich bekämpft.
 
-Eine argumentative Debatte wird mit pauschalen Argumenten verweigert (unwissenschaftlich, https://odysee.com/@BehindTheMatrix:7/Sachsens-Ministerpr%C3%A4sident-Michael-Kretschmer-fordert-sch%C3%A4rfere-Ma%C3%9Fnahmen-gegen-Hetze-im-Netz.-(Telegram-12.12.2021):2[demokratiegefährdend] oder gleich https://www.youtube.com/watch?v=kArDFWTH2wE[menschenfeindlich]), an dessen Stelle tritt die Diffamierung, moralische Abwertung, schließlich die Verbannung aus dem Diskurs durch Zensur. Staatlicherseits vorzugeben, welche Meinungsäußerung als "falsch" delegitmiert wird erinnert an das "Ministerium für Wahrheit" in George Orwells "1984" und sollte in einer Demokratie nichts verloren haben.
+Eine argumentative Debatte wird mit pauschalen Argumenten verweigert (https://www.deutschlandfunkkultur.de/buch-ueber-die-querdenker-die-einfachen-antworten-der-100.html[unwissenschaftlich], https://odysee.com/@BehindTheMatrix:7/Sachsens-Ministerpr%C3%A4sident-Michael-Kretschmer-fordert-sch%C3%A4rfere-Ma%C3%9Fnahmen-gegen-Hetze-im-Netz.-(Telegram-12.12.2021):2[demokratiegefährdend] oder gleich https://www.youtube.com/watch?v=kArDFWTH2wE[menschenfeindlich]), an dessen Stelle tritt die Diffamierung, https://www.tagesschau.de/multimedia/video/video-949037.html[moralische Abwertung], schließlich die Verbannung aus dem Diskurs durch Zensur. Staatlicherseits vorzugeben, welche Meinungsäußerung als "falsch" delegitmiert wird erinnert an das "Ministerium für Wahrheit" in George Orwells "1984" und sollte in einer Demokratie nichts verloren haben.
 
 Die Mehrheit folgt dem medialen Trommelfeuer, ist aber sichtlich nicht der Treiber für die Meinungsbildung.
 Noch im Sommer 2021 hatte die Idee einer Impfpflicht keine Mehrheit, mittlerweile hat sich das Blatt jedoch gewendet.
@@ -123,7 +123,7 @@ Medienberichte und sogenannte Fakten-Checker haben das Video als unseriös darge
 
 * Die Bundesregierung https://rumble.com/vnzfyv-regierung-zu-anstieg-der-bersterblichkeit-im-vorjahresvergleich-da-fehlen-d.html[verweigert eine Stellungnahme zu dem Thema unter Verweis auf "fehlende Vergleichsdaten"].
 
-* Einige Wochen später wird diese Einschätzung auch durch den  https://www.mdr.de/wissen/in-deutschland-keine-uebersterblichkeit-durch-covid-100.html[mdr] geteilt.
+* Einige Wochen später wird diese Einschätzung auch durch den  https://www.mdr.de/wissen/in-deutschland-keine-uebersterblichkeit-durch-covid-100.html[mdr] geteilt und auch eine https://www.uni-due.de/2021-10-21-keine-uebersterblichkeit-durch-corona[entsprechende Studie der Universität Duisburg-Essen] kommt zu diesem Ergebnis.
 
 ===== 2021 beobachten wir eine deutliche Übersterblichkeit
 
@@ -183,9 +183,13 @@ Ergebnis:
 
 *Fazit:* Gerade unter Berücksichtigung der Tatsache, dass im Jahr 2020 keine Übersterblichkeit herrschte, muss ich davon ausgehen, dass die Todesursache in den meisten Fällen NICHT Corona war. Wie wäre es sonst zu erklären, dass die Sterblichkeit dieser neuen Krankheit zufällig die Altersstruktur der normalen Sterblichkeit abbildet?
 
-.Die Alterstruktur der Covid-Fälle in den Jahren 2020 bis 2021 gegenüber dem normalen Sterbegeschehen 2019 (Quelle für beides: de.statista.com) und der Altersverteilung der https://www.radiologie-westmuensterland.de/mammographie-screening/fakten-zum-brustkrebs[Brustkrebs-Toten 2004] (Jahrgang und Erkrankungsart wurden nicht "cherry"-gepickt, ich habe sonst keine nach Alter aufgeschlüsselten Statistiken für eine Todesursache gefunden.).
+*PS:* Es wird interessant sein, die Sterbefälle 2021 nach Alter in die Graphik einzutragen. Wenn sich hier - wie ich vermute - eine Verschiebung hin zu jüngeren Jahrgängen ergibt, ist dies ein Hinweis auf eine, von der normalen Situation abweichenden Sterbeursache - mutmaßlich induziert durch die Impfung.
+
+.Die Alterstruktur der Covid-Fälle in den Jahren 2020 bis 2021 gegenüber dem normalen Sterbegeschehen 2019 (Quelle für beides: de.statista.com: https://de.statista.com/statistik/daten/studie/1013307/umfrage/sterbefaelle-in-deutschland-nach-alter/[Alle Todesfälle] und https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/[Covid-Todesfälle]) und der Altersverteilung der https://www.radiologie-westmuensterland.de/mammographie-screening/fakten-zum-brustkrebs[Brustkrebs-Toten 2004] (Jahrgang und Erkrankungsart wurden nicht "cherry"-gepickt, ich habe sonst keine nach Alter aufgeschlüsselten Statistiken für eine Todesursache gefunden.).
 [#sterbealter,reftext='{figure-caption} {counter:refnum}']
 image::./images/covid-brustrkebs-allgemein[width=80%,align="center"]
+
+*Anmerkung:* Meine Analyse hat natürlich Schwächen. So verändert sich durch die Alterung der Gesellschaft Jahr für Jahr die Altersstruktur, das könnte man herausrechnen indem man nicht die Zahl der Verstorbenen, sondern die Sterbewahrscheinlichkeit eines Jahrgangs betrachtet. Auch könnte man versuchen genauere Daten als die Aggregation nach Dekaden zu verwenden - für die Versicherungswirtschaft sollten sollche Daten eigentlich zur Verfügung stehen.
 
 ==== Argument: Die absoluten Todesfallzahlen für Corona liegen maximal footnote:opferzahlenhinweis[Ich möchte ausdrücklich betonen, dass ich die Zahl von 10.000 Toten pro Jahr nur im Rahmen dieser Argeumentation verwende und sie eine Maximal-Abschätzung darstellt - in der Tat glaube ich, dass es in 2020 kein ausergewöhnliches Sterbegeschehen gab.]
 
