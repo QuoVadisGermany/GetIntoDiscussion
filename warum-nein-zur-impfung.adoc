@@ -301,7 +301,7 @@ Wie plausibel ist das? Da ist man schier am Verzweifeln über die ganzen Toten, 
 
 Eine immer wieder auftretende Stilblüte lässt sich an dieser Episode auch illustrieren: Das Muster "Es gibt keine Beweise" ( https://www.medizin-transparent.at/ivermectin-corona/[Ivermectin gegen Corona: möglicherweise wirkungslos], https://www.cochrane.de/de/news/ivermectin-keine-evidenz-f%C3%BCr-wirksamkeit-gegen-covid-19[Ivermectin: Keine Evidenz für Wirksamkeit gegen COVID-19]) Dabei werden häufig gerade von denjenigen, die das offizielle Narrativ hinterfragen immer Beweise gefordert, oft von den Leuten, die Transparenz entgegenarbeiten.
 
-Mein Eindruck ist, dass es eher um die Impfung geht, als um die Behandlung der Erkrankung.
+*Mein Eindruck ist, dass es eher um die Impfung geht, als um die Behandlung der Erkrankung.*
 
 ==== Argument: Die regionalen Hot-Spots zeigen nicht die Gefährlichkeit
 
@@ -328,17 +328,20 @@ Ein wesentlicher Treiber für die Panik in 2020 war die Situation in einigen reg
 **In Summe bleibt hier festzustellen, dass ein geziehltes Cherry-Picking von Hot-Spots kein realistisches Bild zeichnet.**
 
 ==== Argument: "Long Covid" wird als Joker genutzt, mit dem man Patienten mit milden Krankheitsverlauf Angst vor Langzeitschäden machen kann. Ohne mehr Präzision und eine Bessere Datenlage ist diese Argumentationsstrategie abzulehnen.
-Die erste Erwähnung von Long Covid derer ich mir bewust war, war im Mai 2020 zu einer Zeit, als allgemein beklagt wurde, junge Leute nähmen Corona nicht ernst genug. Da passte Long Covid gut als "Angstmacher" und seither wird es immer wieder für alarmierende Meldungen genutzt: https://www.pharmazeutische-zeitung.de/jeder-dritte-covid-patient-hat-langzeitschaeden-an-nerven-oder-psyche-124852/seite/2/[Neurologische Langzeitschäden bei jedem 3. COVID-Patient - Im letzten Satz dann "Ob die (...) Folgen noch länger als sechs Monate anhalten, muss noch untersucht werden."] Das wird auch als Begründung für die Impfung von Kindern genutzt. Obwohl selbst das https://www.rki.de/SharedDocs/FAQ/COVID-Impfen/FAQ_Liste_Impfung_Kinder_Jugendliche.html[RKI sagt "Unsicher bleibt, ob und wie häufig Long-COVID nach SARS-CoV-2-Infektion bei Kindern und Jugendlichen auftritt" und "Die Häufigkeit von Long-COVID kann derzeit bei Kindern noch nicht verlässlich erfasst werden" (Stand 30.11.)], wird Long Covid immer wieder als Argument für diese Maßnahme herangezogen. Immer wieder wird behauptet, https://www.zusammengegencorona.de/informieren/koerperliche-gesundheit/long-covid-langzeitfolgen-einer-covid-19-erkrankung/[Long-COVID kann auch Patientinnen und Patienten mit leichten Verläufen betreffen].
 
-*Das macht Long Coivid natürlich zum Joker in der Debatte um die Abwägung von Maßnahmen, denn man kann so auch vor einer leichten Erkrankung Angst schüren.*
+Die erste Erwähnung von Long Covid derer ich mir bewust war, war im Mai 2020 zu einer Zeit, als allgemein beklagt wurde, junge Leute nähmen Corona nicht ernst genug. Da passte Long Covid gut als "Angstmacher" und seither wird es immer wieder für alarmierende Meldungen genutztfootnote:longcovidalarmierend[Die  https://www.pharmazeutische-zeitung.de/jeder-dritte-covid-patient-hat-langzeitschaeden-an-nerven-oder-psyche-124852/seite/2/["Pharamzeutische-Zeitung"] berichtet über Neurologische Langzeitschäden bei jedem 3. COVID-Patient, stellt aber im letzten Satz fest "Ob die (...) Folgen noch länger als sechs Monate anhalten, muss noch untersucht werden." / Das https://www.zusammengegencorona.de/informieren/koerperliche-gesundheit/long-covid-langzeitfolgen-einer-covid-19-erkrankung/[Bundesministerium für Gesundheit] behauptet auf einer Informationsplattform: "Long-COVID kann auch Patientinnen und Patienten mit leichten Verläufen betreffen". ] Dieser Alarmismus wird auch als Begründung für die Impfung von Kindern genutzt.footnote:longcoviddaherkinderimpfung[https://www.br.de/nachrichten/bayern/long-covid-bei-kindern-und-jugendlichen-atemlos-mit-14,SquCKB3[BR]: "Long-Covid bei Kindern und Jugendlichen: Atemlos mit 14"]. Dem stehen entwarnende Studien entgegenfootnote:longcovidkinderentwarnung[Das https://www.rki.de/SharedDocs/FAQ/COVID-Impfen/FAQ_Liste_Impfung_Kinder_Jugendliche.html[RKI] sagt: "Unsicher bleibt, ob und wie häufig Long-COVID nach SARS-CoV-2-Infektion bei Kindern und Jugendlichen auftritt" und "Die Häufigkeit von Long-COVID kann derzeit bei Kindern noch nicht verlässlich erfasst werden" (Stand 30.11.) / https://www.aerzteblatt.de/nachrichten/126121/Studie-Long-COVID-bei-Kindern-und-Jugendlichen-eher-selten[Das Ärzteblatt] zitiert eine Studie: "Long COVID bei Kindern und Jugendlichen eher selten"]
+
+*Long Coivid ist der Joker in der Debatte um die Abwägung von Maßnahmen, denn damit kann so auch vor einer leichten Erkrankung Angst schüren.*
 
 Ein Problem ist die schwammige Beschreibung der Symptomatik. Ist Long Covid ein Erschöpfungszustand, der nach der Krankheit noch einige Monate anhalten kann - wir kennen das als "Fatige" auch nach Influenza Erkrankungen. Dieser Zustand mag nicht angenehm sein, aber er ist gut therapierbar und nicht lebensbedrohlich. Andererseits gibt es wieder Berichte von drastischen Spätfolgen https://www.rnd.de/gesundheit/ulmer-forschungsprojekt-zu-long-covid-jeder-fuenfte-mit-organschaeden-DYIH7VPKL4FZP5XJUDXPOEIXZM.html[(z.B. Organschäden)] die eher nach einer langfristigen Einschränkung für die betroffenen klingen.
 
-*Es ist eine Schwierigkeit in unserer Gesellschaft, dass wir oft mit Schlagworten operieren, ohne uns der Definition gewiss zu sein. Ich wünsche mir hier mehr Präzision und wie überhaupt klarere Daten.*
+*Heutzutage wird auch in anderen Themen oft mit schwammig definierten Begriffen gearbeitet. Ich wünsche mir hier mehr Präzision und klarere Daten.*
 
 Es sei auch darauf verwiesen, dass in Zweifel gezogen wird, https://www.rnd.de/gesundheit/corona-langzeitfolgen-long-covid-aehnliche-symptome-treten-auch-nach-grippe-auf-YQPDVJU4DJDUBEE7F5GYJPUYSA.html[ob Long Covid wirklich etwas anderes ist, als die Fatigue nach einer Grippe]
 
 *Mir ist das Thema zu schwamig und mit zu vielen Unsicherheiten belegt, um hieraus eine Begründung abzuleiten, mich impfen zu lassen. Bei dieser Beurteilung spielt auch eine Rolle, dass mein Vertrauen in z.B. das RKI angesichts anderer Prognosen, die sich nicht halten liessen, nicht sehr ausgeprägt ist.*
+
+Ähnliches gilt übrigens auch für das Kinder-spezifische PIMS. Dieses Syndrom wurde gerade im Sommer, als die Impfung ab 12 freigegeben wurde gelegentlich als Argument verwendet - danach wurde es aber wieder still um das Thema. Mehr Daten und transparente Informationen sind auch hier mein Wunsch.
 
 === Hypothese: Die COVID-Impfstoffe haben nur eine sehr begrenzte Wirksamkeit
 
@@ -446,15 +449,15 @@ Nachtrag vom 13.12.: Mittlerweile wiederholt sich das Spiel mit der Omikron-Vari
 
 **Richtige Angst bekomme ich, wenn Experten von 100%iger Sicherheit sprechen**
 
-Hundertprozentige Sicherheit gibt es nicht. Nicht in der Kernkraft, nicht in der Raumfahrt. Es gibt immer ein Restrisiko - die Frage ist nur 1. wie hoch ist es und 2. kennt man es überhaupt.
+Hundertprozentige Sicherheit gibt es nicht. Nicht in der Kernkraft, nicht in der Raumfahrt. Es gibt immer ein Restrisiko - richtig gefährlich wird es, wenn dieses beharrlich geleugnet wird.
 
-Legendär ist die die Falle einer zu großen Selbssicherheit im Fall der Titanic geworden. Das Krezfahrtschiff war bekanntlich unsinkbar und eben daher ist es auf seiner Jungfernfahrt gescheitert, hat doch diese voreilige Einschätzung alle Beteiligten in falscher Sicherheit gewogen.
-
-Ein zeitlich näheres Beispiel ist die Kernkraft. Die Öffentlichkeit hat nach Tschernobyl die Zusicherung 100%iger Sicherheit nicht mehr akzeptiert und nie hätte sich die Betreiber darauf zurückziehen können, dass eine Runde aus Siemens-Ingenieuren und Kernphysikern die 100%ige Sicherheit der Technologie bestätigt - Ender der Diskussion.
+Legendär ist die die Falle einer zu großen Selbstsicherheit im Fall der Titanic geworden. Das "unsinkbare" Kreuzfahrtschiff ist eben deshalb gescheitert, weil das Gefühl der Unfehlbarkeit dazu führte, dass Risiken ausgeblendet wurden.
 
 **Der Faktor Zeit**
 
-Es wurde häufig bestritten, aber nach meiner Lebenserfahrung lassen sich Abläufe auch durch Erhöhung der verfügbaren Ressourcen nicht beliebig erhöhen. Ich bin in der Softwareentwicklung tätig und in der Tat kann man durch Erhöhung der Ressourcen die Entwicklungszeit verringern. Für die Dauer einer Impfstoffentwicklung veranschlagt die WDR-Sendung "Quarks" 8 bis 17 Jahre - Wir sehen, dass die Entwicklung des COVID-Impfstoffes mindestens 10x so schnell war. Bei diesem Faktor befürchte ich, dass die Beschleunigung auf Kosten der Qualität gehen wird.
+Es wurde häufig bestritten, aber nach meiner Lebenserfahrung lassen sich Abläufe auch durch Erhöhung der verfügbaren Ressourcen nicht beliebig erhöhen. Ich bin in der Softwareentwicklung tätig und in der Tat kann man durch Erhöhung der Ressourcen die Entwicklungszeit verringern, aber wenn die Zeit zu knapp wird, steigt unweigerlich das Risiko von Fehlern. Wieso sollte das bei der Impfstoffentwicklung nicht gelten?
+
+Für die Dauer einer Impfstoffentwicklung veranschlagt die WDR-Sendung "Quarks" 8 bis 17 Jahre - Wir sehen, dass die Entwicklung des COVID-Impfstoffes mindestens 10x so schnell war.
 
 Wie kommt es, dass die Impfstoffhersteller ihre Einschätzung zur Wirksamkeit so sehr revidieren mussten, aber in Bezug auf die Impfsicherheit nicht in Frage gestellt werden?
 
@@ -464,9 +467,9 @@ image::images/phasen-der-impfstoffentwicklung.png[width=59%, align="center"]
 
 **Der Faktor Alternativlsoigkeit**
 
-Schon früh (nämlich noch im ersten Lockdown 2020) hat sich die Politik festgelegt, dass nur die Impfung, die Cornona-Krise beenden könne. Alternative Ansätze wurden nie ernsthaft in Erwägung gezogen. Das hat einen enormen politischen Druck aufgebaut. Es ist offenkundig, dass dies das Risiko erhöht: Man stelle sich vor, ein Sachbearbeiter in irgendeiner Gesundheitsbehörde prüft die Zulassung uns stellt fest, dass ein Testergebnis unbefriedigend ist. Ordnet er weitere Tests an? Damit ist er derjenige, der die Rückkehr zur Normalität verhindert und sich rechtfertigen muss, wenn die Bedenken sich als unbegründet herausstellen. Dann prüft man lieber weniger gewissenhaft und winkt das Ergebnis durch - wenn das schief geht, ist man ein Rädchen im großen Getriebe, das sich in die Richtung gedreht hat, wie alle anderen.
+Schon früh (nämlich noch im ersten Lockdown 2020) hat sich die Politik festgelegt, dass nur die Impfung, die Cornona-Krise beenden könne. Alternativen wurden nie ernsthaft in Erwägung gezogen (vgl. <<_argument_alternativen_zur_impfung_werden_nicht_mit_der_energie_untersucht_die_man_in_einer_verzweifelten_pandeminesituation_unterstellen_würde>>). Das baut Druck auf, der das Risiko erhöht: Man stelle sich vor, ein Sachbearbeiter in irgendeiner Gesundheitsbehörde prüft die Zulassung uns stellt fest, dass ein Testergebnis unbefriedigend ist. Ordnet er weitere Tests an? Damit ist er derjenige, der die Rückkehr zur Normalität verhindert und sich rechtfertigen muss, wenn die Bedenken sich als unbegründet herausstellen. Dann prüft man lieber weniger gewissenhaft und winkt das Ergebnis durch - wenn das schief geht, ist man ein Rädchen im großen Getriebe, das sich in die Richtung gedreht hat, wie alle anderen.
 
-Ich kenne mich nicht mit Arzneimittelfreigaben aus, aber genau diesen Effekt gibt es bei der Freigabe großer Softwareprojekte -  Ein typischer Widerspruch ist, dass vom Vorstand gedeckte Großprojekte durchgewunken werden, während Kleinstvorhaben nach allen Regeln der Kunst Risikomanagement-Prozesse durchlaufen.
+Ich kenne mich nicht mit Arzneimittelfreigaben aus, aber genau diesen Effekt gibt es bei der Freigabe großer Softwareprojekte -  Eine typische Beobachtung ist, dass vom Vorstand gedeckte Großprojekte vom Risikomanagement durchgewunken werden, während Kleinstvorhaben nach allen Regeln der Kunst Kontroll-Prozesse durchlaufen müssen.
 
 **Die Gesellschaft "durchimpfen"**
 
@@ -474,29 +477,23 @@ Ich habe in den letzten Jahren unter anderem Software für ein großes Rechenzen
 
 Der Impfstoff kann der sicherste der Welt sein, es gibt immer ein Restrisiko - so klein es auch seien mag. Machen wir mal ein Gedankenexperiment, nach dem es ein Restrisiko von 1:10.000 gibt, dass 10% der Impflinge nach einigen Jahren zu Tode kommen.
 
-Persönlich könnte man sich die Impfung geben, denn eine 1:100.000 Risiko ist etwas, mit dem man persönlich ständig konfrontiert ist. Aber als Gesellschaft können wir uns das nicht leisten, denn wenn es doch eintritt, haben wir bei globalem Roll-Out Milliarden Menschen auf dem Gewissen. Hoffentlich ist das Beispiel unrealistisch, aber Gedankenexperimente funktionieren durch ihre Zuspitzug. Wenn wir die Kriterien anlegen, die wir z.B. bei Kernenergie anlegen, müssten wir einen Roll-Out auf die Gesamtbevölkerung ablehenen.
+Persönlich wäre es rational den Weg des geringsten Widerstands zu gehen. Ein Risiko von 1:100.000 geht man häufig ein, ohne darüber nachzudenken. Aber als Gesellschaft können wir uns das nicht leisten, denn wenn es doch eintritt, haben wir bei globalem Roll-Out Milliarden Menschen auf dem Gewissen. Etwas weniger anektotisch handelt es sich um ein Residualrisiko (Geringe Eintrittswahrscheinlichkeit aber katastrophale Folgen), dass es nach den Regeln des Risikomanagement eigentlich zu vermeiden gilt. In der Kernergie wurde dieses Restrisiko immer als Argument für den Ausstieg herangezogen - und es kam auch nicht darauf an, ob man es durch Sicherheitstechnik noch eine Größenordnung herunterdrückte - der potentielle Schaden war so groß, dass die Eintrittswahrscheinlichkeit gar nicht klein genug sein konnte.
 
-_Gerade die Neuartigkeit der mRNA Impfstoffe gebietet es, die Impfung auf die vulnerablen Gruppen zu beschränken und es bei Freiwilligkeit zu belassen_
+_Gerade die Neuartigkeit der mRNA Impfstoffe gebietet es, die Impfung auf die vulnerablen Gruppen zu beschränken, es aber auf jeden Fall bei Freiwilligkeit zu belassen_
 
-**Der Vatikan gestattet die Verwendung abgetriebener Föten**
+**https://religion.orf.at/stories/3203682/[Der Vatikan gestattet die Verwendung abgetriebener Föten]**
 
 Ich bin kein Gentechnik-Feind. Aber ich sehe das Heil nicht in Schwarz oder Weiss, sondern in den Graubereichen. Das bedeutet, dass ich dein Einsatz von Gentechnologie befürworte, hierbei aber ein umsichtiges und verantwortungsbewustes Vorgehen wünsche.
 
-Das bedeutet, dass ich auch Kritiker dieser Technologie schätze und ihnen eine wichtige Rolle zuschreibe - nämlich die Proponenten der Technologie zu hinterfragen und einem übergroßem Optimismus gegenüber Skepsis und Wachsamkeit in die Disukssion einbringen.
+Das bedeutet, dass auch Kritiker dieser von mir befürworteten Technologie ihre Rolle haben - nämlich die Befürworter zu hinterfragen und einem übergroßen Optimismus gegenüber Skepsis und Wachsamkeit in die Diskussion einbringen.
 
 In Deutschland ist traditionell ein großer Protest losgebrandet, sobald jemand eine genmanipulierte Rübe auf einen deutschen Acker ausbringen wollte. Stammzellenforschung ist in Deutschland https://www.stammzellen.nrw.de/informieren/ethik-und-recht/rechtslage[gesetzlich stark reglementiert].
 
 Selbstverständlich basieren die neueratigen Impfstoffe auf enbrionalen Stammzellen - die Widerlegung durch Faktenfinder (https://www.br.de/nachrichten/wissen/enthalten-corona-impfstoffe-zellen-von-abgetriebenen-foeten,SabJ7Nq[BR], https://correctiv.org/faktencheck/medizin-und-gesundheit/2019/12/13/nein-zellen-von-menschlichen-foeten-und-affen-oder-glyphosat-sind-keine-inhaltsstoffe-von-impfungen/[correctiv] "Anders als ... behauptet, sind Zellen von abgetriebenen Föten ... nicht Inhaltsstoffe von Impfungen. Es ist richtig, dass Spuren ... darin vorkommen können") Widerlegt eher dass diese Faktenfinder neutral an ihr Handwerk herangehen.
 
-Mich irritiert, mit welcher Geräuschlosigkeit diese traditionell hochtehaltenen Grundsätze gekippt wurden. Wenn die traditionellen Wahrer der einen Extrem-Position die ersten sind, die auf die Gegenseite überlaufen, ist eben nicht mehr sichergestellt, dass die getroffenen Maßnahmen unter Rechtfertigungsdruck stehen und so ein verantwortungsbewustes Vorgehen gewährleistet wird.
+Mich irritiert, mit welcher Geräuschlosigkeit diese traditionell hochtehaltenen Grundsätze gekippt wurden. Wenn die traditionellen Wahrer der einen Extrem-Position die ersten sind, die auf die Gegenseite überlaufen, ist eben nicht mehr sichergestellt, dass die getroffenen Maßnahmen unter Rechtfertigungsdruck stehen und so ein verantwortungsbewusstes Vorgehen gewährleistet wird.
 
-**Ein Wort zu Studien und Experten**
-
-Auch ich werde hier gelegentlich Studien zitieren, aber ich bin mir natürlich bewust, es gibt zu jeder wissenschaftlichen Meinung wieder die Gegenmeinung und natürlich habe ich als Nicht-Virologe keinen Überblick über die Literatur (ich würde behaupten, das haben die weigesten Ärzte). Da fällt mir ein Social Media Post ein, auf dem ein von Querdenkern genervter Arzt über Bäcker gelästert hat, die sich einbilden Lancet-Artikel lesen zu können - er hat sich hier jede Meinungsäußerung von Nicht-Eigeweihten verbeten - er rede seinem Automechaniker ja auch nicht hinein, wie sein Auto zu reparieren sei.
-
-Nun bedroht diesen Arzt niemand mit einem Gesetz, dass seine Bremsbeläge nur noch von einem neuartigen, gerade entwickelten und mit einer Notfallzulassung versehenen Typ seien dürfen und dass er übrigens bis Februar zum Bremswechsel gezwungen wird.
-
-Wir sind betroffen, daher dürfen wir auch mitreden und wenn wir zu dumm sind, etwas zu verstehen, dann haben wir einen Anspruch darauf, es erklärt zu bekommen. Und Experten haben in der Vergangenheit schon so manchen Blödsinn verzapft. Wieviele Studien gab es eigentlich zwischen 1950 und 1980, die die gesundheitlichen Vorzüge des Rauchens lobten?
+Ähnlich irritiert bin ich über die stillschweigende Wende der "Grünen" in Sachen Gentechnik.
 
 ==== Argument: Anstatt Hinweisen auf Nebenwirkungen nachzugehen und Transparenz einzufordern, stellen sich die Massen-Medien schützend vor das Narrativ der Pharmaindustrie
 
@@ -512,9 +509,9 @@ Einige Tage danach berichteten verschiedenen Youtuber ihren Tod, wobei Ihr Name 
 
 Das Krankenhaus in dem Tiffany arbeitete, hat danach ein Bild veröffentlicht, was Tiffany im Kreise ihrer Kollegen zeigte. Es handelte sich um ein Gruppenbild mit ca. 20 Personen und offenkundig auch um https://www.youtube.com/watch?v=ylhq-fnMV00[Videomaterial], die alle in medizinischer Schutzkleidung und Gesichtsmaske auftraten. Für mich sah die angebliche Tiffany der Person am Impftag nicht sehr ähnlich, aber da kann sich jeder selbst ein Bild von machen. Mit dem Bild wurde die Nachricht verbreitet, Tiffany wolle nicht mehr in der Öffentlichkeit stehen und es wurde aufgefordert, ihre Privatsphäre zu respektieren.
 
-.Das Photo stellt laut dem Krankenhaus in dem sie beschäftigt ist, die genesene Tiffany Dover im Kreis ihrer Kolleginnen dar. Dies ist für mich mindestens zweifelhaft.
+.Das linke Bild zeigt Tiffany Dover während der Impf-Aktion, das rechte zeigt sie angeblich genesen. Ich fordere jeden an, sich das verfügbare Film-Material anzuschauen und sich ein eigenes Bild zu machen.
 [#tiffanydoveramongstcolleagues,reftext='{figure-caption} {counter:refnum}']
-image::images/tiffany-dover-or-not[align=center, width=70%]
+image::images/tifdov2.jpg[align=center, width=70%]
 
 Da die kritischen Berichte nicht nachließen traten nun die Faktenchecker (https://www.politifact.com/factchecks/2021/oct/20/instagram-posts/theres-still-no-evidence-tennessee-nurse-who-faint/[politifact]) auf den Plan, die auch in Deutschland entsprechende Recherchen verurteilten.  (https://correctiv.org/faktencheck/2021/02/12/nein-eine-krankenschwester-die-im-tv-geimpft-und-ohnmaechtig-wurde-ist-nicht-gestorben/[Correctiv] verweist dabei auf Bildmaterial, das auch verlinkt ist und wirklich mehr als unschlüssig ist). Dabei werden entsprechende Nachforschungen moralisch als https://www.thedailybeast.com/anti-vaxxers-wont-stop-harassing-tiffany-dover-nurse-theyre-convinced-is-dead-after-covid-shot["Harrasment" verurteilt]
 
@@ -537,6 +534,9 @@ Häufig begegnet man der Behauptung: Spätfolgen gibt es gar nicht - Nebenwirkun
 Ich bin kein Mediziner, aber mich verwundert das sehr. Jeder kennt z.B. die langfristige Wirkung krebseregender Stoffe - auch eine nicht entdeckte Herzmuskelentzündung (eine dokumentierte Nebenwirkung der Impfungen) kann, so würde ich vermuten auch nach Jahren einen Herzinfakt nach sich ziehen, also eine "späte" Folge haben.
 
 Auf mich wirkt das nicht seriös. Wenn man Bedenken hat, möchte man das Gefühl haben, dass jemand die eigene Position versteht und ernst nimmt. Erst auf dieser Grundlage lässt man sich überzuegen, wenn aber das eigene Argument gar nicht gelten gelassen wird, kommt man sich abgefertigt vor. So geht es mir.
+
+Übrigens https://www.youtube.com/watch?v=vG4dRx3fSIQ[bezeichnet die Bundesregierung Langzeitfolgen der Impfung als "unwahrscheinlich"] -  wie beruhigend
+
 
 Wenn diese Beiträge andere Leute beruhigen freut es mich für sie. Dieser Text soll ja darstellen, warum *ich* noch nicht geimpft bin, und ich vertraue diesen Aussagen schlicht nicht. Bin ich dafür zu verurteilen?
 
@@ -676,6 +676,8 @@ Dieses Narrativ hat gleich mehrere Schwächen:
 
 * Wir haben ja schon weiter oben (bei der Diskussion der Impfstoff-Wirksamkeit) die Frage besprochen, inwiefern der Anteil der Ungeimpften an den Intensivpatienten (offiziell ca. 50{nbsp}%) künstlich hochgerechnet wurde. Aber selbst, wenn man diesen Wert für den Moment akzeptiert, muss man beachten, dass nur ein kleiner Teil der Intensivbetten durch COVID-Patienten belegt ist. Laut Bundesregierung (Im Herbst 2021 auf der BPK geäußert) lag dieser Anteil nie über 25%, aktuell liegt der Anteil eher bei 15{nbsp}% (siehe Graphik). Das bedeutet, dass maximal ca. 10{nbsp}% der Intensivbettenkapazitäten durch ungeimpfte COVID-Patienten belegt sind, vermutlich deutlich weniger (denn wir haben bei beiden Faktoren die eingehen eine Maximal-Annahme getroffen). Wie können 10{nbsp}% der Betten für die Überbelegung verantwortlich zeichnen? https://www.youtube.com/watch?v=lkST9sJL5Lc&t=550s[siehe Minute 9:50]
 
+* Interessant auch die Einlassungen eines https://www.youtube.com/watch?v=PjukhAkr8Ws[Pflegers auf der BPK] schon im April 2021
+
 .Entwicklung der Intensivbettenkapazitäten.
 [#intensivbetten,reftext='{figure-caption} {counter:refnum}']
 image::images/Intensivbetten.png[align=center, width=70%]
@@ -761,7 +763,7 @@ Hier lassen sich erneut typsiche Probleme veranschaulichen:
 
 * *Bewertung mit gesundem Menschenverstand:* Dass ein Virus in die Richtung "höhere Ansteckung" und "weniger schwerer Verlauf" mutiert entspricht Prognosen, die ich Anfang 2020 gehöhrt habe und die mit dem Evolutionsdruck argumentierten, der es für das Virus unattraktiv macht, seinen Wirt zu töten. Das der "milde Verlauf" immer mit der Einschränkung versehen wird, die Bewertung sei vorläufig ist in Ordnung - nur würde ich mir diesen Vorbehalt auch mal bei schlechten Nachrichten wünschen. Bei der Booster-Impfung erwarte ich einen positiven Effekt eher auf die Börsenkurse - Omicron hat deutlich mehr Mutationen, als Delta (vgl. <<deltaomicronmutation>>). Während die erneute Gabe des alten Impfstoffes möglicherweise einen nachlassenden Impfschutz auffrischt ist mir nicht plausibel, dass das alte Mittel jetzt plötzlich einen Impfschutz gegen einen veränderten Erreger aufbaut.
 
-* Sofort springt Lauterbach auf den Zug auf und sieht hier eine Bestätigung für die Forderung nach einer Impfpflicht. Der Aspekt, des milden Verlaufs geht dabei genauso unter, wie die beschränkte Wirksamkeit der IMpfung. Der Joker Long Covid wird wieder als https://www.politico.com/newsletters/politico-nightly/2021/12/14/mild-omicron-could-still-be-bad-495458[Angstmacher] gezogen - meinem Eindruck nach ohne hinreichende Evidenz (die Variante gibt es erst seit ein paar Wochen).
+* Sofort springt Lauterbach auf den Zug auf und sieht hier eine Bestätigung für die Forderung nach einer Impfpflicht. Der Aspekt, des milden Verlaufs geht dabei genauso unter, wie die beschränkte Wirksamkeit der Impfung. Der Joker Long Covid wird wieder als https://www.politico.com/newsletters/politico-nightly/2021/12/14/mild-omicron-could-still-be-bad-495458[Angstmacher] gezogen - meinem Eindruck nach ohne hinreichende Evidenz (die Variante gibt es erst seit ein paar Wochen).
 
 .Omicron [[abcde]] ist deutlich weiter mutiert, als Delta https://www.rainews.it/tgr/tagesschau/articoli/2021/11/tag-Omikron-Italien-draengt-zu-europaweiten-Beschraenkungen-a35338f1-9daf-4e98-b8ac-da1adb693534.html[Quelle].
 [#deltaomicronmutation,reftext='{figure-caption} {counter:refnum}']
@@ -783,29 +785,14 @@ https://www1.wdr.de/daserste/hartaberfair/faktencheck/faktencheck-510.html[WDR H
 
 
 
-
-
-
-Mit in der EU nicht zugelassene Injektionen wie Sputnik oder Sinovac, etc. geimpft = ungeimpft
-
-Genesen + 6 Monate = ungeimpft (denn auch eine weiter vorhandene natürliche Immunabwehr zählt ab dann nicht mehr).
-
 https://www.youtube.com/watch?v=qRlBuTZc6Gg
 
 
-volle intensivstationene https://www.youtube.com/watch?v=PjukhAkr8Ws[bpk panne]
+vstationene https://www.youtube.com/watch?v=PjukhAkr8Ws[bpk panne]
 
 
-https://www.youtube.com/watch?v=vG4dRx3fSIQ[BPK: Bundesregierung bezeichnet Langzeitfolgen bei der Impfung als "Unwahrscheinlich"]
 
 Verträge zwischen EU und Herstellern: Die Bundesregierung verweigert die Aussage bei Nachfrage zu den Gerüchten, dass die Haftung für Langzeitfolgen ausgeschlossen ist Video[https://rumble.com/vokp59-das-gilt-als-unwahrscheinlich-die-bundesregierung-zu-impf-langzeitfolgen.html]
-
-
-
-
-
-=== Meine tägliche Impfung gib mir heute
-
 
 === Stiko die Kinder und die Politische Beeinflussung
 
@@ -819,7 +806,7 @@ Allerdings gibt es auch bei Kindern Fälle mit schwerem oder tödlichem Verlauf 
 
 * "deutlich seltener" beschreibt einen Anteil von 17 Todesfällen in 2 Jahren in der Altersgruppe von 10 bis 19 gegenüber ca. 43.000 Todesfällen bei den 80 bis 89-jährigen. Also einen Anteil von 0.041{nbsp}% Das ist ungefähr ein Faktor 3.000. Ein solcher Faktor liegt zwischen einer Stunde Autobahnfahrt und dem Abstand von der Erde zum Mond (!)
 
- Chronologie der Impfempfehlung für Jugendliche:
+Chronologie der Impfempfehlung für Jugendliche:
 
 * Die Debatte um die Impfung von Jugendlichen kam in Fahrt, als die Hersteller im Mai die Zulassung des Impfstoffes https://www.tagesschau.de/inland/gesellschaft/impfen-kinder-101.html[für diese Altersgruppen beantragten].
 
@@ -831,36 +818,33 @@ Allerdings gibt es auch bei Kindern Fälle mit schwerem oder tödlichem Verlauf 
 
 * Inzwischen werden Forderungen laut, die https://www.infranken.de/ueberregional/bayern/kommt-impfpflicht-fuer-kinder-erstes-nachbarland-hat-sie-eingefuehrt-das-sagen-experten-art-5353266[Impfung bei Kindern ab 12 verpflichtend zu machen] Armin Nassehi vom *Bayrischen Ethikrat* findet diese Diskussion schonmal gut.
 
- Chronologie der Impfempfehlung für Kinder:
-
-
-https://www.tichyseinblick.de/daili-es-sentials/kinderimpfung-start-trotz-sicherheitsbedenken/
-
-
-https://www.zdf.de/nachrichten/politik/corona-spiegel-kinder-impfung-stiko-100.html
-
-
-==== Argument: Astrazeneka-Aussetzung
-
-
-
+Aktuell dreht sich die Schraube weiter und die https://www.tichyseinblick.de/daili-es-sentials/kinderimpfung-start-trotz-sicherheitsbedenken/[Kinder] werden  ins Visir genommen. Das die STIKO Ihre Empfehlung ausdrücklich auf vorerkrankte Kinder beschränkt hat, hält die Politik nicht davon ab, https://www.zdf.de/nachrichten/politik/corona-spiegel-kinder-impfung-stiko-100.html[die Werbetrommel zu rühren] - eine Frage der Zeit, bis der Impfzwang auch hier diskutiert wird und die Karawane in Richtung noch jüngerer Kinder weiterzieht.
 
 == Schlussfolgerungen
 
-Bereits in <<_schlussfolgerung_die_risiko_abwägung_fällt_für_junge_und_mittlere_jahrgänge_klar_gegen_den_impfstoff_aus>> habe ich klar gemacht, dass die Risiken der Impfen nach meiner Bewertung den Nutzen überwiegen: Eine Erkrankung, die überwiegend mild verläuft <<Hypothese: COVID ungefähr so gefährlich wie eine schwere Influenza-Welle>> rechtfertigt nicht die Schwerwiegenden Nebenwirkungen, die berichtet werden. <<_hypothese_die_impfstoffe_sind_gefährlicher_als_jeder_andere_impfstoff_den_wir_kennen>>. Die nur begrenzte Wirksamkeit <<_hypothese_die_covid_impfstoffe_haben_nur_eine_sehr_begrenzte_wirksamkeit>> ist zwar das im öffentlichen Diskurs meist diskutierte
+=== Mir bringt die Impfung keinen Vorteil (Fragen aus <<_fragen_der_persönlichen_betroffenheit>>)
 
+Bereits in <<_schlussfolgerung_die_risiko_abwägung_fällt_für_junge_und_mittlere_jahrgänge_klar_gegen_den_impfstoff_aus>> habe ich klar gemacht, dass die Risiken der Impfen nach meiner Bewertung den Nutzen überwiegen: Eine Erkrankung, die überwiegend mild verläuft <<Hypothese: COVID ungefähr so gefährlich wie eine schwere Influenza-Welle>> rechtfertigt nicht die Schwerwiegenden Nebenwirkungen, die berichtet werden. <<_hypothese_die_impfstoffe_sind_gefährlicher_als_jeder_andere_impfstoff_den_wir_kennen>>. Die nur begrenzte Wirksamkeit <<_hypothese_die_covid_impfstoffe_haben_nur_eine_sehr_begrenzte_wirksamkeit>> ist zwar am häufigsten diskutiert, denn wenn man über den Anteil der Geimpften unter den Corona-Intensivpatienten spricht, redet man eigentlich über die Impfstoff-Wirksamkeit. Viel interessanter fände ich die Frage, wie hoch der Anteil der Geimpften unter allen Intensivpatienten bzw. unter allen Verstorbenen ist, denn hier würden auch etwaige Impfschäden hineinspielen. Die Betrachtung der Übersterblichkeit <<_2021_beobachten_wir_eine_deutliche_übersterblichkeit>> lässt hier nichts gutes ahnen.
 
+Verschärft wird meine Ablehnung der Impfung durch die Bewertung von Medien und Politik. Wir haben vielfach gesehen, dass die Impfung als alternativlos dargestellt und als risikofrei gepriesen wird. Diese Grundhaltung lässt mich eine hohe Dunkelziffer bei den Impfschäden befürchten, denn wer nichts sehen will, der wird auch nichts sehen. Entsprechend schwach ist leider die Überzeugungskraft, die Aussagen von Behörden oder Politikern auf mich haben. Das ist ein Punkt, an dem die Gesellschaft auseinanderbricht - jede Seite bastelt sich ihre eigene Realität. Aber was soll ich tun? Wenn das was ich als Realität empfinde offiziell einfach nur ausgeblendet wird, ist doch die Konsequenz, dass ich das offizelle Bild der Realität nicht mehr übernehme.
 
+=== Ich sehe keine gesellschaftliche Verantwortung, mich impfen zu lassen? (Fragen <<_fragen_nach_der_gesellschaftlichen_verantwortung>>)
 
-=== Für meine Familie und mich überwiegen die Nachteile der Impfung die Vorteile
+Noch im Sommer wurde unter dem Slogan "Impfen ist Solidarität" an die gesellschaftliche Verantwortung gemahnt, sich durch die Impfung an der Ausrottung des Virus zu beteiligen. Dieses Ziel ist inzwischen als unrealistisch beerdigt worden, auch wegen der mangelnden Effektivität der Impfstoffe <<_argument_die_impfung_schützt_nur_teilweise_vor_schwerer_erkrankung_bzw_tod_ca_30_80_vermutlich_abhängig_von_alter_zeit_nach_der_imfpung_variante_des_virus>>
 
-Die Gefährlichkeit des Virus für mittlere Jahrgänge schätze ich als gering ein. Es gab mim Pandemiejahr 2020 in Deutschland keine Übersterblichkeit <<uebersterblichkeit21>> und die Todesfallzahlen <<_todeszahlen>> in den entsprechenden Alterskohorten sind geringer als z.B. Fallzahlen zum Herzinfakt. Für ältere Jahrgänge sehe ich sehr wohl eine Gefährdung,
+Daneben wird ihnen Schuld am https://jungefreiheit.de/politik/deutschland/2021/kanzler-scholz-gibt-ungeimpften-schuld-an-zerstoerter-vorweihnachtszeit/[Fortbestand der Maßnahmen, aktuell am versauten Weihnachtsfest 2021] gegeben. Das ist offenkundig Quatsch, wenn https://www.berliner-zeitung.de/news/trotz-100-prozent-impfquote-gibraltar-sagt-weihnachtsfeste-ab-li.195627[auch "durchgeimpfte" Gemeinschaften das Weihnachtsfest absagen].
 
+Momentan ist das Narrativ, die Ungeimfpten seien Schuld an den Überlaufenden Intensivstationen. Diesen Vorwurf habe ich in  <<_die_ungeimpften_tragen_keine_verantwortung_für_eine_etwaige_überlastung_der_intensivstationen>> entkräftet.
 
+=== Im Gegenteil! (Fragen <<_fragen_nach_der_gesellschaftlichen_verantwortung>>)
 
-Ich habe bereits einen Qua <<_die_risiko_abwägung_fällt_für_junge_und_mittlere_jahrgänge_klar_gegen_den_impfstoff_aus>>
+Aber es gibt einige Argumente, warum ich meiner gesellschaftlichen Verantwortung gerade durch die Verweigerung der Impfung nachkomme.
 
+* Hätte die Mehrhreit sich der Impfung verweigert, würden wir jetzt nicht über *Kinder-Impfzwang* reden.
 
-Es drängt sich der Eindruck auf, dass die Bekämpfung von Abweichlern Selbstzweck ist.
-Niemand bekommt Probleme, wenn er seine FF2-Maske unsachgemäß trägt - aber wehe, man setzt sie ab.
-Es handelt sich nicht um eine Gesundheitsschutz-Maßnahme, sondern um ein Unterwerfungsritual.
+* Wir erleben eine *Salami-Taktik*. Absehbar ist mittlerweile, dass es nicht um eine Impfung geht, sondern um ein "Abo" für regelmäßige Booster. Andere https://www.aerzteblatt.de/nachrichten/127216/RKI-Praesident-sieht-Nachbesserungsbedarfe-bei-Bekaempfung-von-Infektionskrankheiten[Impfungen könnten dazu kommen]. Wo sich etabliert hat, den Bürger durch "Aussperren" bestrafen zu können, was gibt es noch für Möglichkeiten? Schauen Sie sich mal das https://de.wikipedia.org/wiki/Sozialkredit-System[chinesische Sozialpunktesystem] an, um einen Eindruck zu bekommen. Wehret den Anfängen!
+
+* Die Ermächtigung der Exekutive über den Ausnahmezustand wird in vielen Bereichen bereits zur Normalität. Demonstrationen dürfen https://www.idowa.de/inhalt.proteste-in-bayern-grundrechte-vs-black-lives-matter-zweierlei-mass-bei-demos.3cc85bb6-04ec-47db-8463-cedeb23a0c0f.html[nach Laune abgesagt], https://www.berliner-zeitung.de/politik-gesellschaft/prantl-zu-corona-urteil-ich-bin-unglaeubig-empoert-zornig-li.198750[Grundrechte nach gutdünken einkassiert] werden. Glauben Sie, dass die Politiker diese einmal erlangte Machtfülle einfach so wieder hergeben?
+
+* Allein, der Obrigkeit die Möglichkeit zu geben, medizinische Entscheidungen des Bürgers einfach so vorzugeben ist ein Dammbruch. Hier gilt es einem Präzendenzfall entgegenzutreten.
+
