@@ -9,7 +9,7 @@ Impfverweigerer sollten den Anstand haben, sich aus der Gemeinschaft zu entferne
 
 == Wir müssen reden... Vorbemerkungen
 
-Angesichts immer schärfer Vorwürfe gegen die COVID-Impfverweigerer im öffentlichen Diskurs und dem Gefühl in der medialen Darstellung misrepräsentiert zu werden, möchte ich hier als Betroffener meine Position begründen. Ziel ist nicht die Missionierung, vielmehr möchte ich für Toleranz werben und dafür, dass die Entscheidung über die Impfung freiwillig bleibt.
+Angesichts immer schärfer Vorwürfe gegen die COVID-Impfverweigerer im öffentlichen Diskursfootnote:aggitation[Eine Auswahl: Ex-Bundespräsident Gauck nennt Impfgegner „Bekloppte“ https://www.faz.net/aktuell/politik/inland/joachim-gauck-greift-impfgegner-als-bekloppte-an-17532805.html[(FAZ)] / Der  https://www1.wdr.de/nachrichten/themen/coronavirus/corona-regeln-weihnachten-ungeimpfte-100.html[WDR] empfiehlt gegenüber "Familienmitgliedern, die sich aus Überzeugung nicht impfen (...)  klare Kante (zu) zeigen und ohne diese Personen (zu) feiern"] und dem Gefühl in der medialen Darstellung misrepräsentiert zu werden, möchte ich hier als Betroffener meine Position begründen. Ziel ist nicht die Missionierung, vielmehr möchte ich für Toleranz werben und dafür, dass die Entscheidung über die Impfung freiwillig bleibt.
 
 Ich versuche meine Familie und mich möglichst gesund durch diese schwierige Zeit bringen und verweigere die Impfung, weil ich die Gefahren gegenüber dem Nutzen als größer bewerte. Der vielfach in wohlmeinender Absicht geäußerte Analogie mit Rauchern, Trinkern, Extremsportlern geht fehl - ich gehe nicht aus Genusssucht oder Abenteuerlust Risiken ein, sondern versuche im Gegenteil, Risiken zu minimieren.
 
@@ -83,6 +83,10 @@ Diese Fragen sollten ausschlaggebend für die Entscheidung sein.
 
 * Welche Gefahr geht von der Impfung aus?
 
+Zwischen diesen Aspekten ist eine Abwägung notwendig. Allerdings ist es nicht so, dass ein rechnerisches Todesfall-Risiko durch Corona von 1:1.000 zu sterben, das Risiko eines tödlichen Impfschadens von 1:2.000 rechtfertigen würde. Der Anspruch an einen Impfstoff ist, dass das Risiko eines tödlichen Impfschadens bei ca. 1:5.000.000 liegt (Grippe). Insbesondere wenn immer betont wird, der Impfstoff sei sicher, so ist dies diee Benchmark, die zu halten ist.
+
+Grundsätzlich gilt nach dem ärztlichen https://de.wikipedia.org/wiki/Primum_non_nocere[Grundsatz  “primum non nocere] , secundum cavere, tertium sanare” (deutsch: „erstens nicht schaden, zweitens vorsichtig sein, drittens heilen“).. Dieser Grundsatz ordnet die Heilung der Vermeidung von Schaden unter. Damit soll vermieden werden, dass ein Arzt, der ja berufsbedingt vielleicht ein übergroßes Zutrauen in seine Behandlung hat, dmit dem potentiellen Nutzen voreilig bereit ist, seinen Patienten zu schaden.
+
 === Fragen nach der gesellschaftlichen Verantwortung
 
 Diese Fragen sind nachrangig. Erst, wenn die erste Fragegruppe zu keinem schlüssigen Ergebnis kommt, werden diese Fragestellungen relevant.
@@ -114,13 +118,15 @@ So könnte man gemäß der Aristotelischen Formel "These und Antithese bilden di
 === Hypothese: COVID ungefähr so gefährlich wie eine schwere Influenza-Welle
 
 Diese Aussage ruft oft eine sehr emotionale Abwehrreaktion hervor.
-Ich möchte nicht leugnen, dass Menschen leiden und keine Opfer verhöhen.
+Ich möchte nicht leugnen, dass Menschen leiden und keine Opfer verhöhen. Es bedeutet keinen Mangel an Mitgefühl mit diese Kranken, wenn ich im Rahmen einer Nutzen-Risiko-Abschätzung für meine Person das Leid dieser Menschen ins Verhältnis setzte - denn nichts anderes heißt das böse Wort "Relativierung". Mir wurde schon vorgeworfen, ich wolle noch mehr Tote sehen, ich sei "unerträglich" - all das weise ich zurück.
 
-Allerdings ist dieser Vergleich nötig, um die abstrakten Zahlen von Tausenden von Toten (die selbstverständlich erstmal Angst machen) in etwas Bekanntes einordnen zu können.
+Allerdings ist dieser Vergleich nötig, um die abstrakten Zahlen von einordnen zu können.
 
 *Corona-Leugner oder nicht?*
 
-Es gibt ja die Hypothese, dass es COVID gar nicht gibt und dass es sich um die Grippewelle 2020 handele. Ich finde diese Gedanken plausibel, gerade wenn man sich vor Augen führt, dass https://www.achgut.com/artikel/indubio_folge_186_08_12_2021_ein_test_als_fetish[man die Krankheitsbilder klinisch kaum voneinander abgrenzen kann], und nur der PCR-Test die eine von der anderen Krankheit differenziert. Ich kann aber zu dieser Diskussion fachlich wenig beitragen und halte sie auch nicht für sonderlich relevant. Mich interessiert die Gefährlichkeit der Epidemie - ob der Erreger neu oder alt ist, spielt eine nachrangige Rolle.
+Es gibt ja die Hypothese, dass es COVID gar nicht gibt und dass es sich um die Grippewelle 2020 handele. Ich kann die Überlegungen verstehen, gerade wenn man sich vor Augen führt, dass https://www.achgut.com/artikel/indubio_folge_186_08_12_2021_ein_test_als_fetish[man die Krankheitsbilder klinisch kaum voneinander abgrenzen kann], wobei es ja auch Aussagen gibt, dass Corona auch ganz andere Symptome bildet, als eine Influenza (Geruchsverlust, Organversagen, ...). Eie besondere Rolle spielt be dieser Diskussion auch der PCR-Test, der ja das wesentliche diagnostische Instrumnet bei der Abgrenzung der Krankheitsbilder ist. Da mir hier Informationen und Sachkenntnis fehlen, enthalte ich mich. *Mich interessiert lediglich die Gefährlichkeit der Epidemie - ob der Erreger neu oder alt ist, spielt eine nachrangige Rolle.*
+
+Wenn ich die Gefährlichkeit der Epidemie in Frage stelle bestreite ich natürlich nicht, dass Menschen krank, unter Umstädnen sehr krank sind.
 
 ==== Argument: Die Pandemie hat sich 2020 nicht in der Übersterblichkeitsstatistik in Deutschland gezeigt - sehr wohl gibt es aber seit der Impfkampagne eine Übersterblichkeit mit bislang ungeklärter Ursache
 
@@ -200,13 +206,17 @@ Ergebnis:
 
 *PS:* Es wird interessant sein, die Sterbefälle 2021 nach Alter in die Graphik einzutragen. Wenn sich hier - wie ich vermute - eine Verschiebung hin zu jüngeren Jahrgängen ergibt, ist dies ein Hinweis auf eine, von der normalen Situation abweichenden Sterbeursache - mutmaßlich induziert durch die Impfung.
 
-.Die Alterstruktur der Covid-Fälle in den Jahren 2020 bis 2021 gegenüber dem normalen Sterbegeschehen 2019 (Quelle für beides: de.statista.com: https://de.statista.com/statistik/daten/studie/1013307/umfrage/sterbefaelle-in-deutschland-nach-alter/[Alle Todesfälle] und https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/[Covid-Todesfälle]) und der Altersverteilung der https://www.radiologie-westmuensterland.de/mammographie-screening/fakten-zum-brustkrebs[Brustkrebs-Toten 2004] (Jahrgang und Erkrankungsart wurden nicht "cherry"-gepickt, ich habe sonst keine nach Alter aufgeschlüsselten Statistiken für eine Todesursache gefunden.).
+.Die Alterstruktur der Covid-Fälle in den Jahren 2020 bis 2021 gegenüber dem normalen Sterbegeschehen 2019 (Quelle für beides: de.statista.com: https://de.statista.com/statistik/daten/studie/1013307/umfrage/sterbefaelle-in-deutschland-nach-alter/[Alle Todesfälle] und https://de.statista.com/statistik/daten/studie/1104173/umfrage/todesfaelle-aufgrund-des-coronavirus-in-deutschland-nach-geschlecht/[Covid-Todesfälle]) und der Altersverteilung der https://www.radiologie-westmuensterland.de/mammographie-screening/fakten-zum-brustkrebs[Brustkrebs-Toten 2004] (Jahrgang und Erkrankungsart wurden nicht "cherry"-gepickt, ich habe sonst keine nach Alter aufgeschlüsselten Statistiken für eine Todesursache gefunden. - Selbstverständlich eine andere Atemwegserkrankung besser).
 [#sterbealter,reftext='{figure-caption} {counter:refnum}']
 image::./images/covid-brustrkebs-allgemein[width=80%,align="center"]
 
 *Anmerkung:* Meine Analyse hat natürlich Schwächen. So verändert sich durch die Alterung der Gesellschaft Jahr für Jahr die Altersstruktur, das könnte man herausrechnen indem man nicht die Zahl der Verstorbenen, sondern die Sterbewahrscheinlichkeit eines Jahrgangs betrachtet. Auch könnte man versuchen genauere Daten als die Aggregation nach Dekaden zu verwenden - für die Versicherungswirtschaft sollten solche Daten eigentlich zur Verfügung stehen. Der Vergleichsjahrgang 2019 war übrigens ein Jahr ohne schwere Grippewelle - es ist sicher sinnvoll, hier unterschiedliche Sterbejahre zu vergleichen.
 
-==== Argument: Andere Statistische Auswertungen zu COVID und Grippewelle
+==== Argument: Andere Äußerungen zu COVID und Grippewelle
+
+*Im Oktober hat RKI Chef Lothar Wieler Corona und Grippe vergliechen*
+
+Anstelle einer Diskussion verweise ich auf einen https://www.youtube.com/watch?v=bIK0VDzYXlg[Beitrag von BILD], der alles dazu sagt.
 
 *https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/41_20.pdf?__blob=publicationFile[Das Epidemiologisches Bulletin 43 des RKI]*
 
@@ -599,7 +609,19 @@ Anlässlich einiger Schwangerschaften in meinem Umfeld habe ich im Sommer recher
 
 Erneut haben wir so ein Thema, in dem Aussage gegen Aussage steht. Ich kann weder die Aussagen der einen, noch der anderen Seite überprüfen. Es bleibt Abzuwarten, wie die Situation sich auf mittlere Sicht entwickelt.
 
-==== Argument: Aber der Impfstoff ist durch die Massenwanwendung millardenfach getestet
+==== Argument: Es gibt zahlreiche Meldungen über unbekannte Fremdkörper im Impfstoff
+
+Ich kann diese Meldungen nicht bewerten. Manche wirken seriöser als andere, aber es bleibt festzuhalten, dass diese Behauptung immer wieder auftaucht.
+
+* https://www.youtube.com/watch?v=oEY-yJApYck&t=1205s[Holger Reißner in "Wa(h)re Gesundheit"] (Graphen)
+* https://odysee.com/@ovalmedia:d/Pathologie_Konferenz_Reutlingen_Teil_2:1[Pathologenkonferenz Reutlingen] aus dem Umfeld "Corona Ausschuss"
+* https://odysee.com/@Docuteca:5/AndreasNoack:2[Andreas Noack] (Graphen)
+* https://www.youtube.com/watch?v=jKHjUcGOaWc[Japan hat in Moderna Impfstoffen metallische Partikel gefunden], diese Meldung ist auch in den https://www.reuters.com/business/healthcare-pharmaceuticals/japan-finds-stainless-steel-particles-suspended-doses-moderna-vaccine-2021-09-01/[Mainsteam-Medien gekommen]
+* Verunreinigungen der Impfstoffe durch https://odysee.com/@eingeSCHENKt:0/blutbild-der-geimpften:3[Wurmeier]
+
+*Einer Bewertung enthalte ich mich zum gegenwärtigen Zeitpunkt*
+
+==== Argument: Die Massenwanwendung stellt nicht wirklich eine
 
 Olaf Scholz hat ja etwas augenzwinkernd von den Geimpften als "Versuchskaninchen" gesprochen, deren derzeitiges Wohlergehen doch die Ungeimpften überzeugen sollten, ihnen zu folgen. Ähnlich argumentiert maiLab in ihrem https://www.youtube.com/watch?v=KEggd1S9_9Y[Impfpflicht OK] Video.
 
@@ -618,13 +640,6 @@ Hierzu das folgende:
 Es spielt in der Diskussion kaum noch eine Rolle, dass die Impfstoffe unter einer Notfallzulassung verwendet werden. Dies müsste bedeuten, dass die Imfpung nur an Risikogruppen abgegeben wird, denn z.B. bei Kindern oder gesunden jungen Erwachsenen besteht kein Notfall.
 
 Im Spätsommer wurden Betrügereien bei einer der Zulassungsstudien bekannt. Die Mainstream-Medien sind sofort zur Rettung geeilt. https://www.tagesschau.de/faktenfinder/pfizer-impfung-test-usa-101.html[Die ARD-Tagesschau zitiert einen Fachmann (Peter Kremsner, Direktor des Instituts für Tropenmedizin an der Universität Tübingen), der die Enthüllungen zwar "unschön" findet, aber voller Verständnis für Big-Pharma ist: "falls Fehler gemacht worden seien, könne der große Erfolgs- und Zeitdruck in der Pandemie eine Rolle gespielt haben." Solche in Verständnis wünscht man sich doch.]
-
-//==== Argument: Die Verschwörungstheoretiker machen mir Angst
-//
-//Es gibt Analysen aus zweifelhafter Quelle, die recht phantastisch klingende Ergebnisse behaupten. Man würde mir natürlich raten,
-//
-//* Verunreinigungen der Impfstoffe durch https://odysee.com/@eingeSCHENKt:0/blutbild-der-geimpften:3[Wurmeier], Metallpartikel 
-//* Demonstration, dass die Impfstoffe Blut verklumpung
 
 === Schlussfolgerung: Die Risiko-Abwägung fällt für junge und mittlere Jahrgänge klar gegen den Impfstoff aus.
 
@@ -648,7 +663,7 @@ In Summe fällt die Nutzen-Risiko Abwägung deutlich zu ungunsten des Impfstoffe
 
 Bei jüngeren Jahrgängen lässt sich eine solche Rechnung aufgrund des geringen Risikos an Herzinfakten und der gleichsam geringen Zahl an Corona-Toten nicht aufmachen. Bei älteren Jahrgängen nehmen die Corona-Toten stärker zu als die Herzinfakte, hier möchte ich keine Aussage treffen.
 
-=== Die Ungeimpften tragen keine Verantwortung für eine etwaige Überlastung der Intensivstationen
+=== Hypothese:  Die Ungeimpften tragen keine Verantwortung für eine etwaige Überlastung der Intensivstationen
 
 Im fortgeschrittenen Herbst 2021 liess sich nicht mehr leugnen, dass die Impfstoffe nicht vor Weitergabe des Virus und Erkrankung schützen.
 Das Narrativ schwenkte daher um von "Die Impfung schützt vor Erkrankung mit dem Coronavirus und dessen Übertragung" auf "Die Impfung schützt vor einem schweren Verlauf". Die Ungeimpften, die nun nicht mehr für die Verbreitung der Krankheit verantwortlich gemacht werden konnten ("Pandemie der Ungeimpften"), wurden nun bezichtigt, verantwortlich für die Überlastung der Intensivstationen zu sein.
@@ -674,13 +689,14 @@ Dieses Narrativ hat gleich mehrere Schwächen:
 
 * Am 20.10. fragt Boris Reitschuster in der BPK nach - die Bundesregierung sieht keinen Personalmangel in der Pflege https://rumble.com/vnzfyv-regierung-zu-anstieg-der-bersterblichkeit-im-vorjahresvergleich-da-fehlen-d.html[Minute 2:30]
 
-* Wir haben ja schon weiter oben (bei der Diskussion der Impfstoff-Wirksamkeit) die Frage besprochen, inwiefern der Anteil der Ungeimpften an den Intensivpatienten (offiziell ca. 50{nbsp}%) künstlich hochgerechnet wurde. Aber selbst, wenn man diesen Wert für den Moment akzeptiert, muss man beachten, dass nur ein kleiner Teil der Intensivbetten durch COVID-Patienten belegt ist. Laut Bundesregierung (Im Herbst 2021 auf der BPK geäußert) lag dieser Anteil nie über 25%, aktuell liegt der Anteil eher bei 15{nbsp}% (siehe Graphik). Das bedeutet, dass maximal ca. 10{nbsp}% der Intensivbettenkapazitäten durch ungeimpfte COVID-Patienten belegt sind, vermutlich deutlich weniger (denn wir haben bei beiden Faktoren die eingehen eine Maximal-Annahme getroffen). Wie können 10{nbsp}% der Betten für die Überbelegung verantwortlich zeichnen? https://www.youtube.com/watch?v=lkST9sJL5Lc&t=550s[siehe Minute 9:50]
+* Wir haben ja schon weiter oben (bei der Diskussion der Impfstoff-Wirksamkeit) die Frage besprochen, inwiefern der Anteil der Ungeimpften an den Intensivpatienten (offiziell ca. 50{nbsp}%) künstlich hochgerechnet wurde. Aber selbst, wenn man diesen Wert für den Moment akzeptiert, muss man beachten, dass nur ein kleiner Teil der Intensivbetten durch COVID-Patienten belegt ist. Laut Bundesregierung (Im Herbst 2021 auf der BPK geäußert) lag dieser Anteil nie über 25%, aktuell liegt der Anteil eher bei 15{nbsp}% (siehe <<intensivbetten>>). Das bedeutet, dass maximal ca. 10{nbsp}% der Intensivbettenkapazitäten durch ungeimpfte COVID-Patienten belegt sind, vermutlich deutlich weniger (denn wir haben bei beiden Faktoren die eingehen eine Maximal-Annahme getroffen). Wie können 10{nbsp}% der Betten für die Überbelegung verantwortlich zeichnen? https://www.youtube.com/watch?v=lkST9sJL5Lc&t=550s[siehe Minute 9:50]
 
 * Interessant auch die Einlassungen eines https://www.youtube.com/watch?v=PjukhAkr8Ws[Pflegers auf der BPK] schon im April 2021
 
-.Entwicklung der Intensivbettenkapazitäten.
+.Die Entwicklung der Intensivbettenkapazitäten zeigt, dass die Auslastung der belegten Betten recht konstant ist, der Mangel kommt durch Bettenabau zu Stande.
 [#intensivbetten,reftext='{figure-caption} {counter:refnum}']
-image::images/Intensivbetten.png[align=center, width=70%]
+image::images/intensivbetten.png[align=center, width=70%]
+
 
 Nachtrag:
 
@@ -690,7 +706,57 @@ Nachtrag:
 
 *Ich schwanke in meiner Bewertung zwischen "Die Ungeimpften werden als Sündenbock für Politikversagen missbraucht" und "Der Notstand wurde mutwillig herbeigeführt, um ein Druckmittel gegen die Ungeimpften zu haben"*
 
-=== Der herrschende "Impf-Extremismus" verhindert rationalen Diskurs
+=== Hypothese: Die Impf-Kampagne steht für eine Art von Gesellschaft, mit der ich nichts zu tun haben möchte
+
+Als ich innerhalb der Familie inquisitorisch nach dem Grund für meine Impfverweigerung gefragt wurde, die als unsolidarisch interpretiert wurde und von der Unsinnigkeit der Kinderimpfung anfing wurde ich barsch zurechtgewiesen, es gehe um mich: "Warum bist Du nicht geimpft?"
+
+Genauso wie *andere* sich aus "Solidarität" impfen lassen, bzw. ihre eigene Angepasstheit und Bequemlichkeit so verklären, verweigere ich die Impfung auch aus gesellschaftlichen Gründen (siehe <<Welche Fragestellungen sind relevant für die Impfentscheidung?>>)
+
+==== Argument: Was tuen wir den Kindern an?
+
+Vom Anbeginn der Pandemie waren die Maßnahmen gegenüber den Kindern in besonderem Maße übergriffig, unfair und unmenschlich.
+
+* Im ersten Lockdown wurden die Spielplätze zum Tabu erklärt und zu allem Überfluss mit roten Bändern abgesperrt.
+
+* Um Kinder gefügig gemacht, wurden Angst-Narrative vermittelt "Ihr bringt Eure Eltern und Großeltern um." - diese psychologische Manipulation wird uns eine traumatisierte Generation einbringen.
+
+* Es gab ja die irrwitzige Idee, es sei ein Beitrag zum Gesundheitsschutz, zu Hause auf dem Sofa zu sitzen und Chips zu futtern - da gab es sogar Fernsehwerbung in der Richtung. Sportstätten wurden geschlossen und die Bewegung draußen durch Gängelung minimiert (Zwischenzeitlich war es polizeilich verboten, im Freien allein auf einer Bank zu sitzen). Dieser Blödsinn hat Kinder in besonderem Maße geschadet, die einen besonderen Bewegungsdrang haben und diesem auch nachkommen müssen.
+
+* Die Schulschließungen waren ein Schlag gegen die Bildungschancen unserer Kinder
+
+* Während Erwachsene Geimpfte auf 2G Veranstaltungen "Normalität" genießen, findet Schule im Ausnahmezustand statt:
+
+** Dauerlüften
+
+** Tests in der Gruppe
+
+** Sozialer Druck zum Impfen
+
+** Maskenpflicht im Unterricht
+
+* Sie werden zu einer Impfung genötigt, von der sie keinen Nutzen, aber einen Schaden haben.
+
+Die Zulassung der Impfung für Kinder wurde auf politischen Druck durchgewunken und sie wird auf immer jüngere Jahrgänge ausgedehnt, wie nicht anders zu erwarten folgen auf die Zulassung: Propaganda, Sanfter und Härterer Druck und schließlich die Impfpflicht.
+
+Derzeit sind ältere Kinder (ab 12) bereits vom gesellschaftlichen Leben (z.B. Einkaufen 2G, Sportvereine) ausgeschlossen - Eine Impfpficht wird derzeit diskutiert. Für Kinder zwischen 5 und 11 gibt es derzeit nur eine Empfehlung der Stiko für Kinder mit Vorerkrankungen - das hält die Politik nicht davon ab, kräftig die Werbetrommel zu rühren. Die Impfung für Kinder ab 6 Monaten wird derzeit klinisch erprobt. Zur Risikoabwägung hört man hier wie überall nur das Mantra "Es gibt keine Risiken".
+
+Wie schon öfter festgestellt, geht es nur noch um die Zahl der Impfungen. Weil auch geimpfte ansteckend <<_argument_kann_der_geimpfte_andere_anstecken>> sind, ist das momentan herschende Narrativ ja, dass die Ungeimpften die Intensivbetten füllen <<_hypothese_die_ungeimpften_tragen_keine_verantwortung_für_eine_etwaige_überlastung_der_intensivstationen>>. Kinder erkranken aber nicht in wesentlichen Zahlen <<_argument_aus_der_altersstruktur_der_todesfälle_lässt_sich_ablesen_dass_mittlere_und_junge_jahrgänge_kaum_betroffen_sind>>, daher macht die Kinderimpfung keinen Sinn.
+
+*Hätte sich die Merhzahl der Erwachsenen der Impfung verweigert, so glaube ich - würden wir derzeit nicht von der Kinderimpfung sprechen. Wer wirklich eine andere Meinung zur Bewertung der Situation hat, oder wer vielleicht aus einer Vorerkrankung persönlich Angst vor Corona hat sollte sich natürlich impfen lassen. Aber diejenigen, die dem Druck nachgeben, sollten sich bewußt sein, dass sie mit ihrem "klein Beigeben" nicht mehr schützend vor Gruppen stehen, die sich weniger wehren können.*
+
+==== Argument "Denkst Du gar nicht an die Unterpriveligierten?"
+
+Ich habe dieses Argument als Vorwurf gehört. Ehrlich gesagt, wusste ich gar nicht, ob es da jetzt um Entwicklungsländer oder um Kranke und Behinderte (vulnerable Gruppen) geht?
+
+* Epidimeologisch macht es ja keinen Sinn, die Impfquote in der ersten Welt über 90% zu heben und in immer kürzeren Abständen "durchzuboostern", während Afrike bei 10% verharrt. Entsprechend hat sich auch die WHO geäußert.
+
+* Bezüglich der sogl. "vulnerablen Gruppen" muss ich sagen, dass ich sehr irritiert bin über den Umgang mit Vorerkrankten. Es passt ins Bild des Impf-Extremismus <<_der_herrschende_impf_extremismus_verhindert_rationalen_diskurs>>, dass hier eine gewisse Bedingungslosigkeit herrscht.
+
+  ** Krebspatienten
+
+==== Entgleisungen und Überschreitungen
+
+==== Der herrschende "Impf-Extremismus" verhindert rationalen Diskurs
 
 Ich beobachte seit Beginn der Pandemie ein Phänomen, das ich als "Covid- bzw. Impf-Extremismus" bezeichne. Das klingt zwar nach Augenzwinkern, ist aber ein ernstes Problem:
 
@@ -750,6 +816,8 @@ Natürlich ist es angemessen, diesen Berichten mit gesundem Misstrauen zu begegn
 
 === Die  Methode Prokrustes (was nicht passt, wird passend gemacht)
 
+https://www.pi-news.net/2021/12/die-luege-des-dr-tschentscher-ist-ueberall/[90% lüge]
+
 ==== Argument: Omicron und die Booster-Kampagne
 
 Derzeit wird mächtig für die Booster-Impfung geworben. https://www.echo24.de/welt/biontech-impfstoff-impfschutz-studie-corona-israel-ansteckung-booster-geimpfte-mrna-forscher-91141559.html[Entsprechend oft wird eine Studie aus Israel genutzt, um den Leuten vor Augen zu führen, dass Ihr Impfschutz schon am Ablaufen ist]. Die gegenüber Impfunwilligen bis auf die Zähne verteidigte Wirksamkeit der Impfstoffe ist plötzlich doch nicht so hoch. https://twitter.com/karl_lauterbach/status/1451175675222712322[Nach der 3. Impfung bleibt nur ein minimales Risiko der Infektion übrig.] twittert Lauterbach im Oktober - Als frisch gebackener Gesundheitsmiinister legt er  https://www.tagesschau.de/inland/corona-omikron-booster-101.html[nach] "Die Impfung ist nur abgeschlossen, wenn man dreimal geimpft wurde" Wobei man wohl davon ausgehen kann, dass das Wort "abgeschlossen" vorläufiger Natur ist.
@@ -794,7 +862,7 @@ vstationene https://www.youtube.com/watch?v=PjukhAkr8Ws[bpk panne]
 
 Verträge zwischen EU und Herstellern: Die Bundesregierung verweigert die Aussage bei Nachfrage zu den Gerüchten, dass die Haftung für Langzeitfolgen ausgeschlossen ist Video[https://rumble.com/vokp59-das-gilt-als-unwahrscheinlich-die-bundesregierung-zu-impf-langzeitfolgen.html]
 
-=== Stiko die Kinder und die Politische Beeinflussung
+=== Stiko die Kinder und die politische Beeinflussung
 
 Im Juli und August war zu beobachten, wie die Impfkampagne auf Jugendliche und Kinder ausgedehnt wurde. Noch einmal: Von Covid geht keine Gefahr für diese Altersgruppe aus - die Todeszahlen sind minimal und noch einmal der Hinweis: Ein Kind, das tragischerweise an Krebs erkrankt oder einem Unfalltod erliegt, wird zum COVID-Toten, wenn es positiv getestet wurde. Dennoch ist die jährliche Fallzahl (vgl. <<coviddeathbyage>>) in der betroffenen Altersgruppe einstellig. Mit unwesentlicher Abweichung nennt der https://www.mdr.de/nachrichten/deutschland/panorama/corona-kinder-verlauf-100.html[MDR 29 Tote] wohlgemerkt in 2 Jahren und in der grö0eren Altersgruppe von 0 bis 19 Jahren.
 
@@ -842,7 +910,7 @@ Aber es gibt einige Argumente, warum ich meiner gesellschaftlichen Verantwortung
 
 * Hätte die Mehrhreit sich der Impfung verweigert, würden wir jetzt nicht über *Kinder-Impfzwang* reden.
 
-* Wir erleben eine *Salami-Taktik*. Absehbar ist mittlerweile, dass es nicht um eine Impfung geht, sondern um ein "Abo" für regelmäßige Booster. Andere https://www.aerzteblatt.de/nachrichten/127216/RKI-Praesident-sieht-Nachbesserungsbedarfe-bei-Bekaempfung-von-Infektionskrankheiten[Impfungen könnten dazu kommen]. Wo sich etabliert hat, den Bürger durch "Aussperren" bestrafen zu können, was gibt es noch für Möglichkeiten? Schauen Sie sich mal das https://de.wikipedia.org/wiki/Sozialkredit-System[chinesische Sozialpunktesystem] an, um einen Eindruck zu bekommen. Wehret den Anfängen!
+* Wir erleben eine *Salami-Taktik*. Absehbar ist mittlerweile, dass es nicht um eine Impfung geht, sondern um ein https://odysee.com/@_horizont_:b/die-best%C3%A4tigung-der-abofalle:7["Abo"] für regelmäßige Booster. Andere https://www.aerzteblatt.de/nachrichten/127216/RKI-Praesident-sieht-Nachbesserungsbedarfe-bei-Bekaempfung-von-Infektionskrankheiten[Impfungen könnten dazu kommen]. Wo sich etabliert hat, den Bürger durch "Aussperren" bestrafen zu können, was gibt es noch für Möglichkeiten? Schauen Sie sich mal das https://de.wikipedia.org/wiki/Sozialkredit-System[chinesische Sozialpunktesystem] an, um einen Eindruck zu bekommen. Wehret den Anfängen!
 
 * Die Ermächtigung der Exekutive über den Ausnahmezustand wird in vielen Bereichen bereits zur Normalität. Demonstrationen dürfen https://www.idowa.de/inhalt.proteste-in-bayern-grundrechte-vs-black-lives-matter-zweierlei-mass-bei-demos.3cc85bb6-04ec-47db-8463-cedeb23a0c0f.html[nach Laune abgesagt], https://www.berliner-zeitung.de/politik-gesellschaft/prantl-zu-corona-urteil-ich-bin-unglaeubig-empoert-zornig-li.198750[Grundrechte nach gutdünken einkassiert] werden. Glauben Sie, dass die Politiker diese einmal erlangte Machtfülle einfach so wieder hergeben?
 
