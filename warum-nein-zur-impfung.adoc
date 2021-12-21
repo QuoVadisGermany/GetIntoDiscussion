@@ -50,7 +50,7 @@ Viele Handlungen, die man heute beobachtet scheinen eher die eigene Tugendhaftig
 
 *Ein Hoch dem Schwurbeln - Für einen Dialog auf Augenhöhe*
 
-Was ich hier von mir geben überschreitet ein neues gesellschaftliches Tabu, nämlch: Sich als eingenverantwortlicher Bürger anhand der verfügbaren Informationen eine eigene Meinung zu bilden. Stellvertretend für viele andere formuliert Frank Plasberg selbstentlarvend: https://www.focus.de/kultur/kino_tv/ard-talker-im-interview-plasberg-schwurbler-gelten-bei-impfung-als-kapitulierer-mit-gesichtsverlust_id_24512616.html["Jeder, der glaubt, auf YouTube eigene Quellen erschlossen zu haben, und ein Facebook-Studium absolviert hat, meint, auf Augenhöhe mit einem Arzt über medizinische Themen sprechen zu können."]
+Als mündiger Bürger bilde ich mir auf der grundlage der vorhandenen Informationen eine eigene Meinung und gelte damit als "Schwurbler". ARD-Talker Plasberg definiert wie folgt: https://www.focus.de/kultur/kino_tv/ard-talker-im-interview-plasberg-schwurbler-gelten-bei-impfung-als-kapitulierer-mit-gesichtsverlust_id_24512616.html["Jeder, der glaubt, auf YouTube eigene Quellen erschlossen zu haben, und ein Facebook-Studium absolviert hat, meint, auf Augenhöhe mit einem Arzt über medizinische Themen sprechen zu können."]
 
 Hierzu erwiedere ich:
 
@@ -71,13 +71,13 @@ Wenn nicht anders gesagt, beziehen sich Zahlen auf Deutschland. Der Verständlic
 
 == Welche Fragestellungen sind relevant für die Impfentscheidung?
 
-Ich möchte hier dem Vorwurf begegnen, ich würde die Impfung aus irgendwelchen politischen Gründen verweigern und gegen besseres Wissen "Propaganda" betreiben. Ich wäre ja schön blöd - es ist meine Gesundheit, die auf dem Spiel steht. Gerade aus meiner Außenseiterposition überprüfe ich die eigene Entscheidung regelmäßig und ich bin nach wie vor überzeugt von meiner Sicht der Dinge. Gleichwohl muss ich eingestehen, dass ich mich irren kann. Insbesondere bei Auftreten neuer Fakten oder besserer Belege für von mir verworfene Behauptungen werde ich meine Positon revidieren. Dieses selbstverständliche Eingeständnis nehme ich allerdings bei dien Impf-Befürwortern nicht wahr. Mit der Bestätigung durch die gesellschaftliche Mehrheit und dem Narrativ der Medien im Rücken herscht hier iene zu große Gewissheit bzgl. der eigenen Position.
+Ich möchte hier dem Vorwurf begegnen, ich würde die Impfung aus irgendwelchen politischen Gründen verweigern und gegen besseres Wissen "Propaganda" betreiben. Ich wäre ja schön blöd, mich wider besseres Wissen nicht impfen zu lassen - es ist meine Gesundheit, die auf dem Spiel steht. Gerade aus meiner Außenseiterposition überprüfe ich die eigene Entscheidung regelmäßig und ich bin nach wie vor überzeugt von meiner Sicht der Dinge. Gleichwohl muss ich eingestehen, dass ich mich irren kann. Insbesondere bei Auftreten neuer Fakten oder besserer Belege für von mir verworfene Behauptungen werde ich meine Position revidieren. Dieses selbstverständliche Eingeständnis nehme ich allerdings bei dien Impf-Befürwortern nicht wahr. Mit der Bestätigung durch die gesellschaftliche Mehrheit und dem Narrativ der Medien im Rücken herrscht hier eine zu große Gewissheit bzgl. der eigenen Position.
 
 Für mich sind 3 Gruppen von Fragen relevant bei der Frage, ob ich mich impfen lasse:
 
 === Fragen der persönlichen Betroffenheit
 
-Diese Fragen sollten ausschlaggebend für die Entscheidung sein.
+Die wichtigsten Fragen betreffen den Einfluss von Corona und Impfung auf die eigene Person bzw. die eigene Familie. Es wird durch Mahnung an die gesellschaftliche Verantwortung (Solidarität) sozialer Druck aufgebaut, doch sollte man sich vorrangig mit diesen Fragen beschäftigen:
 
 * Wie gefährlich ist Corona für mich und meine Familie?
 
@@ -86,6 +86,13 @@ Diese Fragen sollten ausschlaggebend für die Entscheidung sein.
 * Gibt es Alternativen zur Impfung?
 
 * Welche Gefahr geht von der Impfung aus?
+
+Es gilt hier also, eine Nutzen-Risiko-Abwägung zu treffen. Hierzu das folgende:
+
+* Wer mich zu einer Rechtfertigung nötigt, warum ich nicht geimpft bin verkehrt die Nachweispflicht. Ich sehe die Nachweispflicht für die Ungefährlichkeit bei Staat und Pharma-Konzernen - nicht etwa die Nachweispficht für die Gefährlichkeit beim skeptischen Bürger.
+
+* Wir operieren mit unsicheren Zahlen - es ist nicht einmal klar, wie hoch der Anteil der Ungeimpften bei den Corona-Intensivpatienten ist (siehe https://www.youtube.com/watch?v=m2lBN2PKw2w[hier]). In dieser Situation erwarte ich für eine Impf-Entscheidung keinen marginalen Grenz-Nutzen, ich erwarte, dass nicht einmal berechtigte Zweifel an der Sicherheit des Impfstoffes bestehen. Wir werden sehen, dass das in meine Augen nicht erfüllt ist.
+
 
 Zwischen diesen Aspekten ist eine Abwägung notwendig. Allerdings ist es nicht so, dass ein rechnerisches Todesfall-Risiko durch Corona von 1:1.000 zu sterben, das Risiko eines tödlichen Impfschadens von 1:2.000 rechtfertigen würde. Der Anspruch an einen Impfstoff ist, dass das Risiko eines tödlichen Impfschadens bei ca. 1:5.000.000 liegt (Grippe). Insbesondere wenn immer betont wird, der Impfstoff sei sicher, so ist dies diee Benchmark, die zu halten ist.
 
@@ -863,6 +870,10 @@ image::images/deltaomicronmutation.png[abc,align=center, width=70%]
 Sahra Wagenknecht über Lauterbach https://www.youtube.com/watch?v=hvQKE0bGq5U
 Lauterbach https://www.tichyseinblick.de/meinungen/karl-lauterbach-der-panik-verbreiter-als-gesundheitsminister/
 https://www.achgut.com/artikel/bericht_zur_coronalage_16.6.2020der_seltsame_professor
+
+Die gewünschte Schockwirkung erzielen“
+
+https://www.gppi.net/2021/05/05/die-gew%C3%BCnschte-schockwirkung-erzielen
 
 ==== Argument: Die Berichterstattung über Querdenker-Demos ist nicht ansatzweise neutral
 
