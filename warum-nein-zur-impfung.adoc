@@ -2,23 +2,23 @@
 :toc: left
 :sectnums:
 :xrefstyle: short
+:attribute-missing: warn
 
 [quote, Noam Chomsky]
 
-Impfverweigerer sollten den Anstand haben, sich aus der Gemeinschaft zu entfernen. [..] Wie sie an Nahrungsmittel kommen, ist ihr Problem.footnote:abc[Der inzwischen hochbetagte Intelektuelle gilt als Vordenker der politschen Linken https://thecord.ca/noam-chomsky-makes-comments-about-people-who-refuse-to-be-vaccinated-against-covid-19/[Orginalquelle], deutsche Übersetzung https://reitschuster.de/post/wie-das-impf-narrativ-kollabiert/[reitschuster.de] ]
+Impfverweigerer sollten den Anstand haben, sich aus der Gemeinschaft zu entfernen. [..] Wie sie an Nahrungsmittel kommen, ist ihr Problem.
+footnoteref:[noamchomskysource,Der inzwischen hochbetagte Intelektuelle gilt als Vordenker der politschen Linken https://thecord.ca/noam-chomsky-makes-comments-about-people-who-refuse-to-be-vaccinated-against-covid-19/[Quelle für Zitat auf Englisch], deutsche Übersetzung https://reitschuster.de/post/wie-das-impf-narrativ-kollabiert/[reitschuster.de]]
 
 == Wir müssen reden... Vorbemerkungen
 
-Angesichts immer schärfer Vorwürfe gegen die COVID-Impfverweigerer im öffentlichen Diskursfootnote:aggitation[Eine Auswahl: Ex-Bundespräsident Gauck nennt Impfgegner „Bekloppte“ https://www.faz.net/aktuell/politik/inland/joachim-gauck-greift-impfgegner-als-bekloppte-an-17532805.html[(FAZ)] / Der  https://www1.wdr.de/nachrichten/themen/coronavirus/corona-regeln-weihnachten-ungeimpfte-100.html[WDR] empfiehlt gegenüber "Familienmitgliedern, die sich aus Überzeugung nicht impfen (...)  klare Kante (zu) zeigen und ohne diese Personen (zu) feiern"] und dem Gefühl in der medialen Darstellung misrepräsentiert zu werden, möchte ich hier als Betroffener meine Position begründen. Ziel ist nicht die Missionierung, vielmehr möchte ich für Toleranz werben und dafür, dass die Entscheidung über die Impfung freiwillig bleibt.
+Angesichts immer schärfer Vorwürfe gegen die COVID-Impfverweigerer im öffentlichen Diskursfootnoteref:[aggitation,"Tyrannei der Ungeimpften" (Frank Ulrich Montgomery, Ehrenpräsident der Bundesärztekammer) / "Bekloppte" (Joachim Gauck, Ex-Bundespräsident) https://www.faz.net/aktuell/politik/inland/joachim-gauck-greift-impfgegner-als-bekloppte-an-17532805.html[(FAZ)] /  https://www1.wdr.de/nachrichten/themen/coronavirus/corona-regeln-weihnachten-ungeimpfte-100.html[WDR] empfiehlt "Familienmitgliedern, die sich aus Überzeugung nicht impfen (...)  klare Kante (zu) zeigen und ohne diese Personen (zu) feiern" / "Mein Geduldsfaden mit Lueten, die sich gegen eine Impfung entscheiden ist gerissen" (Daniel Günther, Ministerpräsident)] und dem Gefühl in der medialen Darstellung misrepräsentiert zu werden, möchte ich hier als Betroffener meine Position begründen. Ziel ist nicht die Missionierung, vielmehr möchte ich für Toleranz werben und dafür, dass die Entscheidung über die Impfung freiwillig bleibt.
 
 Ich versuche meine Familie und mich möglichst gesund durch diese schwierige Zeit bringen und verweigere die Impfung, weil ich die Gefahren gegenüber dem Nutzen als größer bewerte. Der vielfach in wohlmeinender Absicht geäußerte Analogie mit Rauchern, Trinkern, Extremsportlern geht fehl - ich gehe nicht aus Genusssucht oder Abenteuerlust Risiken ein, sondern versuche im Gegenteil, Risiken zu minimieren.
 
 *Impfverweigerer sind keine Egoisten - sie bewerten Risiken und Nutzen der Impfung anders*
 
 Politikern und Medien bringen vor, das Recht auf körperliche Unversehrtheit bedrohe das allgemeine Interesse nach Aufrechterhaltung des Gesundheitssystems.
-Die Impfverweigerung deuten sie als Egoismus, der zulasten der Gesellschaft ausgelebt werde.
-
-Das ist falsch! Mein Ziel ist der Erhalt meiner Gesundheit, damit kann ich nicht gleichzeitig das Gesundheitssystem belasten. Allerdings lehne ich die vorgeschlagenen Mittel, insbesondere die Impfung aufgrund einer Nutzen-Risiko-Betrachtung als untauglich ab - die Gründe für meine Bewertung werde ich unten ausführlich darlegen. Ausgehend von dieser Einschätzung ist es mir sogar moralisch geboten, mich nicht an dieser in meinen Augen schädlichen Maßnahme zu beteiligen.
+Die Impfverweigerung deuten sie als Egoismus, der zulasten der Gesellschaft ausgelebt werde. Das ist falsch! Ich möchte meine Gesundheit erhalten und kann kann damit nicht gleichzeitig das Gesundheitssystem belasten. Der Konflikt liegt nicht in der Zielsetzung, sondern in der Nutzen-Risiko-Betrachtung der Impfung - die Gründe für meine Sichtweise werde ich ausführlich darlegen. Ausgehend von dieser Einschätzung ist es mir sogar moralisch geboten, mich nicht an dieser in meinen Augen schädlichen Maßnahme zu beteiligen.
 
 Nun wären Transparenz, und ein Austausch von Argument und Gegenargument das probate Mittel im Umgang mit unterschiedlichen Meinungen. Dabei ist es auch mit guten Argumenten unrealistisch, 100{nbsp}% Zustimmung zu erhalten und am Ende ist das zu akzeptieren - schließlich sieht sich unsere Gesellschaft als pluralistisch und tolerant. Wer diesen Dissens nicht zu akzeptieren bereit ist, kann gleich jede Mitbestimmung eines Patienten in medizinischen Fragen streichen und das Votum von Expertengremien an ihre Stelle setzen.
 
@@ -40,9 +40,13 @@ Die Meinungsbildung findet von Oben nach Unten statt. Die für diese Beeinflussu
 Ich kann nachvollziehen, dass es für einen schwer Erkrankten, oder jemanden, der einen Angehörigen verloren hat, nur schwer erträglich ist, wenn die Krankheit relativiert wird - wenn man sich aber um diese Abwägung "drückt" riskiert man, dass unkontrolliert an anderer Stelle Schaden entsteht.
 Auch Opfer von Impfschäden haben Anspruch auf Verständnis, und auch Mitmenschen, die "nur" durch Einschränkung ihrer Grundrechte betroffen sind haben einen Anspruch darauf, dass die Maßnahmen auf Verhältnismäßigkeit geprüft werden.
 
-Von Beginn der Pandemie an ist die offenkundige notwendige Güterabwägung zwischen Nutzen und Schaden von Maßnahmen nie thematisiert worden. Die alarmierende Aussage "es sterben Menschen" ist nicht hinreichend. Um Verhälnismäßigkeit zu bewerten muss man die Wirksamkeit der Maßnahmen kennen. Hier vermisse ich, dass wenigstens nachträglich untersucht wird, was Lockdowns, Maskenmandate und Kontaktbeschränkungen genau gebracht haben.
+Von Beginn der Pandemie an ist die offenkundige notwendige Güterabwägung zwischen Nutzen und Schaden von Maßnahmen nie thematisiert worden. Die alarmierende Aussage "es sterben Menschen" hat jede Diskussion erstickt. Um Verhälnismäßigkeit zu bewerten muss man insbesondere auch die Wirksamkeit der Maßnahmen kennen. Hier vermisse ich, dass wenigstens nachträglich untersucht wird, was Lockdowns, Maskenmandate und Kontaktbeschränkungen genau gebracht haben.
 
 Die Abwägung zwischen dem einen oder anderem Schaden ist ein Thema der rationalen Ethik und insofern ein philosophisch anspruchsvolles Problem. Was ethisch geboten ist und was nicht, ist keineswegs so klar ist, wie es die Politiker darstellen.
+
+*Die neuen Pharisäer*
+
+Viele Handlungen, die man heute beobachtet scheinen eher die eigene Tugendhaftigkeit zur Schau zu stellen, als dass sie einem nachvollziehbaren Zweck dienen - sie wirken auf mich wie die demonstrative Frömmigkeit, die zu anderen Zeiten eher zur eigenen Glorifizierung, als zu derer Gottes zur Schau gestellt wurde. Vielleicht tue ich meinen Zeitgenossen unrecht, aber warum sitzt man mit Maske auf dem Fahrrad? Warum begrüßt man sich mit dem "Faust"-Gruß? Warum betont man so gerne, wieviel Rücksicht man auf "vulnerable Gruppen" legt, um dann https://www.youtube.com/watch?v=X8ceDQs2drg&t=63s[MS-Patienten, die Angst haben, die Impfung könne einen Schub auslösen] von der gesellschaftlichen Teilhabe auszuschließen, oder bevor man Krebs-Patienten, die früher keine Grippe-Impfung bekommen hätten zu versichern, die Impfung sei sicher? Wie kann man sich als https://www.youtube.com/watch?v=Efw7PAiNxIw&t=34s[linker Bürgerrechtler] sehen, wenn man begrüßt, dass die Obrigkeit repressiv gegen andere Bürger vorgeht.
 
 *Ein Hoch dem Schwurbeln - Für einen Dialog auf Augenhöhe*
 
@@ -230,7 +234,9 @@ qualitative Übereinstimmung. Interessant wäre, verschiedene Grippewellen unter
 
 Der Möglichkeit, dass COVID und Grippe sich graduell unterscheiden, trage ich mit dem Wort "ungefähr" in der Hypothese Rechnung. Bestätigt fühle ich mich in dem Paper darin, dass die Krankheiten nah beieinander liegen. *Die für mich entscheidende Aussage ist, dass die Maßnahmen in der COVID-Epidemie, Lockdowns, Ausg  Maskenmandate, 3G-2G-2GPlus, bis hin zur Impfpflicht und dem https://www.youtube.com/watch?v=UU2I9ZixJxo[Einkassieren von Grundrechten] nicht angemessen waren.*
 
-==== Argument: Die absoluten Todesfallzahlen für Corona liegen maximal im Bereich einer durchschnittlichen Grippewellefootnote:opferzahlenhinweis[Ich möchte ausdrücklich betonen, dass ich die Zahl von 10.000 Toten pro Jahr nur im Rahmen dieser Argeumentation verwende und sie eine Maximal-Abschätzung darstellt - in der Tat glaube ich, dass es in 2020 kein ausergewöhnliches Sterbegeschehen gab.]
+==== Argument: Die absoluten Todesfallzahlen für Corona liegen maximal im Bereich einer durchschnittlichen Grippewelle
+
+Ich möchte ausdrücklich betonen, dass ich die Zahl von 10.000 Toten pro Jahr nur im Rahmen dieser Argeumentation verwende und sie eine Maximal-Abschätzung darstellt - in der Tat glaube ich, dass es in 2020 kein ausergewöhnliches Sterbegeschehen gab.
 
 Um einen Vergleichspunkt zu haben, betrachten wir zunächst die Jährlichen Grippe-Toten.
 Wir sehen, dass nur alle paar Jahre eine wirkliche Grippe-Welle auftritt, diese dann aber zwischen 10 und 25 Taunsend Menschenleben kostet. die 25.000 wurde 2018 erneut erreicht (nicht im Scope dieses alten Diagramms). Wir stellen fest, dass im Betrachtungszeitraum seit 1990 (also in 30 Jahren)
@@ -803,7 +809,9 @@ und so weiter und so weiter (Link in der Bildunterschrift)
 [#pfizerviolationtracker,reftext='{figure-caption} {counter:refnum}']
 image::./images/pfizer-violation-track.PNG[]
 
-==== Argument: Berichte auf Social Media footnote:socialmdeia[Social Media schließt Messaging (Telegram) und Videoportale (z.B. Youtube, Rumble, Odyssee)]
+==== Argument: Berichte auf Social Media
+
+Social Media schließt Messaging (Telegram) und Videoportale (z.B. Youtube, Rumble, Odyssee)
 
 Generell stellt sich die Frage nach der Bewertung solcher Berichte, insbesondere wenn sie  anonym und ohne Quellen daherkommen.
 
@@ -855,6 +863,23 @@ image::images/deltaomicronmutation.png[abc,align=center, width=70%]
 Sahra Wagenknecht über Lauterbach https://www.youtube.com/watch?v=hvQKE0bGq5U
 Lauterbach https://www.tichyseinblick.de/meinungen/karl-lauterbach-der-panik-verbreiter-als-gesundheitsminister/
 https://www.achgut.com/artikel/bericht_zur_coronalage_16.6.2020der_seltsame_professor
+
+==== Argument: Die Berichterstattung über Querdenker-Demos ist nicht ansatzweise neutral
+
+Gerne wir https://www.facebook.com/watch/?v=221584989907069[geleungent,]
+https://twitter.com/extra3/status/1472501022102855681[dass das Land]
+https://www.rnd.de/politik/olaf-scholz-die-gesellschaft-ist-nicht-gespalten-LKZMUDSNIBCC7LVK5ZHUQKDYPA.html[gespalten] ist. Hierzu kann man sich mal zwei Berichte über eine Querdenker-Demo in Berlin anschauen. Die https://www.youtube.com/watch?v=NkRK9HCPiSs&t=1s[Welt schlägt sich einseitig auf Seite der Polizei]. Wären die Querdenker mal zu Hause geblieben, was fällt denen ein, auf eine Demo zu gehen, wo die doch verboten war? https://dejure.org/gesetze/GG/8.html[Art. 8 GG] findet keine Erwähnung, es wird auch nicht gefragt, ob die Härte der Polizei gegen offenkundig ältere Herrschaften gerechtfertigt war... Querdenker, Spinner, Wutbürger - sollen doch zu Hause Querdenken. Auch als sich der UN-Beauftragte für Folter einschaltet, steht der  https://www.tagesspiegel.de/berlin/angeblich-unrechtmaessige-polizei-gewalt-in-berlin-geht-der-un-beauftragte-fuer-folter-den-querdenkern-auf-den-leim/27493544.html[Mainstream fest zur Obrigkeit]. Um einen anderen Blick auf die Vorgänge zu bekommen, muss man auf https://odysee.com/@eingeSCHENKt:0/querdenker-in-berlin-gejagt-wie:0[odysee] suchen.
+
+Es bleibt festzuhalten, dass wir inzwischen in unterschiedlichen Realitäten leben. Ich selbst stehe da natürlich auf der Seite der "Querdenker", aber es ist gar nicht mein Apell an die Medien, diese Sicht zu übernehmen. Meine Erwartung wäre vielmehr, beiden Seiten Ansätze zu bieten, die die Weltsicht der Gegenseite verständlich machen und so die entstehende Kluft zu schließen. Dabei versagen die Medien in meinen Augen völlig.
+
+Der Preis, den die Medien dafür zahlen ist der Verlust an Glaubwürdigkeit bei der gar nicht so kleinen Minderheit. Wenn eine Zeitung, die meine Erwartungen an Berichterstattung so enttäuscht hat, nun die Sicherheit der Impfung lobt, hat das auf mich keine besondere Wirkung mehr.
+
+https://www.youtube.com/watch?v=NkRK9HCPiSs&t=1s
+
+
+
+
+
 
 ==== Argument: Spenden an Medien durch Stiftungen
 Der
