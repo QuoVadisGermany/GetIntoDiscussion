@@ -201,11 +201,22 @@ image::./images/Destatis-Übersterblichkeit-Highlighted.png[width=80%,align="cen
 
 ===== 2021: Oops - I did it again
 
-Ich hatte ja berichtet, dass 2020 im Dezember die Zahlen korrigiert wurden und bedauert, dass ich das nicht dokumentiert habe. Was soll ich sagen? Mit Datum 9.12.2021 kann das Bundesamt für Statistik sagen "Oops, I did it again". In einem Beitrag von diesem Datuim stellt man
+Ich hatte ja berichtet, dass 2020 im Dezember die Zahlen korrigiert wurden und bedauert, dass ich das nicht dokumentiert habe. Was soll ich sagen? Mit Datum 9.12.2021 kann das Bundesamt für Statistik sagen "Oops, I did it again". In einem Beitrag von diesem Datuim stellt man eine neue Graphik bereit, die irgendwie anders aufbereitet ist <<uebersterblichkeit21bearbeitet>>. Der begleitende Text bietet
 
 Ich habe oben noch das im November abgerufene Diagramm <<uebersterblichkeit21>> gezeigt.
 
+[#uebersterblichkeit21bearbeitet,reftext='{figure-caption} {counter:refnum}']
 image::uebersterblichkeit-with-a-vengance.png[]
+
+Das Diagram wirft eine Reihe von Fragen auf:
+
+* Legt man die Kurve aus <<uebersterblichkeit21>> in das Diagramm, so ergibt sich in dieser Darstellung eine Überzeichnung der Übersterblichkeit.
+
+* Die Kurven sehen im Vergleich zu <<uebersterblichkeit21>> sehr grob und unbehauen aus / als habe man pro Monat nur einen Datenpunkt. Details wie der Spike in KW24 unt in KW35 in  <<uebersterblichkeit21>> verschwimmen hier.
+
+* Legt man die Diagramme übereinander
+
+* abc
 
 ==== Argument: Aus der Altersstruktur der Todesfälle lässt sich ablesen, dass mittlere und junge Jahrgänge kaum betroffen sind.
 
@@ -638,6 +649,14 @@ Schon länger wird in meiner Filterblase berichtet, die Kliiniken hätten Mitarb
 
 Ich habe öfter das Argument gehört, innerhalb von Kliniken gelte Filmverbot und es sei  normal, dass ein Mitarbeiter nicht einfach Interna seines Arbeitgebers nach außen geben dürfe. Freilich ist es OK, wenn https://www.youtube.com/watch?v=UBXkj2BJJes[Klinikpersonal sich für das offizielle Narrativ einspannen lässt] oder https://www.youtube.com/watch?v=be7wxojWtOk[sich systemkonform äußert]. Ich widerspreche dieser Argumentation. Was auf den Intensivstationen (angeblich) passiert, wird täglich genutzt, um uns zu erpressen. Es ist nicht "interne Information" der Kliniken, wieviele Geimpfte bzw. Ungeimpfte auf Intensivstation sind - das ist in dieser Situation von absolutem Öffentlichen Interesse und die Unterdrückung von Berichten, die dem offiziellen Narrativ widersrpechen ist eine Sauerei! Auf keinen Fall kann man das mit einem BMW-Mitarbeiter vergleichen, der irgendwelche Betriebsgeheimnisse ausplaudert.
 
+.Grund eines Rausschmisses
+[#tiffanydoveramongstcolleagues,reftext='{figure-caption} {counter:refnum}']
+image::images/rausgeschmissen02.png[]
+
+
+
+https://www.tichyseinblick.de/daili-es-sentials/die-universitaet-halle-schasst-ihren-star-virologen-alexander-kekule/
+
 ====== Probleme bei Schwangerschaft und Kinderwunsch
 
 Fehlgeburten gehören früh zu den häufiger berichteten Problemen. Mehrfach habe ich Audio-Files mit vorgeblichen Stellungnahmen von Kinderwunsch-Medizinern gehört, die von einer drastisch reduzierten Erfolgsrate bei der IVF berichteten. Eine https://investors.biontech.de/de/news-releases/news-release-details/pfizer-und-biontech-veroeffentlichen-weitere-daten-aus-phase-3[Mitteilung von Pfizer/Biontech aus dem April] enthält den Hineweis: "Die bisher verfügbaren Daten zum Pfizer-BioNTech COVID-19-Impfstoff sind unzureichend, um eine Aussage zu den Risiken bei Schwangeren zu machen." Im Dezember 2021 wurde mir ein kurzes Video zugesand, in dem https://www.theglobeandmail.com/canada/article-ontario-mpp-rick-nicholls-out-as-deputy-speaker-at-legislature-after/[Rick Nicholls], ein Impf-kritischer Abgeordneter im Parlament der kanadischen Provinz Ontario von einer dramatischen Häufung von Todgeburten (angeblich 86 von Januar bis Juli statt üblicherweise 4) berichtet.
@@ -856,6 +875,10 @@ Natürlich ist es angemessen, diesen Berichten mit gesundem Misstrauen zu begegn
 === Die  Methode Prokrustes (was nicht passt, wird passend gemacht)
 
 https://www.pi-news.net/2021/12/die-luege-des-dr-tschentscher-ist-ueberall/[90% lüge]
+
+image::images/faktencheckerunddiefakten.png[]
+
+https://jungefreiheit.de/debatte/kommentar/2021/tschentscher-hauptsache-die-erzaehlung-stimmt/
 
 https://jungefreiheit.de/politik/deutschland/2021/281031/
 
