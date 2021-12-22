@@ -64,6 +64,16 @@ Hierzu erwiedere ich:
 
 Ich nehme mir die Frechheit heraus, meine Informationsquellen selbst zu wählen und mir meine eigenen Gedanken zu machen, ob das GEZ-Gefütterten Talkshowmillionären passt oder nicht! Es lebe das Selber-Denken, ob kreuz oder quer!
 
+*Ich könnte mich ja irren*
+
+Heute wird
+
+Lisa Fitz nannte in einer Comedy-Sendung, die Zahl von https://www.rnd.de/medien/lisa-fitz-verbreitet-in-swr-comedysendung-falsche-zahlen-ueber-impftote-Z75NRG7MGZAHDDOPX56TG6ZWBQ.html[5.000 Impftoten]. Diese Sendung wurde daraufhin zensiert, denn https://www.rnd.de/medien/lisa-fitz-in-spaetschicht-swr-sieht-beitrag-nicht-mehr-von-meinungsfreiheit-gedeckt-5QK4ICYCBNDG7PK623KFYM6D5M.html[Falschbehauptungen fielen nicht unter Meinungsäußerung]. Dieser Vorgang ist sinnbildlich für die neue Interpretation dieses Grundrechts. Dabei ergeben sich Fragen:
+
+* Durch die Behauptung hat sich Lisa Fitz unkluger Weise
+
+* Auch Politiker operieren öfter mit unwahren Behauptungen.
+
 *Hinweis*
 
 Ich schildere nun meine Gedanken zu dieser Abwägung.
@@ -89,18 +99,21 @@ Die wichtigsten Fragen betreffen den Einfluss von Corona und Impfung auf die eig
 
 Es gilt hier also, eine Nutzen-Risiko-Abwägung zu treffen. Hierzu das folgende:
 
-* Wer mich zu einer Rechtfertigung nötigt, warum ich nicht geimpft bin, stellt die Beweislast auf den Kopf. Ich sehe Staat und Pharma-Konzerne in der Pflicht, dem skeptischen Bürger die Sicherheit des Impfstoffes zu beweisen, nicht umgekehrt.
+* Wer von mir eine Rechtfertigung fordert, warum ich nicht geimpft bin (gemeint ist nicht der Leser dieser Zeilen, den hoffentlich wohlwollende Neugier antreibt, sondern so mancher Zeitgenosse, der diese Rechtfertigung fordert, dann aber nicht anhören möchte), stellt die Beweislast auf den Kopf. Ich sehe Staat und Pharma-Konzerne in der Pflicht, dem skeptischen Bürger die Sicherheit des Impfstoffes zu beweisen, nicht umgekehrt.
 
 * Wir operieren mit unsicheren Zahlen - es ist nicht einmal klar, wie hoch der Anteil der Ungeimpften bei den Corona-Intensivpatienten ist (siehe https://www.youtube.com/watch?v=m2lBN2PKw2w[hier]). In dieser Situation erwarte ich für eine Impf-Entscheidung keinen marginalen Grenz-Nutzen, ich erwarte, dass nicht einmal berechtigte Zweifel an der Sicherheit des Impfstoffes bestehen. Wir werden sehen, dass das in meine Augen nicht erfüllt ist.
 
+* Teil des hippokratischen Eides und somit traditionell verwurzelter Grundsatz der medizinishen Ethik ist ein antikes Zitat, das in seiner Gänze lautet "https://de.wikipedia.org/wiki/Primum_non_nocere[primum non nocere], secundum cavere, tertium sanare” (deutsch: „erstens nicht schaden, zweitens vorsichtig sein, drittens heilen“). Hier wird der Vermeidung von Schaden Vorang vor der Heilung gegeben - mit anderen Worten wird der Arzt ermahnt, nicht in übergroßem Zutrauen auf den Nutzen einer Behandlung Schaden zu akzeptieren. Nebenwirkungen von Arzneimitteln werden daher nur akzeptiert, wenn sie sehr selten auftreten, auch ein vermeindlicher Nutzen rechtfertigt einen absehbaren Schaden nicht. In Fällen, in denen von diesem Grundsatz abgewichen wird, z.B. bei der Behandlung schwerer Krebserkrankungen.
 
-Zwischen diesen Aspekten ist eine Abwägung notwendig. Allerdings ist es nicht so, dass ein rechnerisches Todesfall-Risiko durch Corona von 1:1.000 zu sterben, das Risiko eines tödlichen Impfschadens von 1:2.000 rechtfertigen würde. Der Anspruch an einen Impfstoff ist, dass das Risiko eines tödlichen Impfschadens bei ca. 1:5.000.000 liegt (Grippe). Insbesondere wenn immer betont wird, der Impfstoff sei sicher, so ist dies diee Benchmark, die zu halten ist.
+* Im zugegebenermaßen laienhaften Gespräch begegnet mir eine Einstellung, die 10.000 Herzinfakttote durch "Rettung" von 100.000 Corona-Toten rechtfertigt. Ich finde diese Haltung moralisch bedenklich und möchte darauf verweisen, dass beim https://de.wikipedia.org/wiki/Contergan-Skandal[Contergan-Skandal], einem der größten Medizin-Skandale die Opferzahl "nur" 4.000 beträgt. Zu den moralischen Schwierigkeiten bei der Abwägung gibt es eine tolle https://www.youtube.com/watch?v=kBdfcR-8hEY[Videoserie] der Universität Harvard.
 
-Grundsätzlich gilt nach dem ärztlichen https://de.wikipedia.org/wiki/Primum_non_nocere[Grundsatz  “primum non nocere] , secundum cavere, tertium sanare” (deutsch: „erstens nicht schaden, zweitens vorsichtig sein, drittens heilen“).. Dieser Grundsatz ordnet die Heilung der Vermeidung von Schaden unter. Damit soll vermieden werden, dass ein Arzt, der ja berufsbedingt vielleicht ein übergroßes Zutrauen in seine Behandlung hat, dmit dem potentiellen Nutzen voreilig bereit ist, seinen Patienten zu schaden.
+Um einen Richtwert für die Sicherheit heutiger Impfstoffe zu setzen habe ich ein Verhältnis von einem tödlichen Impfstoff zu mehreren Millionen Impfungen recherchiert. Das bedeutet, selbst ein Verhältnis 1:100.000 würde eine Not-Situation erfordern, ließe sich also nicht mit einer Krankheit rechtfertigen, deren Gefährlichkeit die einer Grippe nicht um Größenordnungen übersteigt.
+
+*Diese Überlegungen sind theoretischer Natur, ich werde quantitativ zeigen, dass die Impfung mir absolut mehr schadet als nutzt.*
 
 === Fragen nach der gesellschaftlichen Verantwortung
 
-Diese Fragen sind nachrangig. Erst, wenn die erste Fragegruppe zu keinem schlüssigen Ergebnis kommt, werden diese Fragestellungen relevant.
+Obgleich stark beworben (#Solidarität), sind diese Fragen nachrangig. Erst, wenn die erste Fragegruppe zu keinem schlüssigen Ergebnis kommt, würden diese Fragen greifen. Wenn die erste Fragegruppe aufzeigt, dass dem Individuum die Impfung eher schadet als nutzt, wäre es nach meinem Empfinden verfehlt, es zu dieser drängen.
 
 * Ist das Impfen wirklich ein Beitrag für die Rückkehr zur gesellschaftlichen Normalität?
 
@@ -184,6 +197,15 @@ image::./images/Destatis-Übersterblichkeit-Highlighted.png[width=80%,align="cen
 
 //.Die Graphik der Corona-Toten in Deutschland zeigt den Gesamtverlauf über zwei Jahre. Man sieht das Maximum am Jahreswechsel und den Abfall mit der Schulter im Frühjahr - dies entspricht der Graphik in der Übersterblichketisstatistik.
 //image::./images/corona-tote-deutschland.png[width=80%,align="center"]
+
+
+===== 2021: Oops - I did it again
+
+Ich hatte ja berichtet, dass 2020 im Dezember die Zahlen korrigiert wurden und bedauert, dass ich das nicht dokumentiert habe. Was soll ich sagen? Mit Datum 9.12.2021 kann das Bundesamt für Statistik sagen "Oops, I did it again". In einem Beitrag von diesem Datuim stellt man
+
+Ich habe oben noch das im November abgerufene Diagramm <<uebersterblichkeit21>> gezeigt.
+
+image::uebersterblichkeit-with-a-vengance.png[]
 
 ==== Argument: Aus der Altersstruktur der Todesfälle lässt sich ablesen, dass mittlere und junge Jahrgänge kaum betroffen sind.
 
