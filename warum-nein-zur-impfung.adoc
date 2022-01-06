@@ -17,8 +17,11 @@ Ich versuche meine Familie und mich möglichst gesund durch diese schwierige Zei
 
 *Impfverweigerer sind keine Egoisten - sie bewerten Risiken und Nutzen der Impfung anders*
 
-Politikern und Medien bringen vor, das Recht auf körperliche Unversehrtheit bedrohe das allgemeine Interesse nach Aufrechterhaltung des Gesundheitssystems.
-Die Impfverweigerung deuten sie als Egoismus, der zulasten der Gesellschaft ausgelebt werde. Das ist falsch! Ich möchte meine Gesundheit erhalten und kann kann damit nicht gleichzeitig das Gesundheitssystem belasten. Der Konflikt liegt nicht in der Zielsetzung, sondern in der Nutzen-Risiko-Betrachtung der Impfung - die Gründe für meine Sichtweise werde ich ausführlich darlegen. Ausgehend von dieser Einschätzung ist es mir sogar moralisch geboten, mich nicht an dieser in meinen Augen schädlichen Maßnahme zu beteiligen.
+Politiker und Medien bringen vor, das Recht auf körperliche Unversehrtheit bedrohe das allgemeine Interesse nach Aufrechterhaltung des Gesundheitssystems.
+Die Impfverweigerung deuten sie als Egoismus, der zulasten der Gesellschaft ausgelebt werde. Das ist falsch! Ich möchte meine Gesundheit erhalten und kann damit nicht gleichzeitig das Gesundheitssystem belasten.
+Nicht die Zielsetzung des Gesundheitsschutzes ist Gegenstand des Konfliktes, sondern eine andere Einschätzung bezüglich Nutzen und Risiken der Impfstoffe. Im Laufe der Diskussionen mit Befürwortern der Corona-Politik gelange ich zu dem Eindruck, es geht dabei nicht um die sachlich andere Positionierung, sondern um die Anmaßung, mir persönlich überhaupt eine Meinung bilden zu wollen. Entsprechend sehe ich mich nicht mit Sachargumenten, sondern mit Empörung und moralischer Abwertung konfrontiert. Ich
+
+Gründe für meine Sichtweise werde ich ausführlich darlegen. Ausgehend von dieser Einschätzung ist es mir sogar moralisch geboten, mich nicht an dieser in meinen Augen schädlichen Maßnahme zu beteiligen.
 
 Nun wären Transparenz, und ein Austausch von Argument und Gegenargument das probate Mittel im Umgang mit unterschiedlichen Meinungen. Dabei ist es auch mit guten Argumenten unrealistisch, 100{nbsp}% Zustimmung zu erhalten und am Ende ist das zu akzeptieren - schließlich sieht sich unsere Gesellschaft als pluralistisch und tolerant. Wer diesen Dissens nicht zu akzeptieren bereit ist, kann gleich jede Mitbestimmung eines Patienten in medizinischen Fragen streichen und das Votum von Expertengremien an ihre Stelle setzen.
 
@@ -74,10 +77,9 @@ Lisa Fitz nannte in einer Comedy-Sendung, die Zahl von https://www.rnd.de/medien
 
 * Auch Politiker operieren öfter mit unwahren Behauptungen.
 
-*Hinweis*
+*Hinweise*
 
-Ich schildere nun meine Gedanken zu dieser Abwägung.
-Wenn nicht anders gesagt, beziehen sich Zahlen auf Deutschland. Der Verständlichkeit halber werde in der Folge selbst von Kritikern und Befürwortern der *Impfung* sprechen und damit ein Framing der Pharma-Lobby übernehmen. Dieses spricht gerne von Impf-Kritikern und leugnet damit die Neuartigkeit der mRNA Impfstoffe und den Fakt, dass wir bei keinem traditionellen Impfstoff derart viele Nebenwirkungen beobachtet haben. Daher an dieser Stelle der Hinweis: Ich bin durchgeimpft, Ich habe mein Kind durchimpfen lassen - ich bin kein Impf-Kritiker, aber ich verweigere die COVID-Impfung und beharre darauf, dass die Covid-Vakzine **keine gewöhnlichen Impfstoffe** sind. Analogien, z.B. zur Impfpflicht bei Pocken und Masern gehen vollkommen am Thema vorbei.
+Wenn nicht anders gesagt, beziehen sich Zahlen auf Deutschland. Der Verständlichkeit halber werde in der Folge selbst von *Impfung* sprechen (also auch von Impf-Kritikern) und damit ein Framing der Pharma-Lobby übernehmen. Stellvertretend für alle anderen Stellen weise ich hier darauf hin, dass die mRNA-Impfstoffe keine traditionellen Impfstoffe sind und Analogien, z.B. zur Impfpflicht bei Pocken und Masern am Thema vorbei gehen. Ebenso sehe ich mich als Impf-Kritiker falsch repräsentiert - Ich bin durchgeimpft und habe mein Kind durchimpfen lassen, aber ich verweigere diese COVID-Impfung.
 
 == Welche Fragestellungen sind relevant für die Impfentscheidung?
 
@@ -156,7 +158,7 @@ Wenn ich die Gefährlichkeit der Epidemie in Frage stelle bestreite ich natürli
 
 ===== Es gab 2020 keine Übersterblichkeit
 
-* Das Statistische Bundesamt stellt Daten zur Sterblichkeit bereit, entweder als Grafik aufbereitet, oder in Rohdaten.
+* Das Statistische Bundesamt stellt https://www.destatis.de/DE/Themen/Querschnitt/Corona/Gesellschaft/bevoelkerung-sterbefaelle.html[Daten zur Sterblichkeit bereit], entweder als Grafik aufbereitet, oder in Rohdaten.
 Diese habe ich 2020 fortlaufend beobachtet und keine Übersterblichkeit festgestellt.
 
 * Im November oder Dezember 2020 (ich habe das damals nicht dokumentiert) wurden rückwirkend die Zahlen ab September angehoben, sodass sich ab diesem Zeitpunkt eine Übersterblichkeit ergeben hat - allerdings nur bezogen auf den Herbst, nicht auf das Gesamtjahr.
@@ -192,12 +194,12 @@ Freilich dauerte sie 2 Monate und nicht 2 Wochen - insofern liegt auch die Opfer
 [#uebersterblichkeit21,reftext='{figure-caption} {counter:refnum}']
 image::./images/Destatis-Übersterblichkeit-Highlighted.png[width=80%,align="center"]
 
-
 *In Summe lässt sich festhalten, dass das Sterbegeschehen im Jahr mit Impfung höher war, als im Jahr Ohne Impfung und das Corona derzeit keinen deutlichen Einfluss mehr auf die Übersterblichkeit hat.*
 
 //.Die Graphik der Corona-Toten in Deutschland zeigt den Gesamtverlauf über zwei Jahre. Man sieht das Maximum am Jahreswechsel und den Abfall mit der Schulter im Frühjahr - dies entspricht der Graphik in der Übersterblichketisstatistik.
 //image::./images/corona-tote-deutschland.png[width=80%,align="center"]
 
+https://www.destatis.de/DE/Themen/Querschnitt/Corona/Gesellschaft/bevoelkerung-sterbefaelle.html
 
 ===== 2021: Oops - I did it again
 
@@ -205,18 +207,27 @@ Ich hatte ja berichtet, dass 2020 im Dezember die Zahlen korrigiert wurden und b
 
 Ich habe oben noch das im November abgerufene Diagramm <<uebersterblichkeit21>> gezeigt.
 
+.bildtext
 [#uebersterblichkeit21bearbeitet,reftext='{figure-caption} {counter:refnum}']
 image::uebersterblichkeit-with-a-vengance.png[]
 
 Das Diagram wirft eine Reihe von Fragen auf:
 
-* Legt man die Kurve aus <<uebersterblichkeit21>> in das Diagramm, so ergibt sich in dieser Darstellung eine Überzeichnung der Übersterblichkeit.
+* Die Kurven sehen im Vergleich zu <<uebersterblichkeit21>> sehr grob und unbehauen aus / als habe man pro Monat nur einen Datenpunkt. Details wie der Spike in KW24 unt in KW35 in  <<uebersterblichkeit21>> verschwimmen hier. Ich kenne als Physiker die Möglichkeit, durch Anpassung des "binnings" Peaks entstehen und verschwinden lassen - da ich davon ausgehen muss, dass das Statistische Bundesamt genug Daten für eine genaue Darstellung hat, sehe ich das als Auffälligkeit.
 
-* Die Kurven sehen im Vergleich zu <<uebersterblichkeit21>> sehr grob und unbehauen aus / als habe man pro Monat nur einen Datenpunkt. Details wie der Spike in KW24 unt in KW35 in  <<uebersterblichkeit21>> verschwimmen hier.
+* Legt man die Kurve aus <<uebersterblichkeit21>> in das Diagramm, so ergibt sich in dieser Darstellung eine Überzeichnung der Übersterblichkeit in der 2. Welle.
 
-* Legt man die Diagramme übereinander
+* Was in diesem Diagram (<<uebersterblichkeit21bearbeitet>>) als 3. Welle bezeichnet wird (KW 20 bis 25), ist die Schulter, die in der Statistik der Todesfälle bzw. in der normalen Übersterblichkeitsstatistik <<coronatotedeutschland>> bzw.  <<uebersterblichkeit21>> als Schulter sichtbar ist.
 
-* abc
+* In <<uebersterblichkeit21>> sieht man relativ genau, dass die 3. Welle in KW20 beendet ist und zu diesem Zeitpunkt die Impfkampage
+
+* Interessant ist auch, dass das Diagramm Mitte Oktober abbricht. Die in den Herbst hinein
+
+.bildueberschrift
+[#coronatotedeutschland,reftext='{figure-caption} {counter:refnum}']
+image::images/corona-tote-deutschland.png[]
+
+<<coronatotedeutschland>>
 
 ==== Argument: Aus der Altersstruktur der Todesfälle lässt sich ablesen, dass mittlere und junge Jahrgänge kaum betroffen sind.
 
@@ -227,6 +238,8 @@ Unter 60-jährige bilden weniger als 5% der Todesfälle.
 .Todesfälle in Zusammenhang mit dem Coronavirus (COVID-19) in Deutschland nach Alter und Geschlecht (Quelle: de.statista.com)
 [#coviddeathbyage,reftext='{figure-caption} {counter:refnum}']
 image::./images/statista-altersstruktur-corona-tote.png[width=80%,align="center"]
+
+<<coviddeathbyage>>
 
 * Die als Corona-Opfer gezählten Toten gehören in der Mehrzahl Alterskohorten an, in denen eine hohe Sterblichkeit nichts auffälliges ist.
 
@@ -325,6 +338,8 @@ Zurück zur Frage der Mortalität: Die Mortalität der Grippe (0,37%) liegt im S
 
 ==== Argument: Alternativen zur Impfung werden nicht mit der Energie untersucht, die man in einer verzweifelten Pandeminesituation unterstellen würde.
 
+===== Medikamente
+
 Die Mortalität einer Krankheit ist ja keine Naturkonstante, sondern hängt davon ab, wie man behandelt. Bei einer neuen Krankheit würde ich daher erwarten, dass die Mortalität gerade zu Beginn durch schnell sinkt.
 
 Auffällig ist, dass die Behandlung von Corona im Mainstream nie groß thematisiert wurde. 2020 drang kurzzeitig durch, dass die anfangs zu bereitwillig vorgenommene künstliche Beatmung (die einen schweren Eingriff darstellt) möglicherweise für eine höhere Sterblichkeit verantwortlich sei - man muss sich vor Augen führen, dass die betroffenen zumeist hochbetagt und vorerkrankt sind. Diese Debatte ist aber schnell wieder verschwunden.
@@ -358,6 +373,21 @@ Wie plausibel ist das? Da ist man schier am Verzweifeln über die ganzen Toten, 
 Eine immer wieder auftretende Stilblüte lässt sich an dieser Episode auch illustrieren: Das Muster "Es gibt keine Beweise" ( https://www.medizin-transparent.at/ivermectin-corona/[Ivermectin gegen Corona: möglicherweise wirkungslos], https://www.cochrane.de/de/news/ivermectin-keine-evidenz-f%C3%BCr-wirksamkeit-gegen-covid-19[Ivermectin: Keine Evidenz für Wirksamkeit gegen COVID-19]) Dabei werden häufig gerade von denjenigen, die das offizielle Narrativ hinterfragen immer Beweise gefordert, oft von den Leuten, die Transparenz entgegenarbeiten.
 
 *Mein Eindruck ist, dass es eher um die Impfung geht, als um die Behandlung der Erkrankung.*
+
+===== Manipulieren mit Neologismen
+
+*Natürliche Immunität oder Schmuzige Impfungen*
+
+Da die Omikron-Variante des Virus https://www.focus.de/gesundheit/coronavirus/grund-fuer-milderen-verlauf-neue-studie-macht-hoffnung-omikron-greift-die-lunge-seltener-an_id_33652948.html[weniger gefährlich] ist, sehen manche https://www.dailyadvent.com/de/news/01a908eb449e8e0bfe2822c448c4c021[eine Chance auf Herdenimmunität] ohne Impfung
+("Das Omikron-Coronavirus breitet sich rasend schnell aus. Damit wächst die Chance für eine baldige Immunisierung der Bevölkerung."
+https://www.welt.de/politik/deutschland/plus235976346/Omikron-Bedeutet-dass-das-Virus-keine-relevante-Bedrohung-mehr-fuer-das-Gesundheitssystem-darstellt.html[(WELT)]). Am 5.1.2022 tritt Lauterbach solchen Erwägungen entgegen und https://www.aerztezeitung.de/Politik/Lauterbach-gegen-schmutzige-Impfung-425805.html[spricht dabei von "schmutzigen Impfungen"] als sei dies ein fester Begriff. Da ich diesen Ausdruck nie gehört habe (aber ich bin ja auch kein Arzt) kam mir gleich der Verdacht, dass hier ein abwertender Neologismus geschaffen wird. Ich habe also nach der Begriffsverwendung gesucht.
+Die Abfrage des Begriffs "schmutzige Impfung" führen ausschließlich auf das frische Zitat von Lauterbach. Auch wenn man den Begriff "Masern" ergänzt, kommt man nicht zu den berüchtigten
+https://de.wikipedia.org/wiki/Masernparty[Masernparties], sondern wie der Screen-Shot (vgl <<schmuzigeimpfungen>>) zeigt ausschließlich zu Stellen, bei denen der Begriff Schmutzig irgendwie in der Nähe des Begriffs Impfung steht (auffällig oft und gewissermaßen plausibel im Kontext zu Tetanus-Impfungen, die ja durch Verunreinigungen von Verletzungen verursacht werden). *Auch wenn ich sicher bin, dass viele auf die etablierte Wortschöpfung aufspringen werden und sich diese Suchergebnisse in einigen Monaten nicht reproduzieren lassen schließe ich, dass hier eine neue Wortschöpfung Alternativen Abwertet mit dem Ziel die Impfung zu promoten.*
+
+[#schmuzigeimpfungen,reftext='{figure-caption} {counter:refnum}']
+.Google Abfrage zum Begriff "schmutzige Impfung Masern" zeigt keinen Hinweis auf einen gebrauch dieses Begriffes für mutwillige Ansteckung mit einer Infektionskrankheit.
+image::./images/schmutzigeimpfungen.PNG[width=80%,align="center"]
+
 
 ==== Argument: Die regionalen Hot-Spots zeigen nicht die Gefährlichkeit
 
@@ -448,9 +478,7 @@ Auch andere Quellen aus der Gegenöffentlichkeit, z.B. https://uncutnews.ch/stud
 [#tabelle3,reftext='{figure-caption} {counter:refnum}']
 image::images/rki-wobericht-tab3.png[align="center",width=80%]
 
-
-
-Als Nachtrag "geistern" noch weitere Aussagen durch Social Media:
+Auf Social Media gibt es weitere Aussagen, die ich zum Teil nicht prüfen kann:
 
 * Geimpfte Patienten, die zu wenige Antikörper haben, werden als ungeimpft gezählt.
 
@@ -464,8 +492,18 @@ Als Nachtrag "geistern" noch weitere Aussagen durch Social Media:
 
 * Sehr missverständliche Definitionen erwecken zumindest den Verdacht, dass man die Dehnbarkeit von Begriffen ausnutzt (Geimpfte sind asymptotische Personen mit Imfausweis vgl. https://www.gesetze-im-internet.de/schausnahmv/BJNR612800021.html[SchAusnahmV])
 
-
 Natürlich springen correctiv und co. der Obrigkeit zur Seite (https://www.tagesschau.de/faktenfinder/ungeimpfte-covid-patienten-101.html[ARD], https://correctiv.org/faktencheck/2021/11/03/nein-geimpfte-zaehlen-nicht-als-ungeimpfte-sobald-sie-symptome-entwickeln/[Correctiv]) und kanzeln das als "unbewiesen" ab. Es bleibt feszuhalten, dass hier Aussage gegen Aussage steht. Entweder die https://uncutnews.ch/studie-in-the-lancet-die-mehrheit-der-derzeit-infizierten-und-toten-in-deutschland-dem-vereinigten-koenigreich-israel-und-den-usa-ist-vollstaendig-geimpft/[Mehrheit der Infizierten ist Geimpft] oder 90% der Patienten sind ungeimpft, wie Politiker und Medien nicht müde werden, zu behaupten.
+
+*Lügen haben kurze Beine*
+
+Mittlerweile hat es Kreise gezogen, dass die von Politikern vorgetragenen Zahlen (90% der Intensivpatienten sind ungeimpft) grob falsch sind. siehe https://www.welt.de/politik/deutschland/article235803198/Geimpfte-und-Ungeimpfte-Falsche-Covid-Zahlen-Amtspraesident-in-Bayern-wird-versetzt.html[hier]
+
+* abc
+
+.ddd
+[#fdpschwurbler,reftext='{figure-caption} {counter:refnum}']
+image::image-2022-01-05-13-38-06-425.png[align="center",width=80%]
+
 
 ==== Argument: Kann der Geimpfte andere anstecken?
 
