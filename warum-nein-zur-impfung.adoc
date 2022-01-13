@@ -12,9 +12,9 @@ Angesichts der zunehmenden Polarisierung der Gesellschaft, die durch immer schä
 
 Dieser Text ist in folgende Abschnitte gegliedert
 
-. Politik und Medien vergiften den Diskurs zu den Themen COVID und Impfung und gefährden damit die Demokratie. Wir dürfen nicht die Fähigkeit verlieren, der Gegenseite zumindest zuzuhören!
-. Hier stelle ich zunächst die Kriterien dar, die ausschlaggebend für meine eigene Impf-Entscheidung sind und gewichte diese gegeneinander.
-. Ich stelle Hypothesen zu zu den Themen COVID-Epidemie, mRNA-Impfungen und politisch-gesellschaftliche Situation auf und beleuchte diese mit Pro-und-Contra-Argumenten.
+. Die Mächtigen vergiften den Diskurs zu den Themen COVID und Impfung und drängen so abweichende Positionen aus der Debatte. So formen sie die öffentliche Meinung und unterminieren die Demokratie. Die Minderheit der Verweigerer gesetzlich zur Impfung zu zwingen, ohne ihre Argumente zu hören ist despotisch! Lasst uns die Spaltung überwinden und einander zuhören.
+. Hier stelle ich zunächst die Kriterien dar, die ausschlaggebend für meine eigene Impf-Entscheidung sind und gewichte diese gegeneinander. Trotz aller Mahnung zur https://www.bundesgesundheitsministerium.de/presse/interviews/interviews/swp-220620.html[Geschlossenheit] steht dabei die Risiko-Nutzen-Abwägung der Impfung für das Individuum im Mittelpunkt.
+. Ich stelle Hypothesen zu zu den Themen COVID-Epidemie, mRNA-Impfungen und politisch-gesellschaftliche Situation auf und beleuchte diese mit Pro-und-Contra-Argumenten. Soweit möglich, versuche ich diese an objektive Messgrößen oder Beobachtungen zu koppeln und meine Schlussfolgerungen, obwohl subjektiv, verständlich zhu machen.
 . Hier leite ich meine ablehnende Impf-Entscheidung ab.
 
 *Hinweise*
@@ -128,11 +128,15 @@ Die Mehrheiten werden heute durch mediales Trommelfeuer gebildet, nicht durch ei
 
 Die Meinungsbildung findet von Oben nach Unten statt. Die für diese Beeinflussung verwendeten Methoden sind auch bekannt und beschrieben (Astroturfing, Verschiebung des Overtone-Fensters, Nudging) und entsprechen nicht der Idee eines demorkatischen Prozesses.
 
-Das ist natürlich eine "Rechte Verschwörungstheorie", oder? Naja: Die Linke Ikone Noam Chomsky hat diesen Prozess bereits vor 35 Jahren in seinem Buch https://de.wikipedia.org/wiki/Manufacturing_Consent:_The_Political_Economy_of_the_Mass_Media[Manufacturing Consent (1988)] beschrieben - heute teilt er gegen Ungeimpfte aus.footnote:aggitation[] Damals sah sich die Linke noch als Opfer dieser Mechanismen - Eine Generation später stecken eben jene Linke jeden, der heute auf ebenjene Mechanismen hinweist in die Ecke der "Rechten Verschwörungstheoretiker". Tempora mutantur!
-
 *Gremien*
 
 Die Beratergremien schlossen bislang kritische Stimmen aus (Im Dezember '21 beruft Olaf Scholz Hendrik Streeck in seinen "Expertenrat").
+
+*Wahrheitssysteme*
+
+Das ist natürlich eine "Rechte Verschwörungstheorie", oder? Naja: Die Linke Ikone Noam Chomsky hat diesen Prozess bereits vor 35 Jahren in seinem Buch https://de.wikipedia.org/wiki/Manufacturing_Consent:_The_Political_Economy_of_the_Mass_Media[Manufacturing Consent (1988)] beschrieben - heute teilt er gegen Ungeimpfte aus.footnote:aggitation[] Damals sah sich die Linke noch als Opfer dieser Mechanismen - Eine Generation später stecken eben jene Linke jeden, der heute auf ebenjene Mechanismen hinweist in die Ecke der "Rechten Verschwörungstheoretiker". Tempora mutantur!
+
+Auf dem Höhepunkt der Ukraine-Kriese hielt Barack Obama eine Rede in West Point und https://kyleorton.co.uk/2014/05/28/obama-doubles-down-on-his-foreign-policy-at-west-point/[sagte]: “Our ability to shape world opinion helped isolate Russia right away” Hier spricht er aus, was meist als Verschwörungstheorie gilt: Mächtige Menschen manipulieren die öffentliche Meinung und orientieren sich dabei weniger an Wahrhaftigkeit, denn an ihrem eigenen Vorteil.
 
 _Der Sinn des Helmut Schmidt Zitates, das diesem Text voransteht erschließt sich nun. Wer die Autorität hat, den Diskurs zu beschneiden, Einfluss auf die Besetzung von Beratergremien zu nehmen und Medienkampagnen loszutreten, kann "Consent" organisieren und damit die Politik, die ja von Zustimmung abhängt, vor sich hertreiben. Dieser Mechanismus hebelt unseren demokratischen Rechtsstaat aus._
 
@@ -153,10 +157,13 @@ image::./images/ungeimpfte-spdwaehler.png[width=30%,align="center"]
 
 === Es ist moralisch geboten, unbequeme Fragen zu stellen
 
-Eine rethorische Figur zum Diskussions-Abbruch mit der ich konfrontiert bin, ist das "getriggert" seien. Manche Zeitgenossen ertragen meine Meinung nicht. Nun kann ich sogar nachvollziehen, dass es für einen Betroffenen schwer seien kann, wenn seine Beschwerden verharmlost werden, daher:
+Eine rethorische Figur zum Diskussions-Abbruch mit der ich konfrontiert bin, ist das "getriggert" seien. Manche Zeitgenossen ertragen meine Meinung nicht. Nun kann ich sogar nachvollziehen, dass es für einen Betroffenen schwer seien kann, wenn seine Beschwerden verharmlost werden.
+
+* Ich habe Respekt davor, dass die Menschen Angst vor Corona entwickelt haben - angesichts der medialen Panikmache werfe ich das niemandem vor. Ich habe diesen Menschen immer signalisiert, dass ich sie ernst nehme. Im Gegenzug fordere ich aber, dass auch meine Ängste vor der Impfung ernstgenommen und respektiert werden.
+
+* Ich bekomme häufig zu hören: "Du mit Deinen Zahlen"
 
 Wenn ich die Krankheit Corona relativiere
-
 
 - wenn man sich aber um diese Abwägung "drückt" riskiert man, dass unkontrolliert an anderer Stelle Schaden entsteht.
 Auch Opfer von Impfschäden haben Anspruch auf Verständnis, und auch Mitmenschen, die "nur" durch Einschränkung ihrer Grundrechte betroffen sind haben einen Anspruch darauf, dass die Maßnahmen auf Verhältnismäßigkeit geprüft werden.
