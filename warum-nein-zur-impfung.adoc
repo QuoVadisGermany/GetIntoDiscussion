@@ -75,7 +75,7 @@ image::./images/false_balance.png[width=50%,align="center"]
 
 Dieses Argument wird genutzt, um misliebige Positionen vom Diskurs auszuschließen, z.B. https://www.focus.de/kultur/medien/attackiert-virologen-streeck-und-kekule-durchtraenkt-von-menschenfeindlichkeit-boehmermann-geht-lanz-wegen-gaeste-wahl-an_id_20920311.html[von Herrn Böhmermann] im Video https://www.youtube.com/watch?v=kArDFWTH2wE[hier]). Es ist aus mehreren Gründen absurd:
 
-* Zunächst zeugt das Beispiel von wissenschaftshistorischer Unkenntnis. Das Aussehen des Flat-Earthlers in der Karikatur verweist auf das Mittelalter, die Kugelgestalt der Erde war allerdings bereits in der Antike bekannt und es gibt keinen Beleg für das häufig geäußerte Vorurteil, dass diese im Mittelalter vergessen war. Es steht zu vermuten, dass eine Verwechselung mit der Überwindung des heliozentrischem Weltbildes durch Nikolaus Kopernikus und Galileo Galilei vorliegt.
+* Zunächst zeugt das Beispiel von wissenschaftshistorischer Unkenntnis. Das Aussehen des Flat-Earthlers in der Karikatur verweist auf das Mittelalter, die Kugelgestalt der Erde war allerdings bereits in der Antike bekannt und es gibt keinen Beleg für das häufig geäußerte Vorurteil, dass diese im Mittelalter vergessen war. Es steht zu vermuten, dass der Widertand um das heliozentrischem Weltbildes von Nikolaus Kopernikus und Galileo Galilei gemeint war.
 
 * Es stellt sich die Frage, wer beurteilen darf, welche Theorien als abseitig vom Diskurs ausgeschlossen wird. Wissenschafticher Fortschritt war in der Vergangenheit immer zunächst eine Minderheitenmeinung. Nikolaus Kopernikus und Galileo Galilei im obigen Beispiel standen gegen die Mehrheitsmeinung und die Vertreter des "False Balance"-Argumentes stehen in der Tradition der sie drangsalierenden Inquisition und nicht in der Tradition von Fortschritt und Aufklärung.
 
@@ -120,7 +120,7 @@ Ich nehme mir die Frechheit heraus, meine Informationsquellen selbst zu wählen 
 
 _Der Diskurs wurde von vergiftet und das war kein zufälliger Prozess, sondern entspricht der Strategie von Politik und Medien. Hätten diese die Argumente zur Hand, die ihr Narrativ stützen, hätten sie dieses Vorgehen nicht nötig._
 
-=== Durch die gesteuerte Diskussion wird der demokratische Prozess unterlaufen
+=== Wenn unter dem Vorwurf des Populismus jegliche Bürgerbeteiligung eingezogen wird, ist unsere Demorkatie gefährdet
 
 *Astroturfing*
 
@@ -128,15 +128,28 @@ Die Mehrheiten werden heute durch mediales Trommelfeuer gebildet, nicht durch ei
 
 Die Meinungsbildung findet von Oben nach Unten statt. Die für diese Beeinflussung verwendeten Methoden sind auch bekannt und beschrieben (Astroturfing, Verschiebung des Overtone-Fensters, Nudging) und entsprechen nicht der Idee eines demorkatischen Prozesses.
 
-*Gremien*
-
-Die Beratergremien schlossen bislang kritische Stimmen aus (Im Dezember '21 beruft Olaf Scholz Hendrik Streeck in seinen "Expertenrat").
-
 *Wahrheitssysteme*
 
 Das ist natürlich eine "Rechte Verschwörungstheorie", oder? Naja: Die Linke Ikone Noam Chomsky hat diesen Prozess bereits vor 35 Jahren in seinem Buch https://de.wikipedia.org/wiki/Manufacturing_Consent:_The_Political_Economy_of_the_Mass_Media[Manufacturing Consent (1988)] beschrieben - heute teilt er gegen Ungeimpfte aus.footnote:aggitation[] Damals sah sich die Linke noch als Opfer dieser Mechanismen - Eine Generation später stecken eben jene Linke jeden, der heute auf ebenjene Mechanismen hinweist in die Ecke der "Rechten Verschwörungstheoretiker". Tempora mutantur!
 
 Auf dem Höhepunkt der Ukraine-Kriese hielt Barack Obama eine Rede in West Point und https://kyleorton.co.uk/2014/05/28/obama-doubles-down-on-his-foreign-policy-at-west-point/[sagte]: “Our ability to shape world opinion helped isolate Russia right away” Hier spricht er aus, was meist als Verschwörungstheorie gilt: Mächtige Menschen manipulieren die öffentliche Meinung und orientieren sich dabei weniger an Wahrhaftigkeit, denn an ihrem eigenen Vorteil.
+
+*Populismus und Internet*
+
+Die hier geschilderte Steuerung der öffentlichen Meinung durch eine mächtige Elite in Medien und Politik ist auch deshalb keine Verschwörungstheorie, weil sie dem Selbstverständnis der alten Bundesrepublik entspricht. Ich habe in der Schule gelernt, dass man Volksabstimmungen auf Bundesebene aus der Erfahrung des 3. Reiches ablehnt - es gibt also in der Tat ein großes Misstrauen gegenüber dem Volk und die Vorstellung, dass man es anleiten müsse.
+
+
+*Die Besetzung von Gremien*
+
+Die Beratergremien schlossen bislang kritische Stimmen aus (Anmerkung: im Dezember '21 beruft Olaf Scholz Hendrik Streeck in seinen "Expertenrat"). Dies ist ein weiterer Punkt, der die Demokratie in Frage stellt. Politik wird nämlich nicht nur von gewählten Volksvertretern vorgegeben, in zunehmenden Maße wird diese Aufgabe an "Expertengremien" ausgelagert. Bei der Besetzung dieser Gremien wurden durch
+
+https://www.t-online.de/nachrichten/deutschland/id_90762290/virologe-drosten-soll-hendrik-streeck-mit-querdenkern-verglichen-haben.html
+
+
+
+
+sondern auch von der Führungsschicht der Bundesbehörden,
+
 
 _Der Sinn des Helmut Schmidt Zitates, das diesem Text voransteht erschließt sich nun. Wer die Autorität hat, den Diskurs zu beschneiden, Einfluss auf die Besetzung von Beratergremien zu nehmen und Medienkampagnen loszutreten, kann "Consent" organisieren und damit die Politik, die ja von Zustimmung abhängt, vor sich hertreiben. Dieser Mechanismus hebelt unseren demokratischen Rechtsstaat aus._
 
@@ -150,7 +163,7 @@ In der aktuellen Debatte hat sich die BILD Zeitung zeitweise als der Querdenkerv
 
 Die Ungeimpften sind ja keine kleine Minderheit (vgl. <<ungeimpftespdwaehler>>), dennoch sind sie in Talkshows, Politischen Diskussionsrunden, Presseartikeln bestenfalls Objekt der Betrachtung, jedoch nicht Subjekt.
 
-.Meme das das Reden von der Kleinen Minderheit der Ungeimpften hinterfragt
+.Meme welches das Reden von der Kleinen Minderheit der Ungeimpften hinterfragt
 [#ungeimpftespdwaehler,reftext='{figure-caption} {counter:refnum}']
 image::./images/ungeimpfte-spdwaehler.png[width=30%,align="center"]
 
